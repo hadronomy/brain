@@ -1,3 +1,2 @@
-## Usage
+## Shell code not being syntax highlighted in read view
 
-The same as standard markdown just write 
