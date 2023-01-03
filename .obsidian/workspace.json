@@ -62,13 +62,13 @@
               "type": "markdown",
               "state": {
                 "file": "Notetaking in Obsidian.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Singletons in C++.md",
+                "file": "Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Singletons in C++.md",
+                "file": "Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Singletons in C++.md"
+                "file": "Notetaking in Obsidian.md"
               }
             }
           }
@@ -197,10 +197,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fbd5e751b211f838",
+  "active": "5dd49d5c9f215b5d",
   "lastOpenFiles": [
-    "Notetaking in Obsidian.md",
     "Singletons in C++.md",
+    "Notetaking in Obsidian.md",
     "Using Codeblocks.md",
     "Backup Obsidian Using Git.md",
     "Use Emojis In Obsidian.md",

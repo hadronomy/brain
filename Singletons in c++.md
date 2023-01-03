@@ -1,6 +1,3 @@
----
-hey: fuck
----
 #programming #cpp
 
 ```cpp
