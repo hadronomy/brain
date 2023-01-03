@@ -1,4 +1,4 @@
-#git #obsidian #notes #docs 
+#git #obsidian #notes #docs #config 
 
 > This will also backup your editor config
 

@@ -9,6 +9,6 @@ list with from #obsidian and #config
 ## Workflow
 
 ```dataview
-list with from #obsidian and #config 
+list with from #obsidian and #workflow 
 ```
 
