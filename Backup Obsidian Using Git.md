@@ -10,7 +10,9 @@ Go to [Github](htttps://github.com) and create a new repository and **copy the s
 
 ## Init a new git repo
 
-
+```bash
+cd your-vault-directory-path
+```
 
 ```bash
 git init
