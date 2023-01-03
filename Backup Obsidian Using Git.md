@@ -8,7 +8,7 @@ Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 
 ## Create github repo
 
-Go to [Github](htttps://github.com) and create a new repository and **copy the ssh link**
+Go to [Github](htttps://github.com), create a new repository and **copy the ssh link**
 
 ## Init a new git repo
 
