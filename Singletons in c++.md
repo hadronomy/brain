@@ -1,5 +1,4 @@
 ```cpp
-
 class Singleton {
  public:
   inline static Singleton& GetInstance() {
@@ -8,7 +7,9 @@ class Singleton {
   }
 
   Singleton(const Singleton&) = delete;
-  void operator =(const )
+  void operator =(const Singleton&) = delete;
+  
+ private:
+  Shell() = default;
 };
-
 ```
