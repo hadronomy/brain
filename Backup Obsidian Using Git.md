@@ -2,10 +2,11 @@
 
 ### Install `obsidian-git` Community Plugin
 
-[Obsidian Git](obsidian://show-plugin?id=obsidian-git)
+Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 
 ### Init a new git repo
 
+Using the terminal
 ```sh
 git init
 ```
