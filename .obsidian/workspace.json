@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90240cd7b51ae4c7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "fbfec6ce629ce155",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 315.54531859167486,
-                  "y": 28.158826937544053,
-                  "zoom": -1.3333333333333333,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
             "id": "599e08ef5fcc015b",
             "type": "leaf",
             "state": {
@@ -192,8 +160,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fbfec6ce629ce155",
+  "active": "7f7be562cab6f064",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Backup Obsidian Using Git.md",
     "Notetaking in Obsidian.md",
     "README.md",
@@ -201,7 +170,6 @@
     "Obsidian.md",
     "Hello/Fuck.md",
     "Hello/Fuck me.md",
-    "2023-01-03.md",
-    "Untitled.canvas"
+    "2023-01-03.md"
   ]
 }
