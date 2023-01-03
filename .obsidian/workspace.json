@@ -56,6 +56,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Use Emojis In Obsidian.md",
+                "file": "Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Use Emojis In Obsidian.md",
+                "file": "Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Use Emojis In Obsidian.md"
+                "file": "Notetaking in Obsidian.md"
               }
             }
           }
@@ -184,7 +185,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "599e08ef5fcc015b",
+  "active": "5dd49d5c9f215b5d",
   "lastOpenFiles": [
     "Using Codeblocks.md",
     "Use Emojis In Obsidian.md",

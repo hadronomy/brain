@@ -3,8 +3,9 @@
 ## Configuration
 
 ```dataview
-list from ""
+list with 
 ```
+
 
 ## Workflow
 
