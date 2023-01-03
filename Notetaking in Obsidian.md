@@ -6,10 +6,6 @@
 list with from "" where "tag == notes"
 ```
 
-
-
-
-
 ## Workflow
 
 
