@@ -20,79 +20,7 @@
             }
           },
           {
-            "id": "e795a63eb9b64955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notetaking in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e84b2d5f1affda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup Obsidian Using Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54cf52139efb6354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup Obsidian Using Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63b560150c0d2e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notetaking in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "568ca8ae8b03157f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0494cb0bb0091931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notetaking in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5b2cbc7342646f2",
+            "id": "365d40fada514a9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -171,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notetaking in Obsidian.md",
+                "file": "Backup Obsidian Using Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notetaking in Obsidian.md",
+                "file": "Backup Obsidian Using Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notetaking in Obsidian.md"
+                "file": "Backup Obsidian Using Git.md"
               }
             }
           }
@@ -233,11 +160,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b5b2cbc7342646f2",
+  "active": "90240cd7b51ae4c7",
   "lastOpenFiles": [
-    "README.md",
     "Notetaking in Obsidian.md",
     "Backup Obsidian Using Git.md",
+    "README.md",
     "Obsidian.md",
     "Hello/Fuck.md",
     "Hello/Fuck me.md",
