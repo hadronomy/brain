@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "365d40fada514a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notetaking in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -142,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +147,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "90240cd7b51ae4c7",
+  "active": "ca3a12cf150f3d69",
   "lastOpenFiles": [
     "Notetaking in Obsidian.md",
     "Backup Obsidian Using Git.md",
