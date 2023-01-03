@@ -3,8 +3,11 @@
 ## Configuration
 
 ```dataview
-list with 
+list with from "" where "tag == notes"
 ```
+
+
+
 
 
 ## Workflow
