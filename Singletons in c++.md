@@ -2,7 +2,10 @@
 
 class Singleton {
  public:
-  inline static Singleton& GetInstanc
+  inline static Singleton& GetInstance() {
+    static Singleton* instance;
+    return static_cast<Shell&>(*instance);
+  }
 };
 
 ```
