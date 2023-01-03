@@ -10,7 +10,7 @@ Go to [Github](htttps://github.com) and create a new repository and **copy the s
 
 ## Init a new git repo
 
-```sh
+```bash
 git init
 ```
 
@@ -19,18 +19,22 @@ git init
 
 ## Add remote
 
-```sh
+```bash
 git remote add origin git@github.com:your-user/your-repo.git
 ```
 
 ## First commit
 
-```sh
+```bash
 git add .
 ```
 
-```sh
+```bash
 git commit -m "First commit"
 ```
 
 ## Push
+
+```bash
+git push -u origin master
+```
