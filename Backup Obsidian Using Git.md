@@ -17,8 +17,11 @@ git init
 > You can also initialize a new repo using the `/`  commands
 > `GitInit`
 
+
 ## Add remote
 
 ```sh
 git remote add origin git@github.com:your-user/your-repo.git
 ```
+
+## Push
