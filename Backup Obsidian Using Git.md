@@ -1,5 +1,7 @@
 #git #obsidian #notes #docs 
 
+> I
+
 ## Install `obsidian-git` Community Plugin
 
 Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
