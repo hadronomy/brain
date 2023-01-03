@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Singletons in c++.md",
                 "mode": "preview",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Singletons in c++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Singletons in c++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup Obsidian Using Git.md"
+                "file": "Singletons in c++.md"
               }
             }
           }
@@ -187,10 +187,10 @@
   },
   "active": "fbd5e751b211f838",
   "lastOpenFiles": [
+    "Backup Obsidian Using Git.md",
     "Using Codeblocks.md",
     "Notetaking in Obsidian.md",
     "Singletons in c++.md",
-    "Backup Obsidian Using Git.md",
     "Use Emojis In Obsidian.md",
     "Untitled.canvas",
     "README.md",

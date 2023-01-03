@@ -4,7 +4,7 @@
 class Singleton {
  public:
   inline static Singleton& GetInstance() {
-    static Singleton* instance;
+    static Singleton instance;
     return static_cast<Shell&>(*instance);
   }
 
