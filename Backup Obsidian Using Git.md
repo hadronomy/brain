@@ -4,6 +4,10 @@
 
 Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 
+## Create github repo
+
+Go to [Github](htttps://github.com) and create a new repository and **copy the ssh link**
+
 ## Init a new git repo
 
 ```sh
@@ -13,8 +17,8 @@ git init
 > You can also initialize a new repo using the `/`  commands
 > `GitInit`
 
-## Create github repo
+## Add remote
 
-Go to [Github](htttps://github.com) and create a new repository and **copy the ssh link**
-
-##
+```sh
+git remote add origin git@github.com:your-user/obsidian-vault.git
+```
