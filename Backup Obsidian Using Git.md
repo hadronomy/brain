@@ -1,6 +1,6 @@
 #git #obsidian #notes #docs 
 
-### Install `obsidian-git` Community Plugin
+## Install `obsidian-git` Community Plugin
 
 Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 
@@ -11,6 +11,6 @@ git init
 ```
 
 > You can also initialize a new repo using the `/`  commands
-> `Obsidian Git `
-/Obsidian
-![[Pasted image 20230103085237.png]]
+> `GitInit`
+
+##
