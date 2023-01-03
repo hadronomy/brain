@@ -3,9 +3,12 @@
 ## Configuration
 
 ```dataview
-list with from "" where "tag == notes"
+list with from #obsidian and #config 
 ```
 
 ## Workflow
 
+```dataview
+list with from #obsidian and #config 
+```
 
