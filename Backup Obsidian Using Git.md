@@ -15,4 +15,6 @@ git init
 
 ## Create github repo
 
-Go to [Github]()
+Go to [Github](htttps://github.com) and create a new repository and **copy the ssh link**
+
+##
