@@ -25,4 +25,4 @@ git remote add origin git@github.com:your-user/your-repo.git
 
 ## First commit
 
-/to
+/
