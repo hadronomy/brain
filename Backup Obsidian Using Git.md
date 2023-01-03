@@ -2,7 +2,9 @@
 
 ### Git Backup obsidian plugin
 
-[obsidian://show-plugin?id=obsidian-git]()
+[](obsidian://show-plugin?id=obsidian-git)
+
+
 
 ### Init a new git repo
 
