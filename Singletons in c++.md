@@ -19,4 +19,9 @@ class Singleton {
 We delegate the external construction of the class to the `GetInstance()` function.
 This way we ensure that there's only one instance of the `Singleton` class.
 
-For this to be enforced is also required to **delete** the `Copy` constructor and the `Move` operator. Additionaly the default constructor has to be hidden.
+For this to be enforced is also required to **delete** the `Copy` constructor and the `Move` operator. 
+
+
+Additionaly the `default constructor` has to be hidden from external access.
+```s
+```
