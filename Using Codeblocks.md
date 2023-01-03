@@ -1,4 +1,4 @@
-#docs #obsidian #notes 
+#docs #obsidian #notes #workflow
 
 ## Errors
 ### Shell code not being syntax highlighted in read view

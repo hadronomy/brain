@@ -1,3 +1,4 @@
+#docs $
 ## Install `Emoji Shortcodes`
 
 This plugin will allow you to use emojis by writting `::`
