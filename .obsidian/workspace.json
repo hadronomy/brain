@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notetaking in Obsidian.md",
+                "file": "Use Emojis In Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Use Emojis In Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Use Emojis In Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup Obsidian Using Git.md"
+                "file": "Use Emojis In Obsidian.md"
               }
             }
           }
@@ -160,11 +159,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7f7be562cab6f064",
+  "active": "599e08ef5fcc015b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Backup Obsidian Using Git.md",
     "Notetaking in Obsidian.md",
+    "Backup Obsidian Using Git.md",
+    "Untitled.canvas",
     "README.md",
     "Configure obsidian-git.png",
     "Obsidian.md",
