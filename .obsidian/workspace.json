@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Backup Obsidian Using Git.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,7 +147,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "90240cd7b51ae4c7",
   "lastOpenFiles": [
     "Notetaking in Obsidian.md",
     "Backup Obsidian Using Git.md",
