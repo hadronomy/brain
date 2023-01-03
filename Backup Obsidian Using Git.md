@@ -20,5 +20,5 @@ git init
 ## Add remote
 
 ```sh
-git remote add origin git@github.com:your-user/obsidian-vault.git
+git remote add origin git@github.com:your-user/your-repo.git
 ```

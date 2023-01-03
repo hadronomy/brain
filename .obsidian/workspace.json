@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Hey.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Hey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Hey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup Obsidian Using Git.md"
+                "file": "Hey.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "90240cd7b51ae4c7",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "Backup Obsidian Using Git.md",
     "Notetaking in Obsidian.md",
     "Obsidian.md",
-    "Backup Obsidian Using Git.md",
     "Hello/Fuck.md",
     "Hello/Fuck me.md",
     "2023-01-03.md",
