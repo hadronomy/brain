@@ -1,8 +1,7 @@
-#git #obsidian #notes 
+#git #obsidian #notes #docs 
 
-### Git Backup Obsidian Plugin
+### Install `obsidian-git` Community Plugin
 
-Install `obsidian-git` community plugin
 [Obsidian Git](obsidian://show-plugin?id=obsidian-git)
 
 ### Init a new git repo
