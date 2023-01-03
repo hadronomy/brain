@@ -41,3 +41,6 @@ git push -u origin master
 
 ## Configure `obsidian-git`
 
+Set `Vault backup interval (minutes)` to anyth
+
+![[Pasted image 20230103100713.png]]
