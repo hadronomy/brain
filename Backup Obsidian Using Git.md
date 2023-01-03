@@ -41,6 +41,8 @@ git push -u origin master
 
 ## Configure `obsidian-git`
 
-Set `Vault backup interval (minutes)` to anyth
+- Set `Vault backup interval (minutes)` to anything you like. This will define how often obsidian pushes changes to github.
+- Set `Vault backup`
+
 
 ![[Pasted image 20230103100713.png]]
