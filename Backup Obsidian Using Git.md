@@ -10,6 +10,7 @@ Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 git init
 ```
 
-> You can also initialize a new repo using the `Git`
-
+> You can also initialize a new repo using the `/`  commands
+> `Obsidian Git `
+/Obsidian
 ![[Pasted image 20230103085237.png]]
