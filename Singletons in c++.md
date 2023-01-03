@@ -6,6 +6,9 @@ class Singleton {
     static Singleton* instance;
     return static_cast<Shell&>(*instance);
   }
+
+  Singleton(const Singleton&) = delete;
+  void operator =(const )
 };
 
 ```
