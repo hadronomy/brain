@@ -4,7 +4,7 @@
 
 Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 
-### Init a new git repo
+## Init a new git repo
 
 ```sh
 git init
@@ -13,4 +13,6 @@ git init
 > You can also initialize a new repo using the `/`  commands
 > `GitInit`
 
-##
+## Create github repo
+
+Go to [Github]()
