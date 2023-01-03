@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Notetaking in Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup Obsidian Using Git.md",
+                "file": "Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup Obsidian Using Git.md"
+                "file": "Notetaking in Obsidian.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "e795a63eb9b64955",
   "lastOpenFiles": [
-    "Notetaking in Obsidian.md",
     "Backup Obsidian Using Git.md",
+    "Notetaking in Obsidian.md",
     "README.md",
     "Obsidian.md",
     "Hello/Fuck.md",
