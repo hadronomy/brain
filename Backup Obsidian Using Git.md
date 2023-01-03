@@ -25,5 +25,12 @@ git remote add origin git@github.com:your-user/your-repo.git
 
 ## First commit
 
+```sh
+git add .
 ```
+
+```sh
+git commit -m "First commit"
 ```
+
+## Push
