@@ -38,3 +38,6 @@ git commit -m "First commit"
 ```bash
 git push -u origin master
 ```
+
+## Configure `obsidian-git`
+
