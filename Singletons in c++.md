@@ -13,3 +13,7 @@ class Singleton {
   Shell() = default;
 };
 ```
+
+## Delegate construction
+
+We delegate the external construction of the class to the `GetInstance()` function.
