@@ -45,4 +45,4 @@ git push -u origin master
 - Set `Auto pull interval (minutes)` to anything you like. This will define how often obsidian pulls changes from github. **
 
 
-![[Pasted image 20230103100713.png]]
+![[Configure obsidian-git.png]]
