@@ -14,12 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Backup Obsidian Using Git.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
