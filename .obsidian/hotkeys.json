@@ -1,3 +1,10 @@
 {
-  "window:reset-zoom": []
+  "window:reset-zoom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
 }
