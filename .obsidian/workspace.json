@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "6a305c93e47f0eac",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "d43621f0b7255ce4",
             "type": "leaf",
             "state": {
@@ -40,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -107,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md",
+                "file": "obsidian/Use Emojis In Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md",
+                "file": "obsidian/Use Emojis In Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md"
+                "file": "obsidian/Use Emojis In Obsidian.md"
               }
             }
           }
@@ -169,7 +160,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d43621f0b7255ce4",
+  "active": "599e08ef5fcc015b",
   "lastOpenFiles": [
     "obsidian/Notetaking in Obsidian.md",
     "obsidian/Configure obsidian-git.png",
