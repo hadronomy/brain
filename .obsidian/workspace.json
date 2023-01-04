@@ -28,6 +28,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/Notetaking in Obsidian.md"
+              }
             }
           }
         ],
@@ -152,7 +157,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "d43621f0b7255ce4",
   "lastOpenFiles": [
     "Obsidian/Using Codeblocks.md",
     "Untitled.md",
