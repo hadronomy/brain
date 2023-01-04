@@ -1,8 +1,6 @@
 #docs #notes #obsidian
 
-## `hey`
-
-
+# Hey `hey fucker`
 
 ## Configuration
 
