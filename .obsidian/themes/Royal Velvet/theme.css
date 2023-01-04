@@ -348,6 +348,7 @@ code,
 .markdown-rendered h1 code,
 .markdown-rendered h2 code,
 .markdown-rendered h3 code {
+  font-size: var();
   color: var(--code-normal);
   background-color: var(--blackSecondary);
   -webkit-text-fill-color: var(--text-normal);
