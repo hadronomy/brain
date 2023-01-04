@@ -50,6 +50,6 @@ git push -u origin master
 ## Configure `obsidian-git`
 
 - Set `Vault backup interval (minutes)` to anything you like. This will define how often obsidian pushes changes to github. *Setting it to 0 will disable this functionality*
-- Set `Auto pull interval (minutes)` to anything you like. This will define how often obsidian pulls changes from github. *Setting it to 0 will disable this functionality
+- Set `Auto pull interval (minutes)` to anything you like. This will define how often obsidian pulls changes from github. *Setting it to 0 will disable this functionality*
 
 ![[Configure obsidian-git.png]]
