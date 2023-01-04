@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Using Dataview.md",
-                "mode": "source",
+                "file": "obsidian/Notetaking in Obsidian.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Using Dataview.md",
+                "file": "obsidian/Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Using Dataview.md",
+                "file": "obsidian/Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Using Dataview.md"
+                "file": "obsidian/Notetaking in Obsidian.md"
               }
             }
           }
@@ -161,12 +161,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "d43621f0b7255ce4",
   "lastOpenFiles": [
+    "obsidian/Using Dataview.md",
     "obsidian/Backup Obsidian Using Git.md",
     "obsidian/Use Emojis In Obsidian.md",
     "obsidian/Using Codeblocks.md",
-    "obsidian/Using Dataview.md",
     "obsidian/Notetaking in Obsidian.md",
     "misc/Singletons in C++.md",
     "Untitled.canvas",
