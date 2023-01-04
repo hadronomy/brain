@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian/Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian/Notetaking in Obsidian.md"
+              }
             }
           }
         ],
@@ -165,7 +169,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6a305c93e47f0eac",
+  "active": "d43621f0b7255ce4",
   "lastOpenFiles": [
     "obsidian/Notetaking in Obsidian.md",
     "obsidian/Configure obsidian-git.png",
