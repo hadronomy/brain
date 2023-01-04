@@ -1,8 +1,5 @@
 #docs #notes #obsidian
 
-### `hey`
-#### `hey`
-##### `hey`
 ## Configuration
 
 - [[Backup Obsidian Using Git]]
