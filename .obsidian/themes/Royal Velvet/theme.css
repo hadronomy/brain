@@ -360,7 +360,6 @@ code,
   color: var(--code-normal);
   background-color: var(--blackSecondary);
   -webkit-text-fill-color: var(--text-normal);
-  background-clip: unset;
   -webkit-background-clip: unset;
 }
 
