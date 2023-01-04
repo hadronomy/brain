@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Use Emojis In Obsidian.md",
+                "file": "obsidian/Use Emojis In Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Dataview.md",
+                "file": "obsidian/Using Dataview.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using Dataview.md",
+                "file": "obsidian/Using Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using Dataview.md",
+                "file": "obsidian/Using Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using Dataview.md"
+                "file": "obsidian/Using Dataview.md"
               }
             }
           }
@@ -161,17 +161,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d43621f0b7255ce4",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
-    "Backup Obsidian Using Git.md",
-    "Use Emojis In Obsidian.md",
-    "Using Codeblocks.md",
-    "Using Dataview.md",
-    "Notetaking in Obsidian.md",
-    "Singletons in C++.md",
+    "obsidian/Backup Obsidian Using Git.md",
+    "obsidian/Use Emojis In Obsidian.md",
+    "obsidian/Using Codeblocks.md",
+    "obsidian/Using Dataview.md",
+    "obsidian/Notetaking in Obsidian.md",
+    "misc/Singletons in C++.md",
     "Untitled.canvas",
     "README.md",
-    "Configure obsidian-git.png",
+    "obsidian/Configure obsidian-git.png",
     "Obsidian.md"
   ]
 }
