@@ -2,9 +2,8 @@
 
 ## Configuration
 
-```dataview
-LIST FROM #obsidian AND #config 
-```
+- [[Backup Obsidian Using Git]]
+- [[]]
 
 ## Workflow
 
