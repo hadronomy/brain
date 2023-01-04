@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +160,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "599e08ef5fcc015b",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
     "Obsidian/Backup Obsidian Using Git.md",
     "Obsidian/Notetaking in Obsidian.md",
