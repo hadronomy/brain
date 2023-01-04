@@ -30,8 +30,8 @@ SOFTWARE.
 
 :root {
   --default-font: "Fira Sans", "Inter", sans-serif; /*Note and Settings Text*/
-  --font-monospace: "Fira Code", "Source Code Pro", monospace; /*Code block text*
-  --inline-code-heading-font-size: ;
+  --font-monospace: "Fira Code", "Source Code Pro", monospace; /*Code block text*/
+  --inline-code-head
 
   --black: #21222c;
   --blackSecondary: #414558;
