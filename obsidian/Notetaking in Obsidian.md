@@ -1,3 +1,4 @@
+
 #docs #notes #obsidian
 
 ## Configuration
