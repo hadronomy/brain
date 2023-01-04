@@ -21,7 +21,8 @@ cd your-vault-directory-path
 git init
 ```
 
-> You can also initialize a new repo using the `/`  commands
+> [!NOTE]
+You can also initialize a new repo using the `/`  commands
 > `GitInit`
 
 ## Add remote
