@@ -132,7 +132,9 @@ body {
   font-family: var(--default-font);
 }
 
-
+.callout:not(.admonition).drop-shadow {
+  box-shadow: none;
+}
 
 .menu-item-icon {
   color: var(--cyan-600);
