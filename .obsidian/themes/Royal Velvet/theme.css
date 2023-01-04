@@ -346,6 +346,10 @@ code,
 .markdown-preview-view h4 code,
 .markdown-preview-view h5 code,
 .markdown-preview-view h6 code {
+  
+}
+
+.markdown-rendered code {
   background-color: #414558;
 }
 
