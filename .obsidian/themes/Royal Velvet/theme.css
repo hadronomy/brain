@@ -340,9 +340,9 @@ code,
 }
 
 /*--Inline code in headings--*/
-.markdown-rendered code h1,
-.markdown-rendered code h2,
-.markdown-rendered code h3 {
+.markdown-rendered h1 code,
+.markdown-rendered h2 code,
+.markdown-rendered h3 code {
   color: var(--code-normal);
   background-color: var(--blackSecondary);
   -webkit-text-fill-color: var(--text-normal);
