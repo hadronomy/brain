@@ -346,7 +346,8 @@ code,
 .markdown-preview-view h4 code,
 .markdown-preview-view h5 code,
 .markdown-preview-view h6 code {
-  background-color: unset;
+
+  color: #414558;
 }
 
 /*--Links--*/
