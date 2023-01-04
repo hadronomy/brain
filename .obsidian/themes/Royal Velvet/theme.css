@@ -132,7 +132,7 @@ body {
   font-family: var(--default-font);
 }
 
-.callout:not(.admonition).drop-shadow {
+.callout {
   box-shadow: none;
 }
 
