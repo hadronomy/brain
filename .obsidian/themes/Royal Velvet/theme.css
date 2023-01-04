@@ -31,7 +31,7 @@ SOFTWARE.
 :root {
   --default-font: "Fira Sans", "Inter", sans-serif; /*Note and Settings Text*/
   --font-monospace: "Fira Code", "Source Code Pro", monospace; /*Code block text*/
-  --inline-code-head
+  --inline-code-heading-font-size: calc(100% - 3px);
 
   --black: #21222c;
   --blackSecondary: #414558;
@@ -349,7 +349,7 @@ code,
 .markdown-rendered h1 code,
 .markdown-rendered h2 code,
 .markdown-rendered h3 code {
-  font-size: var();
+  font-size: var(--inline-code-heading-font-size);
   color: var(--code-normal);
   background-color: var(--blackSecondary);
   -webkit-text-fill-color: var(--text-normal);
