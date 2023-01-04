@@ -3,12 +3,13 @@
 ## Configuration
 
 ```dataview
-list with from #obsidian and #config 
+LIST FROM #obsidian AND #config 
 ```
 
 ## Workflow
 
 ```dataview
-list with from #obsidian and #workflow 
+LIST FROM #obsidian AND #workflow 
 ```
+
 
