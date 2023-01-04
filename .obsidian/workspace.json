@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notetaking in Obsidian.md",
+                "file": "Using Dataview.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notetaking in Obsidian.md",
+                "file": "Using Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notetaking in Obsidian.md",
+                "file": "Using Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notetaking in Obsidian.md"
+                "file": "Using Dataview.md"
               }
             }
           }
@@ -187,8 +187,8 @@
   },
   "active": "5dd49d5c9f215b5d",
   "lastOpenFiles": [
-    "Backup Obsidian Using Git.md",
     "Notetaking in Obsidian.md",
+    "Backup Obsidian Using Git.md",
     "Use Emojis In Obsidian.md",
     "Using Codeblocks.md",
     "Singletons in C++.md",
