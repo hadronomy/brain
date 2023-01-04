@@ -55,7 +55,10 @@ body {
   --pink-300: rgba(255, 128, 191, 0.3);
   --pink-400: rgba(255, 128, 191, 0.4);
   --pink-500: rgba(255, 128, 191, 0.5);
-  --pink-500: rgba(255, 128, 191, 0.6);
+  --pink-600: rgba(255, 128, 191, 0.6);
+  --pink-700: rgba(255, 128, 191, 0.7);
+  --pink-800: rgba(255, 128, 191, 0.7);
+  --pink-900: rgba(255, 128, 191, 0.7);
 
   --green: #8aff80;
   --greenSecondary: #d0ffcc;
@@ -113,7 +116,7 @@ body {
 
   --interactive-normal: var(--blackDark); /*Button Color*/
   --interactive-hover: var(--blackXDark); /*Button Hovered Color*/
-  --interactive-accent: var(--pink-400); /*Workspace Note Title Underline*/
+  --interactive-accent: var(--pink-800); /*Workspace Note Title Underline*/
   --interactive-accent-hover: var(--pinkSecondary); /*Menu Button Hover*/
   --interactive-success: var(--green);
 
