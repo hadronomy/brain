@@ -159,6 +159,10 @@ body {
   font-weight: 700;
 }
 
+.nav-file-title-content, .nav-folder-title-content {
+  over
+}
+
 .collapse-icon:hover {
   color: var(--pink);
 }
