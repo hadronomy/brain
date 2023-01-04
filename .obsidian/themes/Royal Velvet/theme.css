@@ -341,6 +341,7 @@ code,
 
 /*--inline code in headings--*/
 .markdown-rendered code {
+  color: var(--code-normal);
   background-color: var(--blackSecondary);
 }
 
