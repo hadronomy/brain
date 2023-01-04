@@ -366,8 +366,10 @@ code,
   color: var(--code-normal);
   background-image: none;
   border-radius: 5px;
-  padding-top: 4px;
-  padding-bottom: ;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
   background-color: var(--blackSecondary);
   -webkit-text-fill-color: var(--text-normal);
   -webkit-background-clip: unset;
