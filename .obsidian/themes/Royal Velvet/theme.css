@@ -360,7 +360,12 @@ code,
   -webkit-text-fill-color: var(--text-normal);
 }
 
-.cm-header-1
+.cm-header.cm-inline-code {
+  font-size: var(--inline-code-heading-font-size);
+  color: var(--code-normal);
+  background-color: var(--blackSecondary);
+  -webkit-text-fill-color: var(--text-normal);
+}
 
 
 
