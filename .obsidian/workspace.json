@@ -14,9 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian/Use Emojis In Obsidian.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f411ab5e5777df79",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -99,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian/Notetaking in Obsidian.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,13 +165,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d43621f0b7255ce4",
+  "active": "f411ab5e5777df79",
   "lastOpenFiles": [
+    "obsidian/Use Emojis In Obsidian.md",
+    "obsidian/Notetaking in Obsidian.md",
     "obsidian/Using Dataview.md",
     "obsidian/Backup Obsidian Using Git.md",
-    "obsidian/Use Emojis In Obsidian.md",
     "obsidian/Using Codeblocks.md",
-    "obsidian/Notetaking in Obsidian.md",
     "misc/Singletons in C++.md",
     "Untitled.canvas",
     "README.md",
