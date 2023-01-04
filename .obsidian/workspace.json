@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "6a305c93e47f0eac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "d43621f0b7255ce4",
             "type": "leaf",
             "state": {
@@ -44,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian/Notetaking in Obsidian.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,12 +177,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f411ab5e5777df79",
+  "active": "6a305c93e47f0eac",
   "lastOpenFiles": [
+    "obsidian/Notetaking in Obsidian.md",
     "obsidian/Configure obsidian-git.png",
     "obsidian/Backup Obsidian Using Git.md",
     "obsidian/Use Emojis In Obsidian.md",
-    "obsidian/Notetaking in Obsidian.md",
     "obsidian/Using Dataview.md",
     "obsidian/Using Codeblocks.md",
     "misc/Singletons in C++.md",
