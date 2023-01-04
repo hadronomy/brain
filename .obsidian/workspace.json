@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian/Using Codeblocks.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -40,7 +40,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Using Codeblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian/Using Codeblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian/Using Codeblocks.md"
+              }
             }
           }
         ],
@@ -165,8 +168,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "599e08ef5fcc015b",
   "lastOpenFiles": [
+    "Untitled.md",
     "obsidian/Using Codeblocks.md",
     "obsidian/Using Dataview.md",
     "obsidian/Use Emojis In Obsidian.md",
@@ -175,7 +179,6 @@
     "obsidian/Backup Obsidian Using Git.md",
     "misc/Singletons in C++.md",
     "Untitled.canvas",
-    "README.md",
-    "Obsidian.md"
+    "README.md"
   ]
 }
