@@ -3,12 +3,9 @@
 ## Configuration
 
 - [[Backup Obsidian Using Git]]
-- [[]]
+- [[Use Emojis In Obsidian]]
 
 ## Workflow
 
-```dataview
-LIST FROM #obsidian AND #workflow 
-```
-
-
+- [[Using Codeblocks]]
+- [[]]
