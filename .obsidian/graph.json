@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#cpp",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 6025580
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000064,
+  "scale": 1.4769860980686504,
   "close": true
 }
