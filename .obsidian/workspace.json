@@ -11,24 +11,15 @@
             "id": "599e08ef5fcc015b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d43621f0b7255ce4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Notetaking in Obsidian.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Notetaking in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Notetaking in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Obsidian/Notetaking in Obsidian.md"
               }
             }
           }
@@ -157,8 +148,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d43621f0b7255ce4",
+  "active": "0544316b4ce50eb8",
   "lastOpenFiles": [
+    "README.md",
     "Obsidian/Notetaking in Obsidian.md",
     "Obsidian/Using Codeblocks.md",
     "Untitled.md",
@@ -167,7 +159,6 @@
     "Obsidian/Configure obsidian-git.png",
     "Obsidian/Backup Obsidian Using Git.md",
     "Misc/Singletons in C++.md",
-    "Untitled.canvas",
-    "README.md"
+    "Untitled.canvas"
   ]
 }
