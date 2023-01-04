@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md",
+                "file": "Obsidian/Backup Obsidian Using Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md",
+                "file": "Obsidian/Backup Obsidian Using Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md"
+                "file": "Obsidian/Backup Obsidian Using Git.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "72fa14799127cd4f",
   "lastOpenFiles": [
-    "Obsidian/Backup Obsidian Using Git.md",
     "Obsidian/Notetaking in Obsidian.md",
+    "Obsidian/Backup Obsidian Using Git.md",
     "README.md",
     "Obsidian/Using Codeblocks.md",
     "Untitled.md",
