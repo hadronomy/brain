@@ -1,5 +1,6 @@
 #git #obsidian #notes #docs #config 
 
+> 
 > This will also backup your editor config
 
 ## Install `obsidian-git` Community Plugin
