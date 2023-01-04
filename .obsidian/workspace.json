@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian/Notetaking in Obsidian.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian/Backup Obsidian Using Git.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
