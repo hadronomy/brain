@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Notetaking in Obsidian.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,11 +159,11 @@
   },
   "active": "d43621f0b7255ce4",
   "lastOpenFiles": [
+    "Obsidian/Notetaking in Obsidian.md",
     "Obsidian/Using Codeblocks.md",
     "Untitled.md",
     "Obsidian/Using Dataview.md",
     "Obsidian/Use Emojis In Obsidian.md",
-    "Obsidian/Notetaking in Obsidian.md",
     "Obsidian/Configure obsidian-git.png",
     "Obsidian/Backup Obsidian Using Git.md",
     "Misc/Singletons in C++.md",
