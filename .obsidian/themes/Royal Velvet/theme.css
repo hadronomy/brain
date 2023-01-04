@@ -82,7 +82,7 @@ body {
   --background-secondary: var(--blackDark); /*Sidebar background*/
   --background-secondary-alt: var(--blackXDark); /*Sidebar Title background*/
 
-  /* --background-modifier-border: var(
+  --background-modifier-border: var(
     --blackDark
   ); /*Border outline of quotes, tables, line breaks*/
   --background-modifier-form-field: var(--pink-100);
