@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "154dd0c510497811",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "d43621f0b7255ce4",
             "type": "leaf",
             "state": {
@@ -32,6 +40,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "9ab8247dcc6e5572",
@@ -98,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Using Codeblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Using Codeblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian/Using Codeblocks.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,10 +165,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "599e08ef5fcc015b",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
-    "obsidian/Using Dataview.md",
     "obsidian/Using Codeblocks.md",
+    "obsidian/Using Dataview.md",
     "obsidian/Use Emojis In Obsidian.md",
     "obsidian/Notetaking in Obsidian.md",
     "obsidian/Configure obsidian-git.png",
