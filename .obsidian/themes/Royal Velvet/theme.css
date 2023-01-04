@@ -353,7 +353,9 @@ code,
 /*--Inline code in headings--*/
 .markdown-rendered h1 code,
 .markdown-rendered h2 code,
-.markdown-rendered h3 code {
+.markdown-rendered h3 code,
+.markdown-rendered h4 code,
+.markdown-rendered h5 code {
   font-size: var(--inline-code-heading-font-size);
   color: var(--code-normal);
   background-color: var(--blackSecondary);
