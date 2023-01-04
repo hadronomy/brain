@@ -365,7 +365,8 @@ code,
   font-size: var(--inline-code-heading-font-size);
   color: var(--code-normal);
   background-image: none;
-  border-radius: ;
+  border-radius: 5px;
+  padding: 4px, 80px;
   background-color: var(--blackSecondary);
   -webkit-text-fill-color: var(--text-normal);
   -webkit-background-clip: unset;
