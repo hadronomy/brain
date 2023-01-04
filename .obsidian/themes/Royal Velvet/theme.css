@@ -340,17 +340,8 @@ code,
 }
 
 /*--inline code in headings--*/
-.markdown-preview-view h1 code,
-.markdown-preview-view h2 code,
-.markdown-preview-view h3 code,
-.markdown-preview-view h4 code,
-.markdown-preview-view h5 code,
-.markdown-preview-view h6 code {
-  
-}
-
 .markdown-rendered code {
-  background-color: #414558;
+  background-color: var(--blackSecondary);
 }
 
 /*--Links--*/
