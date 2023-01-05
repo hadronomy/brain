@@ -1,4 +1,6 @@
-#programming #cpp
+#programming #cpp #design-pattern
+
+## Example
 
 ```cpp
 class Singleton {
