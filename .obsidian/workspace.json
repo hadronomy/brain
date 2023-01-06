@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Idea.md",
+                "file": "Yey.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Idea.md",
+                "file": "Yey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Idea.md",
+                "file": "Yey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Idea.md"
+                "file": "Yey.md"
               }
             }
           }
@@ -150,17 +149,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fe0aa24c8f2fafa8",
+  "active": "72fa14799127cd4f",
   "lastOpenFiles": [
-    "Diaries/Using Cygwin for your Windows Development Environment.md",
+    "Untitled.canvas",
     "Templates/Idea.md",
+    "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Misc/Singletons in C++.md",
     "2023-01-06.md",
     "Obsidian/Backup Obsidian Using Git.md",
     "Obsidian/Notetaking in Obsidian.md",
     "README.md",
     "Obsidian/Using Codeblocks.md",
-    "Untitled.md",
-    "Obsidian/Using Dataview.md"
+    "Untitled.md"
   ]
 }
