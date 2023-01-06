@@ -9,7 +9,7 @@ After the download finishes execute the installer.
 
 #### Select Packages
 
-In the *Select packages* 
+In the *Select packages* page, select the packages that you wanna install alongside *Cygwin*
 
 ## Chocolatey
 
