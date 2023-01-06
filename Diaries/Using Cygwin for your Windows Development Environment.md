@@ -9,6 +9,8 @@ After the download finishes execute the installer.
 
 #### Select Packages
 
+## Chocolatey
+
 ```bash
 choco install cygwin
 ```
