@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/Using Cygwin for your Windows Development Environment.md",
+                "file": "Templates/Idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diaries/Using Cygwin for your Windows Development Environment.md",
+                "file": "Templates/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diaries/Using Cygwin for your Windows Development Environment.md",
+                "file": "Templates/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diaries/Using Cygwin for your Windows Development Environment.md"
+                "file": "Templates/Idea.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "72fa14799127cd4f",
   "lastOpenFiles": [
+    "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Templates/Idea.md",
     "Misc/Singletons in C++.md",
     "2023-01-06.md",
     "Obsidian/Backup Obsidian Using Git.md",
-    "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Obsidian/Notetaking in Obsidian.md",
     "README.md",
     "Obsidian/Using Codeblocks.md",
