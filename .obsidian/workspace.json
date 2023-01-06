@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +150,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72fa14799127cd4f",
+  "active": "fe0aa24c8f2fafa8",
   "lastOpenFiles": [
     "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Templates/Idea.md",
