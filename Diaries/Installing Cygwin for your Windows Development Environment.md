@@ -2,4 +2,7 @@
 
 ## Download & Install
 
-Go to [Cygwin]()
+Go to [Cygwin](https://cygwin.com/cygwin/install.html) and download the installer.
+After it finishes 
+
+
