@@ -9,7 +9,7 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "attachmentFolderPath": "Files",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "spellcheck": true,
   "spellcheckLanguages": [
     "es",

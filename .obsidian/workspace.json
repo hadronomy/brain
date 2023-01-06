@@ -11,8 +11,12 @@
             "id": "72fa14799127cd4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Idea.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Idea.md"
+              }
             }
           }
         ],
@@ -145,13 +153,13 @@
   "lastOpenFiles": [
     "Misc/Singletons in C++.md",
     "Templates/Idea.md",
+    "Zettlecasten.md",
     "Yey.md",
     "Untitled.canvas",
     "Diaries/Using Cygwin for your Windows Development Environment.md",
     "2023-01-06.md",
     "Obsidian/Backup Obsidian Using Git.md",
     "Obsidian/Notetaking in Obsidian.md",
-    "README.md",
-    "Obsidian/Using Codeblocks.md"
+    "README.md"
   ]
 }
