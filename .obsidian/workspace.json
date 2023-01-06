@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md",
-                "mode": "source",
+                "file": "Misc/Singletons in C++.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md",
+                "file": "Misc/Singletons in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md",
+                "file": "Misc/Singletons in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md"
+                "file": "Misc/Singletons in C++.md"
               }
             }
           }
@@ -152,14 +152,14 @@
   "active": "72fa14799127cd4f",
   "lastOpenFiles": [
     "Templates/Idea Template.md",
-    "Diaries/Using Cygwin for your Windows Development Environment.md",
+    "2023-01-06.md",
     "Obsidian/Backup Obsidian Using Git.md",
+    "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Misc/Singletons in C++.md",
     "Obsidian/Notetaking in Obsidian.md",
     "README.md",
     "Obsidian/Using Codeblocks.md",
     "Untitled.md",
-    "Obsidian/Using Dataview.md",
-    "Obsidian/Use Emojis In Obsidian.md"
+    "Obsidian/Using Dataview.md"
   ]
 }
