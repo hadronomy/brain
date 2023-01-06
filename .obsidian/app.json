@@ -14,5 +14,6 @@
   "spellcheckLanguages": [
     "es",
     "en"
-  ]
+  ],
+  "showInlineTitle": false
 }
