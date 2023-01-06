@@ -23,6 +23,8 @@ class Singleton {
 We delegate the external construction of the class to the `GetInstance()` function.
 This way we ensure that there's only one instance of the `Singleton` class.
 
+[[Zettlecasten]]
+
 ```cpp
 public:
   inline static Singleton& GetInstance() {
