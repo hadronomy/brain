@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Singletons in C++.md",
-                "mode": "preview",
+                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Singletons in C++.md",
+                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Singletons in C++.md",
+                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Singletons in C++.md"
+                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md"
               }
             }
           }
@@ -161,8 +161,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "599e08ef5fcc015b",
   "lastOpenFiles": [
+    "Misc/Singletons in C++.md",
     "Obsidian/Notetaking in Obsidian.md",
     "Obsidian/Backup Obsidian Using Git.md",
     "README.md",
@@ -171,7 +172,6 @@
     "Obsidian/Using Dataview.md",
     "Obsidian/Use Emojis In Obsidian.md",
     "Files/Configure obsidian-git.png",
-    "Misc/Singletons in C++.md",
     "Untitled.canvas"
   ]
 }
