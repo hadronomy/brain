@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettelcasten",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fe0aa24c8f2fafa8",
+  "active": "72fa14799127cd4f",
   "lastOpenFiles": [
     "Obsidian/Using Codeblocks.md",
     "Templates/Idea.md",
