@@ -8,5 +8,7 @@
   },
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "showFrontmatter": false,
+  "spellcheck": true
 }
