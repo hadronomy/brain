@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md",
+                "file": "Diaries/Using Cygwin for your Windows Development Environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md",
+                "file": "Diaries/Using Cygwin for your Windows Development Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md",
+                "file": "Diaries/Using Cygwin for your Windows Development Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diaries/Installing Cygwin for your Windows Development Environment.md"
+                "file": "Diaries/Using Cygwin for your Windows Development Environment.md"
               }
             }
           }
