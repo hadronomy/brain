@@ -10,5 +10,9 @@
   "defaultViewMode": "preview",
   "attachmentFolderPath": "Files",
   "showFrontmatter": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es",
+    "en"
+  ]
 }
