@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04338fd9c382c695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md",
+                "file": "Templates/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md",
+                "file": "Templates/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Backup Obsidian Using Git.md"
+                "file": "Templates/Idea.md"
               }
             }
           }
@@ -162,10 +174,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "04338fd9c382c695",
   "lastOpenFiles": [
-    "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Obsidian/Backup Obsidian Using Git.md",
+    "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Misc/Singletons in C++.md",
     "Obsidian/Notetaking in Obsidian.md",
     "README.md",
