@@ -1,4 +1,4 @@
 ---
-tags: [[# Zettelkasten]]
+tags: [[Zettelkasten]]
 ---
 
