@@ -1,7 +1,5 @@
 #git #obsidian #notes #docs #config 
 
-#
-
 > [!note]
 > This will also backup your editor config
 
@@ -9,11 +7,11 @@
 
 Open [Obsidian Git](obsidian://show-plugin?id=obsidian-git) and click `Install`
 
-## Create github repo
+## Create Github Repo
 
 Go to [Github](htttps://github.com), create a new repository and **copy the ssh link**
 
-## Init a new git repo
+## Init a New Git Repo
 
 ```bash
 cd your-vault-directory-path
@@ -27,13 +25,13 @@ git init
 You can also initialize a new repo using the `/`  commands
 > `GitInit`
 
-## Add remote
+## Add Remote
 
 ```bash
 git remote add origin git@github.com:your-user/your-repo.git
 ```
 
-## First commit
+## First Commit
 
 ```bash
 git add .
