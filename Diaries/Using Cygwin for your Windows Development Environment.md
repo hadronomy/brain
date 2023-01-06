@@ -9,6 +9,8 @@ After the download finishes execute the installer.
 
 #### Select Packages
 
+In the *Select packages* 
+
 ## Chocolatey
 
 ```bash
