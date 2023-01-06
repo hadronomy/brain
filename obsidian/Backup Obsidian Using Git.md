@@ -1,5 +1,7 @@
 #git #obsidian #notes #docs #config 
 
+#
+
 > [!note]
 > This will also backup your editor config
 
