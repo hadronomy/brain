@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Idea.md",
+                "file": "Obsidian/Backup Obsidian Using Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Idea.md",
+                "file": "Obsidian/Backup Obsidian Using Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Idea.md",
+                "file": "Obsidian/Backup Obsidian Using Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Idea.md"
+                "file": "Obsidian/Backup Obsidian Using Git.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "72fa14799127cd4f",
   "lastOpenFiles": [
-    "Obsidian/Using Dataview.md",
-    "Templates/Idea.md",
     "Misc/Singletons in C++.md",
+    "Templates/Idea.md",
+    "Obsidian/Using Dataview.md",
     "Zettlecasten.md",
     "Yey.md",
     "Untitled.canvas",
