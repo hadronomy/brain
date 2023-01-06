@@ -11,8 +11,12 @@
             "id": "72fa14799127cd4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Idea.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#zettelcasten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Idea.md"
+              }
             }
           }
         ],
@@ -141,8 +150,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72fa14799127cd4f",
+  "active": "fe0aa24c8f2fafa8",
   "lastOpenFiles": [
+    "Obsidian/Using Codeblocks.md",
     "Templates/Idea.md",
     "Obsidian/Backup Obsidian Using Git.md",
     "Misc/Singletons in C++.md",
@@ -151,7 +161,6 @@
     "Yey.md",
     "Untitled.canvas",
     "Diaries/Using Cygwin for your Windows Development Environment.md",
-    "2023-01-06.md",
-    "Obsidian/Notetaking in Obsidian.md"
+    "2023-01-06.md"
   ]
 }
