@@ -1,3 +1,0 @@
-#zettelkasten
-
-## Description
