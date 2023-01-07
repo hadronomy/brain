@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Use Emojis In Obsidian.md",
+                "file": "Misc/Singletons in C++.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Use Emojis In Obsidian.md",
+                "file": "Misc/Singletons in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Use Emojis In Obsidian.md",
+                "file": "Misc/Singletons in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Use Emojis In Obsidian.md"
+                "file": "Misc/Singletons in C++.md"
               }
             }
           }
@@ -149,8 +149,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72fa14799127cd4f",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "Obsidian/Use Emojis In Obsidian.md",
     "Misc/Untitled Kanban.md",
     "Hey.md",
     "Untitled.md",
@@ -159,7 +160,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Templates/Idea.md",
-    "Obsidian/Using Codeblocks.md"
+    "Templates/Idea.md"
   ]
 }
