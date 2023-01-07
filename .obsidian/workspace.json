@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b9ab98bb308ff43a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Misc/Untitled Kanban.md"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc/Untitled Kanban.md"
+              }
             }
           }
         ],
@@ -141,14 +156,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72fa14799127cd4f",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "Untitled.md",
     "Diaries/Using Cygwin for your Windows Development Environment.md",
     "Misc/Singletons in C++.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Templates/Idea.md",
     "Obsidian/Using Codeblocks.md",
     "Obsidian/Backup Obsidian Using Git.md",
