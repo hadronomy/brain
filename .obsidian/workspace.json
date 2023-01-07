@@ -11,8 +11,12 @@
             "id": "6a3c44f7e3c636f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "800 Obsidian/Backup Obsidian Using Git.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "800 Obsidian/Backup Obsidian Using Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "800 Obsidian/Backup Obsidian Using Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "800 Obsidian/Backup Obsidian Using Git.md"
+              }
             }
           }
         ],
@@ -141,12 +149,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "6a3c44f7e3c636f4",
   "lastOpenFiles": [
+    "800 Obsidian/Notetaking in Obsidian.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
     "800 Obsidian/Untitled Kanban.md",
-    "800 Obsidian/Notetaking in Obsidian.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Using Dataview.md",
     "200 Misc/Singletons in C++.md",
