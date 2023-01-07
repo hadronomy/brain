@@ -11,7 +11,7 @@
             "id": "6a3c44f7e3c636f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -141,15 +141,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6a3c44f7e3c636f4",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
-    "200 Misc/Reading input in c++ in an extensible way.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Notetaking in Obsidian.md",
-    "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
-    "800 Obsidian/Untitled Kanban.md",
+    "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Using Dataview.md",
+    "200 Misc/Reading input in c++ in an extensible way.md",
+    "800 Obsidian/Untitled Kanban.md",
     "200 Misc/Singletons in C++.md",
     "500University/Untitled.md",
     "Misc/Untitled Kanban.md"
