@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] psmt
 - [ ] toffee
+- [ ] graphit
+- [ ] blog
 
 
 ## Investigate
