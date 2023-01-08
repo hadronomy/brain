@@ -12,5 +12,9 @@ SORT rating DESC
 ## Reference
 
 ```dataview
-LIST FROM #docs
+TABLE theme FROM #docs
+SORT theme DESC
 ```
+
+
+
