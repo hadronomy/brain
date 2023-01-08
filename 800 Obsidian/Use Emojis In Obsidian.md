@@ -1,5 +1,5 @@
 ---
-
+theme: Monster High
 ---
 #docs #obsidian #notes #config
 ## Install `Emoji Shortcodes`
