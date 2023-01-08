@@ -1,3 +1,6 @@
+---
+
+---
 #docs #obsidian #notes #config
 ## Install `Emoji Shortcodes`
 
