@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Projects
 
+- [ ] psmt
+- [ ] toffee
 
 
 ## Investigate
