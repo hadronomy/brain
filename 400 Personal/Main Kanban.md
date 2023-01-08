@@ -15,6 +15,8 @@ kanban-plugin: basic
 ## Investigate
 
 - [ ] Investigate rustlang by making a rust version of psmt
+- [ ] Tailwind
+- [ ] Paper.js
 
 
 ## Completed
