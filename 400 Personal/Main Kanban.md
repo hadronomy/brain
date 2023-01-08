@@ -4,6 +4,10 @@ kanban-plugin: basic
 
 ---
 
+## TODO
+
+
+
 ## Projects
 
 
@@ -13,10 +17,6 @@ kanban-plugin: basic
 
 
 ## Completed
-
-
-
-## TODO
 
 
 
