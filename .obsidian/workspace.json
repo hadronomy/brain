@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800 Obsidian/Backup Obsidian Using Git.md",
-                "mode": "preview",
+                "file": "800 Obsidian/Use Emojis In Obsidian.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800 Obsidian/Backup Obsidian Using Git.md",
+                "file": "800 Obsidian/Use Emojis In Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "800 Obsidian/Backup Obsidian Using Git.md",
+                "file": "800 Obsidian/Use Emojis In Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "800 Obsidian/Backup Obsidian Using Git.md"
+                "file": "800 Obsidian/Use Emojis In Obsidian.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "6a3c44f7e3c636f4",
   "lastOpenFiles": [
+    "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Using Dataview.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
     "800 Obsidian/Notetaking in Obsidian.md",
     "200 Misc/Reading input in c++ in an extensible way.md",
-    "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Untitled Kanban.md",
     "200 Misc/Singletons in C++.md",
     "500University/Untitled.md",
