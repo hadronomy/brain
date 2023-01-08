@@ -23,8 +23,10 @@
             "id": "90ff543f549d84a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "400 Personal/TODO Board.md"
+              }
             }
           }
         ],
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "400 Personal/TODO Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "400 Personal/TODO Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "400 Personal/TODO Board.md"
+              }
             }
           }
         ],
@@ -154,8 +160,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "90ff543f549d84a0",
   "lastOpenFiles": [
+    "T.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Using Dataview.md",
@@ -164,7 +171,6 @@
     "200 Misc/Reading input in c++ in an extensible way.md",
     "800 Obsidian/Untitled Kanban.md",
     "200 Misc/Singletons in C++.md",
-    "500University/Untitled.md",
-    "Misc/Untitled Kanban.md"
+    "500University/Untitled.md"
   ]
 }
