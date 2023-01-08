@@ -12,5 +12,5 @@ SORT rating DESC
 ## Reference
 
 ```dataview
-LIST 
+LIST FROM #docs
 ```
