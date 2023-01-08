@@ -4,7 +4,19 @@ kanban-plugin: basic
 
 ---
 
-## Inve\stigate
+## Projects
+
+
+
+## Investigate
+
+
+
+## Completed
+
+
+
+## TODO
 
 
 
