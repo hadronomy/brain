@@ -4,16 +4,13 @@ kanban-plugin: basic
 
 ---
 
-## TODO
-
-
-
 ## Projects
 
 
 
 ## Investigate
 
+- [ ] Investigate rustlang by making a rust version of psmt
 
 
 ## Completed
