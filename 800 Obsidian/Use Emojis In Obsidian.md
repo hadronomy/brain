@@ -2,8 +2,7 @@
 
 ## Install `Emoji Shortcodes`
 
-This plugin will allow you to use emojis by writting `::`
+This plugin will allow you to use emojis by writing `::`
 
 Open [Emoji Shortcodes](obsidian://show-plugin?id=emoji-shortcodes) and click `Install`
 
-/
