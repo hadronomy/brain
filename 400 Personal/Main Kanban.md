@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] Investigate rustlang by making a rust version of psmt
 - [ ] Tailwind
 - [ ] Paper.js
+- [ ] https://towardsdatascience.com/why-good-codes-dont-need-comments-92f58de19ad2
 
 
 ## Completed
