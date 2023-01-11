@@ -18,6 +18,7 @@ kanban-plugin: basic
 - [ ] Tailwind
 - [ ] Paper.js
 - [ ] https://towardsdatascience.com/why-good-codes-dont-need-comments-92f58de19ad2
+- [ ] Rust macros
 
 
 ## Completed
