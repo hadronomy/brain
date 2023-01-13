@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Projects
 
-- [ ] psmt
+- [ ] psmt-rs
 - [ ] toffee
 - [ ] graphit
 - [ ] blog
@@ -19,6 +19,7 @@ kanban-plugin: basic
 - [ ] Paper.js
 - [ ] https://towardsdatascience.com/why-good-codes-dont-need-comments-92f58de19ad2
 - [ ] Rust macros
+- [ ] Improve Github Profile README.md
 
 
 ## Completed
