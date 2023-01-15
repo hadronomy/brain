@@ -25,6 +25,7 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] Improve Github Profile README.md
+- [ ] Take notes about rust
 
 
 ## Completed
