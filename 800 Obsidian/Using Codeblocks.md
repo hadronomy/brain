@@ -1,6 +1,4 @@
----
-theme: Monster High
----
+
 #docs #obsidian #notes #workflow
 
 ## Usage
