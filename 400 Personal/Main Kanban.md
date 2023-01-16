@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] toffee
 - [ ] graphit
 - [ ] blog
+- [ ] pomodoro
 
 
 ## Investigate
