@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/Templates in C++.md",
+                "file": "200 Misc/Singletons in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/Templates in C++.md",
+                "file": "200 Misc/Singletons in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/Templates in C++.md"
+                "file": "200 Misc/Singletons in C++.md"
               }
             }
           }
@@ -162,8 +161,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c7c59f223ebdc565",
+  "active": "6a3c44f7e3c636f4",
   "lastOpenFiles": [
+    "200 Misc/Templates in C++.md",
     "200 Misc/Singletons in C++.md",
     "400 Personal/Main Kanban.md",
     "800 Obsidian/Using Codeblocks.md",
@@ -172,7 +172,6 @@
     "800 Obsidian/Backup Obsidian Using Git.md",
     "100 Diaries/Using Cygwin for your Windows Development Environment.md",
     "T.md",
-    "800 Obsidian/Using Dataview.md",
-    "200 Misc/Reading input in c++ in an extensible way.md"
+    "800 Obsidian/Using Dataview.md"
   ]
 }
