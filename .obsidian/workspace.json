@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "ec803aee0e0e161d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
             "id": "c7c59f223ebdc565",
             "type": "leaf",
             "state": {
@@ -42,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -172,7 +161,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ec803aee0e0e161d",
+  "active": "6a3c44f7e3c636f4",
   "lastOpenFiles": [
     "200 Misc/Templates in C++.md",
     "200 Misc/Singletons in C++.md",
