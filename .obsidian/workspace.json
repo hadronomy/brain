@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/Singletons in C++.md",
+                "file": "200 Misc/Templates in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/Singletons in C++.md",
+                "file": "200 Misc/Templates in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/Singletons in C++.md"
+                "file": "200 Misc/Templates in C++.md"
               }
             }
           }
@@ -161,10 +162,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6a3c44f7e3c636f4",
+  "active": "c7c59f223ebdc565",
   "lastOpenFiles": [
-    "200 Misc/Templates in C++.md",
     "200 Misc/Singletons in C++.md",
+    "200 Misc/Templates in C++.md",
     "400 Personal/Main Kanban.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
