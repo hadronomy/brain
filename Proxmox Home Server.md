@@ -3,4 +3,7 @@
 %%
 TODO
 
-Proxmox - 
+- Router:
+ Proxmox - PfSense - PiHole - OpenVPN
+
+%%
