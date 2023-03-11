@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "02f3d5737b53ca44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ebcd99111a116b6",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Zettelkasten/Rust workspaces.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Zettelkasten/Rust workspaces.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Zettelkasten/Rust workspaces.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -198,10 +210,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7c221f84c00eed7e",
+  "active": "02f3d5737b53ca44",
   "lastOpenFiles": [
-    "300 Zettelkasten/Templates in C++.md",
     "300 Zettelkasten/Rust workspaces.md",
+    "Untitled.md",
+    "300 Zettelkasten/Templates in C++.md",
     "Proxmox Home Server.md",
     "300 Zettelkasten/Rust Macros.md",
     "300 Zettelkasten/Singletons in C++.md",
