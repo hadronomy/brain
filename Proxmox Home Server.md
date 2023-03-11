@@ -1,9 +1,6 @@
 #homelab #server
 
-%%
-TODO
+#todo
 
-- Router:
+- ### Router
  Proxmox - PfSense - PiHole - OpenVPN
-
-%%

@@ -1,7 +1,5 @@
 #programming #rust
 
-%%
-TODO
+#todo
 
 Usage and explanation
-%%

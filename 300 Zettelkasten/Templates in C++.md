@@ -1,5 +1,7 @@
 #programming #cpp 
 
+#t
+
 %%
 TODO: 
 	- General template explanation with drawbacks and ways to make it better
