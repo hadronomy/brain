@@ -54,45 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b12ee2310b9612d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Misc/Great WebUI's for Inspiration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ebcd99111a116b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proxmox Home Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8aee742874d4d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Zettelkasten/Rust Macros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -223,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b12ee2310b9612d6",
+  "active": "02f3d5737b53ca44",
   "lastOpenFiles": [
     "300 Zettelkasten/Rust Macros.md",
     "300 Zettelkasten/Rust workspaces.md",
