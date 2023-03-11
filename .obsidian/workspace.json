@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust Macros.md",
+                "file": "300 Zettelkasten/Rust workspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust Macros.md",
+                "file": "300 Zettelkasten/Rust workspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust Macros.md"
+                "file": "300 Zettelkasten/Rust workspaces.md"
               }
             }
           }
@@ -186,10 +186,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d8aee742874d4d1c",
+  "active": "7c221f84c00eed7e",
   "lastOpenFiles": [
-    "300 Zettelkasten/Rust workspaces.md",
     "Rust Macros.md",
+    "300 Zettelkasten/Rust workspaces.md",
     "300 Zettelkasten/Templates in C++.md",
     "300 Zettelkasten/Singletons in C++.md",
     "400 Personal/Main Kanban.md",
