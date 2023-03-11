@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c221f84c00eed7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Zettelkasten/Rust workspaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Zettelkasten/Templates in C++.md",
+                "file": "300 Zettelkasten/Rust workspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Zettelkasten/Templates in C++.md",
+                "file": "300 Zettelkasten/Rust workspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Zettelkasten/Templates in C++.md"
+                "file": "300 Zettelkasten/Rust workspaces.md"
               }
             }
           }
@@ -162,10 +174,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "7c221f84c00eed7e",
   "lastOpenFiles": [
-    "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Templates in C++.md",
+    "300 Zettelkasten/Rust workspaces.md",
+    "300 Zettelkasten/Singletons in C++.md",
     "400 Personal/Main Kanban.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
