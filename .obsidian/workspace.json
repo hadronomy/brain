@@ -59,12 +59,8 @@
             "id": "b12ee2310b9612d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My rust tools and crates.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -159,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My rust tools and crates.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -224,8 +216,8 @@
   },
   "active": "b12ee2310b9612d6",
   "lastOpenFiles": [
-    "Great WebUI's for Inspiration.md",
     "My rust tools and crates.md",
+    "Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Rust workspaces.md",
     "300 Zettelkasten/Templates in C++.md",
     "Proxmox Home Server.md",
