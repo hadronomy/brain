@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 276.51103591918945
   },
   "right": {
     "id": "9ab8247dcc6e5572",
@@ -204,11 +204,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -219,10 +219,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "b12ee2310b9612d6",
   "lastOpenFiles": [
     "300 Zettelkasten/Rust Macros.md",
     "300 Zettelkasten/Rust workspaces.md",
