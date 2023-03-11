@@ -59,8 +59,12 @@
             "id": "b12ee2310b9612d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "300 Zettelkasten/Rust Macros.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -155,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300 Zettelkasten/Rust Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "300 Zettelkasten/Rust Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "300 Zettelkasten/Rust Macros.md"
+              }
             }
           }
         ],
