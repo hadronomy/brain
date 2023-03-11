@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/Singletons in C++.md",
+                "file": "300 Zettelkasten/Singletons in C++.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/Templates in C++.md",
+                "file": "300 Zettelkasten/Templates in C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/Templates in C++.md",
+                "file": "300 Zettelkasten/Templates in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/Templates in C++.md",
+                "file": "300 Zettelkasten/Templates in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/Templates in C++.md"
+                "file": "300 Zettelkasten/Templates in C++.md"
               }
             }
           }
@@ -162,10 +162,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c7c59f223ebdc565",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
-    "200 Misc/Singletons in C++.md",
-    "200 Misc/Templates in C++.md",
+    "300 Zettelkasten/Singletons in C++.md",
+    "300 Zettelkasten/Templates in C++.md",
     "400 Personal/Main Kanban.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
