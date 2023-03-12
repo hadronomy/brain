@@ -12,4 +12,5 @@
 
 - [Clap](https://crates.io/crates/clap) - A full featured, fast Command Line Argument Parser for Rust.
 - [owo_colors](https://crates.io/crates/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal to make people go owo.
+- [Dialoguer](https://crates.io/crates/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - 
