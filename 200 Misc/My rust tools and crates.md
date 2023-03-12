@@ -18,3 +18,4 @@
 - [eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on `std::error::Error` with customizable Reports.
 - [color-eyre](https://crates.io/crates/color-eyre/0.6.2/dependencies) - An error report handler for panics and eyre::Reports for colorful, consistent, and well formatted error reports for all kinds of errors.
 - [thiserror](https://crates.io/crates/thiserror) - This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait.
+- [fern](https://crates.io/crates/fern) - Simple, efficient logging for [Rust](https://www.rust-lang.org/).
