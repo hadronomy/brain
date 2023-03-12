@@ -16,4 +16,5 @@
 - [Indicatif](https://crates.io/crates/indicatif) - A progress bar and cli reporting library for Rust.
 - [enum_dispatch](https://crates.io/crates/enum_dispatch) - Near drop-in replacement for dynamic-dispatched method calls with up to 10x the speed.
 - [Eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on `std::error::Error` with customizable Reports.
-- [Color-Eyre] - https
+- [Color-Eyre](https://crates.io/crates/color-eyre/0.6.2/dependencies) - An error report handler for panics and eyre::Reports for colorful, consistent, and well formatted error reports for all kinds of errors.
+- [thiserror](https://crates.io/crates/thiserror)
