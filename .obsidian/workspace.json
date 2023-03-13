@@ -68,6 +68,7 @@
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Zettelkasten/Singletons in C++.md",
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Zettelkasten/Singletons in C++.md",
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Zettelkasten/Singletons in C++.md"
+                "file": "200 Misc/Great WebUI's for Inspiration.md"
               }
             }
           }
@@ -198,15 +199,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a3c44f7e3c636f4",
+  "active": "b5b7e9d62cec0373",
   "lastOpenFiles": [
+    "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Rust workspaces.md",
     "300 Zettelkasten/Templates in C++.md",
     "200 Misc/My rust tools and crates.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Rust Macros.md",
     "Proxmox Home Server.md",
-    "300 Zettelkasten/Singletons in C++.md",
     "400 Personal/Main Kanban.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
