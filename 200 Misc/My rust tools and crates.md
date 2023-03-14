@@ -6,8 +6,10 @@
 
 ### Cargo Plugins (cargo-whatever)
 
-- [Release]() -
-- [Dist]() - 
+- [Release]() -## About
+
+Cargo subcommand `release`: everything about releasing a rust crate.
+- [Dist]() - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
 - [Shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
 
 ## Crates
