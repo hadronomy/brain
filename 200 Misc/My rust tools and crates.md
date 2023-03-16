@@ -6,13 +6,13 @@
 
 ### Cargo Plugins (cargo-whatever)
 
-- [Release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
-- [Dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
-- [Shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
+- [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
+- [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
+- [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
 
 ## Crates
 
-- [Clap](https://crates.io/crates/clap) - A full featured, fast Command Line Argument Parser for Rust.
+- [clap](https://crates.io/crates/clap) - A full featured, fast Command Line Argument Parser for Rust.
 - [owo_colors](https://crates.io/crates/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal to make people go owo.
 - [dialoguer](https://crates.io/crates/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [indicatif](https://crates.io/crates/indicatif) - A progress bar and cli reporting library for Rust.
