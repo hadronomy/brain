@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7076707f7f0bf04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monorepos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monorepos.md",
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monorepos.md",
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monorepos.md"
+                "file": "200 Misc/Great WebUI's for Inspiration.md"
               }
             }
           }
@@ -211,16 +199,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7076707f7f0bf04",
+  "active": "b5b7e9d62cec0373",
   "lastOpenFiles": [
     "Monorepos.md",
+    "300 Zettelkasten/Singletons in C++.md",
+    "300 Zettelkasten/Rust workspaces.md",
+    "300 Zettelkasten/Templates in C++.md",
     "200 Misc/My rust tools and crates.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Rust Macros.md",
-    "300 Zettelkasten/Rust workspaces.md",
-    "300 Zettelkasten/Templates in C++.md",
     "Proxmox Home Server.md",
-    "300 Zettelkasten/Singletons in C++.md",
     "400 Personal/Main Kanban.md",
     "800 Obsidian/Using Codeblocks.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
