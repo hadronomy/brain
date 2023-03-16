@@ -22,4 +22,4 @@
 - [thiserror](https://crates.io/crates/thiserror) - This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait.
 - [fern](https://crates.io/crates/fern) - Simple, efficient logging for [Rust](https://www.rust-lang.org/).
 - [rusty-hook](https://crates.io/crates/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
-- [dotenv](https://crates.io/crates/dotenv) - 
+- [dotenv](https://crates.io/crates/dotenv) - Library to help supply environment variables in testing and development.
