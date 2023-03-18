@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Javascript tools and packages.md",
+                "file": "My node tools and packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Javascript tools and packages.md",
+                "file": "My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Javascript tools and packages.md",
+                "file": "My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Javascript tools and packages.md"
+                "file": "My node tools and packages.md"
               }
             }
           }
@@ -226,7 +226,7 @@
   "active": "0eb6f66249c24ba1",
   "lastOpenFiles": [
     "Monorepos.md",
-    "My Javascript tools and packages.md",
+    "My node tools and packages.md",
     "200 Misc/My rust tools and crates.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Rust workspaces.md",
