@@ -5,9 +5,7 @@
 ## Tools
 
 %%
-
-
-
+Move all of this into a obsidian database (For easy search and querry)
 %%
 
 ### Cargo Plugins (cargo-whatever)
