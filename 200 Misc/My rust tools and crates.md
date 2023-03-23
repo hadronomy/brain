@@ -23,3 +23,4 @@
 - [fern](https://crates.io/crates/fern) - Simple, efficient logging for [Rust](https://www.rust-lang.org/).
 - [rusty-hook](https://crates.io/crates/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
 - [dotenv](https://crates.io/crates/dotenv) - Library to help supply environment variables in testing and development.
+- [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
