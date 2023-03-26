@@ -8,6 +8,10 @@
 Move all of this into a obsidian database (For easy search and query)
 %%
 
+```dataview
+FROM #
+```
+
 ### Cargo Plugins (cargo-whatever)
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
