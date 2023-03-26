@@ -11,8 +11,10 @@ Move all of this into a obsidian database (For easy search and query)
 ```dataview
 TABLE
 FROM #rust AND #rust-crate AND #cargo-plugin 
-SELECT "title", "cr"
+SELECT "title" AND "crates_io_link" AND "docs"
 ```
+
+
 
 
 
