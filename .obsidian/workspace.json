@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "02f3d5737b53ca44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Misc/My rust tools and crates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5b7e9d62cec0373",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -159,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,13 +184,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "200 Misc/My rust tools and crates.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "2a168a752cf7a4a5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -223,10 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02f3d5737b53ca44",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
-    "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/My rust tools and crates.md",
+    "Untitled.canvas",
+    "200 Misc/Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Singletons in C++.md",
     "My node tools and packages.md",
     "Monorepos.md",
