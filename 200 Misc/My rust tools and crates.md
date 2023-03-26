@@ -9,9 +9,8 @@ Move all of this into a obsidian database (For easy search and query)
 %%
 
 ```dataview
-TABLE
+TABLE title, crates_io, docs
 FROM #rust AND #rust-crate AND #cargo-plugin 
-SELECT "title" AND "crates_io_link" AND "docs"
 ```
 
 
