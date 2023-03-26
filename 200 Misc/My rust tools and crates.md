@@ -13,6 +13,7 @@ Move all of this into a obsidian database (For easy search and querry)
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
 - [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
 - [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
+- [watch]
 
 ## Crates
 
