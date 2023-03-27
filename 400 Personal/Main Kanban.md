@@ -10,19 +10,27 @@ kanban-plugin: basic
 - [ ] Take notes about rust
 
 
-## 
+## BACKLOG :log:
 
 - [ ] Tailwind
 - [ ] Paper.js
 - [ ] Github Issues workflow
 
 
-## Projects
+## READY
 
 - [ ] psmt-rs
 - [ ] toffee
 - [ ] graphit
 - [ ] blog
+
+
+## WORK IN PROGRESS
+
+
+
+## IN REVIEW
+
 
 
 ## DONE :white_check_mark:
