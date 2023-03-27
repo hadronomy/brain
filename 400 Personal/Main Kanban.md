@@ -10,16 +10,12 @@ kanban-plugin: basic
 - [ ] toffee
 - [ ] graphit
 - [ ] blog
-- [ ] pomodoro
 
 
 ## Investigate
 
-- [ ] Investigate rustlang by making a rust version of psmt
 - [ ] Tailwind
 - [ ] Paper.js
-- [ ] https://towardsdatascience.com/why-good-codes-dont-need-comments-92f58de19ad2
-- [ ] Rust macros
 - [ ] Github Issues workflow
 
 
