@@ -1,7 +1,7 @@
 ---
 title: cargo-release
-short: Everything about releasing a rust crate.
-crates_io: [https://crates.io/crates/cargo-release]
+short: `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
+crates_io: https://crates.io/crates/cargo-dist
 docs:
 ---
 #rust #rust-crate #cargo-plugin 
