@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 Templates/Idea.md",
-                "mode": "source",
+                "file": "800 Obsidian/Using Codeblocks.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700 Templates/Idea.md",
+                "file": "800 Obsidian/Using Codeblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700 Templates/Idea.md",
+                "file": "800 Obsidian/Using Codeblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700 Templates/Idea.md"
+                "file": "800 Obsidian/Using Codeblocks.md"
               }
             }
           },
@@ -257,28 +257,29 @@
       }
     ]
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "aec1326a975a5cd9",
   "lastOpenFiles": [
+    "800 Obsidian/Using Dataview.md",
+    "800 Obsidian/Using Codeblocks.md",
+    "800 Obsidian/Use Emojis In Obsidian.md",
+    "800 Obsidian/Backup Obsidian Using Git.md",
+    "800 Obsidian/Notetaking in Obsidian.md",
+    "700 Templates/Idea.md",
+    "400 Personal/Main Kanban.md",
+    "300 Zettelkasten/Singletons in C++.md",
+    "300 Zettelkasten/Templates in C++.md",
+    "300 Zettelkasten/Rust workspaces.md",
+    "300 Zettelkasten/Rust Macros.md",
+    "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/rust crates/cargo-dist.md",
-    "200 Misc/My rust tools and crates.md",
-    "400 Personal/Main Kanban.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates",
     "Untitled.canvas",
-    "300 Zettelkasten/Singletons in C++.md",
     "My node tools and packages.md",
     "Monorepos.md",
-    "300 Zettelkasten/Rust workspaces.md",
-    "300 Zettelkasten/Rust Macros.md",
-    "300 Zettelkasten/Templates in C++.md",
     "Proxmox Home Server.md",
-    "800 Obsidian/Using Codeblocks.md",
-    "800 Obsidian/Use Emojis In Obsidian.md",
-    "800 Obsidian/Notetaking in Obsidian.md",
-    "800 Obsidian/Backup Obsidian Using Git.md",
     "100 Diaries/Using Cygwin for your Windows Development Environment.md",
-    "T.md",
-    "800 Obsidian/Using Dataview.md"
+    "T.md"
   ]
 }
