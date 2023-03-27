@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] Take notes about rust
 
 
-## Completed
+## Completed :tick:
 
 
 
