@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cba911f6e9245ea",
+        "id": "94bdc8a77035b6e5",
         "type": "tabs",
         "children": [
           {
-            "id": "be27da6fddf4980e",
+            "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "400 Personal/Main Kanban.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -186,16 +184,45 @@
         "y": 71,
         "width": 699,
         "height": 890,
-        "maximize": true,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "7b3fda7ce400704b",
+        "type": "window",
+        "children": [
+          {
+            "id": "8aca43d61b5b322a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be27da6fddf4980e",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 Personal/Main Kanban.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 264,
+        "y": 65,
+        "width": 1391,
+        "height": 902,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "3e1df75fb8b2d39b",
   "lastOpenFiles": [
+    "400 Personal/Main Kanban.md",
     "909 Archive",
     "200 Misc/rust crates/cargo-release.md",
-    "400 Personal/Main Kanban.md",
     "200 Misc/My rust tools and crates.md",
     "200 Misc/My rust tools and crates.html",
     "200 Misc/rust crates/cargo-dist.md",
