@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aec1326a975a5cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "800 Obsidian/Using Dataview.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd18dc709359a2b6",
             "type": "leaf",
             "state": {
@@ -59,11 +47,9 @@
             "id": "f7076707f7f0bf04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Monorepos.md",
-                "mode": "source",
-                "source": false
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           },
@@ -80,6 +66,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800 Obsidian/Using Dataview.md",
+                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "800 Obsidian/Using Dataview.md",
+                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "800 Obsidian/Using Dataview.md"
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           },
@@ -257,13 +244,16 @@
       }
     ]
   },
-  "active": "aec1326a975a5cd9",
+  "active": "f7076707f7f0bf04",
   "lastOpenFiles": [
-    "800 Obsidian/Using Codeblocks.md",
-    "800 Obsidian/Using Dataview.md",
-    "800 Obsidian/Use Emojis In Obsidian.md",
+    "Monorepos.md",
+    "My node tools and packages.md",
+    "200 Misc/Great WebUI's for Inspiration.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Notetaking in Obsidian.md",
+    "800 Obsidian/Use Emojis In Obsidian.md",
+    "800 Obsidian/Using Dataview.md",
+    "800 Obsidian/Using Codeblocks.md",
     "700 Templates/Idea.md",
     "400 Personal/Main Kanban.md",
     "300 Zettelkasten/Singletons in C++.md",
@@ -273,11 +263,8 @@
     "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/rust crates/cargo-dist.md",
-    "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates",
     "Untitled.canvas",
-    "My node tools and packages.md",
-    "Monorepos.md",
     "Proxmox Home Server.md",
     "100 Diaries/Using Cygwin for your Windows Development Environment.md",
     "T.md"
