@@ -13,20 +13,20 @@ kanban-plugin: basic
 ## BACKLOG
 
 - [ ] Tailwind
+- [ ] blog
 - [ ] Paper.js
 - [ ] Github Issues workflow
 
 
 ## READY
 
-- [ ] psmt-rs
 - [ ] toffee
-- [ ] graphit
-- [ ] blog
 
 
 ## WORK IN PROGRESS
 
+- [ ] graphit
+- [ ] psmt-rs
 
 
 ## IN REVIEW

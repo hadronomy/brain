@@ -82,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "400 Personal/Main Kanban.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,35 +155,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "f5b3401ccd399076",
-        "type": "window",
-        "children": [
-          {
-            "id": "2482fd0131f43961",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3e1df75fb8b2d39b",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "400 Personal/Main Kanban.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 610,
-        "y": 71,
-        "width": 699,
-        "height": 890,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
         "id": "7b3fda7ce400704b",
         "type": "window",
         "children": [
@@ -218,7 +185,7 @@
       }
     ]
   },
-  "active": "3e1df75fb8b2d39b",
+  "active": "03ca43c302d91f42",
   "lastOpenFiles": [
     "400 Personal/Main Kanban.md",
     "909 Archive",
