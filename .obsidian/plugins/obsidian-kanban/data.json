@@ -3,7 +3,7 @@
   "tag-colors": [
     {
       "tagKey": "#rust",
-      "color": "rgba(255, 164, 79, 1)",
+      "color": "rgba(255, 170, 90, 1)",
       "backgroundColor": "rgba(255, 130, 15, 0.1)"
     }
   ]
