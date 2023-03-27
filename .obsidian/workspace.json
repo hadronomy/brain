@@ -104,7 +104,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cargo-dist.md",
+                "file": "200 Misc/rust crates/cargo-release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cargo-dist.md",
+                "file": "200 Misc/rust crates/cargo-release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cargo-dist.md"
+                "file": "200 Misc/rust crates/cargo-release.md"
               }
             }
           },
@@ -243,10 +242,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0178516b04f09301",
+  "active": "6a3c44f7e3c636f4",
   "lastOpenFiles": [
-    "200 Misc/My rust tools and crates.md",
     "cargo-dist.md",
+    "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates",
