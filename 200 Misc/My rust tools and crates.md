@@ -34,5 +34,5 @@ FROM #rust AND #rust-crate AND #cargo-plugin
 - [rusty-hook](https://crates.io/crates/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
 - [dotenv](https://crates.io/crates/dotenv) - Library to help supply environment variables in testing and development.
 - [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
-- [assert_fs](https://crates.io/crates/assert_fs) - Filesystem fixtures and assertions for testing.\
+- [assert_fs](https://crates.io/crates/assert_fs) - Filesystem fixtures and assertions for testing.
 - [assert_cmd](https://crates.io/crates/assert_cmd) - Easy command initialization and assertions.
