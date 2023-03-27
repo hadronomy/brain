@@ -10,11 +10,7 @@ kanban-plugin: basic
 - [ ] Take notes about rust
 
 
-## Completed :tick:
-
-
-
-## Investigate
+## 
 
 - [ ] Tailwind
 - [ ] Paper.js
@@ -27,6 +23,10 @@ kanban-plugin: basic
 - [ ] toffee
 - [ ] graphit
 - [ ] blog
+
+
+## DONE :white_check_mark:
+
 
 
 
