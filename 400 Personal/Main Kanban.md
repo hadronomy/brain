@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## NEW :new:
 
 - [ ] Improve Github Profile README.md
-- [ ] See if it's worth it to have the authentication for the API provided by `Auth0/Supabase` @{2023-03-27} #api #auth
 
 
 ## BACKLOG
@@ -15,6 +14,7 @@ kanban-plugin: basic
 - [ ] Tailwind
 - [ ] Paper.js
 - [ ] Github Issues workflow
+- [ ] See if it's worth it to have the authentication for the API provided by `Auth0/Supabase` @{2023-03-27} #api #auth
 
 
 ## READY

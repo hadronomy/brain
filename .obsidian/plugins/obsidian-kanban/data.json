@@ -10,5 +10,7 @@
   "new-note-folder": "909 Archive",
   "hide-tags-in-title": true,
   "show-relative-date": true,
-  "date-picker-week-start": 1
+  "date-picker-week-start": 1,
+  "hide-date-display": false,
+  "hide-date-in-title": true
 }
