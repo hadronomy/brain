@@ -9,7 +9,7 @@ Move all of this into a obsidian database (For easy search and query)
 %%
 
 ```dataview
-TABLE ("[](" + crates_io + ")") AS "crates.io", ("[](" + docs + ")") AS docs
+TABLE description AS Description, ("[](" + crates_io + ")") AS "Crates.io", ("[](" + docs + ")") AS Docs
 FROM #rust AND #rust-crate AND #cargo-plugin 
 ```
 
