@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/rust crates/cargo-release.md",
+                "file": "700 Templates/Idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/rust crates/cargo-release.md",
+                "file": "700 Templates/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/rust crates/cargo-release.md",
+                "file": "700 Templates/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/rust crates/cargo-release.md"
+                "file": "700 Templates/Idea.md"
               }
             }
           },
@@ -235,9 +235,11 @@
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "kanban",
+                  "type": "markdown",
                   "state": {
-                    "file": "400 Personal/Main Kanban.md"
+                    "file": "400 Personal/Main Kanban.md",
+                    "mode": "preview",
+                    "source": false
                   },
                   "pinned": true
                 }
@@ -255,12 +257,12 @@
       }
     ]
   },
-  "active": "aec1326a975a5cd9",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "200 Misc/rust crates/cargo-release.md",
     "200 Misc/rust crates/cargo-dist.md",
     "200 Misc/My rust tools and crates.md",
     "400 Personal/Main Kanban.md",
-    "200 Misc/rust crates/cargo-release.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates",
     "Untitled.canvas",
