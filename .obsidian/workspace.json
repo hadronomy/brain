@@ -11,8 +11,10 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "400 Personal/Main Kanban.md"
+              }
             }
           }
         ],
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "400 Personal/Main Kanban.md"
+              }
             }
           },
           {
@@ -150,42 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "08d93f4992159e08",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7b3fda7ce400704b",
-        "type": "window",
-        "children": [
-          {
-            "id": "8aca43d61b5b322a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "be27da6fddf4980e",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "400 Personal/Main Kanban.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 264,
-        "y": 65,
-        "width": 1391,
-        "height": 902,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "03ca43c302d91f42",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
     "400 Personal/Main Kanban.md",
     "909 Archive",

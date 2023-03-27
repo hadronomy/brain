@@ -13,7 +13,6 @@ kanban-plugin: basic
 ## BACKLOG
 
 - [ ] Tailwind
-- [ ] blog
 - [ ] Paper.js
 - [ ] Github Issues workflow
 
@@ -21,6 +20,7 @@ kanban-plugin: basic
 ## READY
 
 - [ ] toffee
+- [ ] blog
 
 
 ## WORK IN PROGRESS
