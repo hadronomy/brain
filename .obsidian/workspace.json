@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0 Supabase`.md",
+                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0 Supabase`.md",
+                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0 Supabase`.md",
+                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0 Supabase`.md"
+                "file": "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md"
               }
             }
           },
@@ -177,7 +177,7 @@
   "active": "ddabc0b09f6fbca9",
   "lastOpenFiles": [
     "400 Personal/Main Kanban.md",
-    "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0 Supabase`.md",
+    "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
     "909 Archive",
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/My rust tools and crates.md",
