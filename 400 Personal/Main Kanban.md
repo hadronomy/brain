@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## NEW :new:
 
 - [ ] Improve Github Profile README.md
+- [ ] Bridge wsl network https://randombytes.substack.com/p/bridged-networking-under-wsl
 
 
 ## BACKLOG
