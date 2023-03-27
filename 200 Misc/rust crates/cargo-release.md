@@ -5,4 +5,5 @@ docs:
 ---
 #rust #rust-crate #cargo-plugin
 
+hello:: hey
 ## Description
