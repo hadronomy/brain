@@ -4,6 +4,16 @@ kanban-plugin: basic
 
 ---
 
+## TODO
+
+- [ ] Improve Github Profile README.md
+- [ ] Take notes about rust
+
+
+## Completed
+
+
+
 ## Projects
 
 - [ ] psmt-rs
@@ -17,16 +27,6 @@ kanban-plugin: basic
 - [ ] Tailwind
 - [ ] Paper.js
 - [ ] Github Issues workflow
-
-
-## TODO
-
-- [ ] Improve Github Profile README.md
-- [ ] Take notes about rust
-
-
-## Completed
-
 
 
 
