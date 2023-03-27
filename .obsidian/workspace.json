@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e1df75fb8b2d39b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "400 Personal/Main Kanban.md"
-              }
-            }
-          },
-          {
             "id": "be27da6fddf4980e",
             "type": "leaf",
             "state": {
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Personal/Main Kanban.md",
+                "file": "200 Misc/rust crates/cargo-release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400 Personal/Main Kanban.md",
+                "file": "200 Misc/rust crates/cargo-release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "400 Personal/Main Kanban.md"
+                "file": "200 Misc/rust crates/cargo-release.md"
               }
             }
           },
@@ -168,11 +158,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e1df75fb8b2d39b",
+  "floating": {
+    "id": "08d93f4992159e08",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f5b3401ccd399076",
+        "type": "window",
+        "children": [
+          {
+            "id": "2482fd0131f43961",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e1df75fb8b2d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 Personal/Main Kanban.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 610,
+        "y": 71,
+        "width": 699,
+        "height": 890,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "be27da6fddf4980e",
   "lastOpenFiles": [
-    "200 Misc/My rust tools and crates.md",
     "400 Personal/Main Kanban.md",
     "200 Misc/rust crates/cargo-release.md",
+    "200 Misc/My rust tools and crates.md",
     "200 Misc/My rust tools and crates.html",
     "200 Misc/rust crates/cargo-dist.md",
     "200 Misc/Great WebUI's for Inspiration.md",

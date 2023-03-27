@@ -14,19 +14,19 @@ kanban-plugin: basic
 
 
 
+## Investigate
+
+- [ ] Tailwind
+- [ ] Paper.js
+- [ ] Github Issues workflow
+
+
 ## Projects
 
 - [ ] psmt-rs
 - [ ] toffee
 - [ ] graphit
 - [ ] blog
-
-
-## Investigate
-
-- [ ] Tailwind
-- [ ] Paper.js
-- [ ] Github Issues workflow
 
 
 
