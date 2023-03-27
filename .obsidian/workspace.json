@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Zettelkasten/Rust workspaces.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "200 Misc/rust crates/cargo-dist.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -246,12 +246,15 @@
       }
     ]
   },
-  "active": "f7076707f7f0bf04",
+  "active": "7c221f84c00eed7e",
   "lastOpenFiles": [
+    "200 Misc/rust crates/cargo-dist.md",
+    "200 Misc/My rust tools and crates.md",
+    "300 Zettelkasten/Rust workspaces.md",
+    "200 Misc/Great WebUI's for Inspiration.md",
     "400 Personal/Main Kanban.md",
     "Monorepos.md",
     "My node tools and packages.md",
-    "200 Misc/Great WebUI's for Inspiration.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Notetaking in Obsidian.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
@@ -260,11 +263,8 @@
     "700 Templates/Idea.md",
     "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Templates in C++.md",
-    "300 Zettelkasten/Rust workspaces.md",
     "300 Zettelkasten/Rust Macros.md",
-    "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/cargo-release.md",
-    "200 Misc/rust crates/cargo-dist.md",
     "200 Misc/rust crates",
     "Untitled.canvas",
     "Proxmox Home Server.md",
