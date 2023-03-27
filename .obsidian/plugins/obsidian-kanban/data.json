@@ -12,5 +12,6 @@
   "show-relative-date": true,
   "date-picker-week-start": 1,
   "hide-date-display": false,
-  "hide-date-in-title": true
+  "hide-date-in-title": true,
+  "date-format": "DD-MM-YYYY"
 }
