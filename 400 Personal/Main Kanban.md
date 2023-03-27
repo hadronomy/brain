@@ -11,8 +11,8 @@ kanban-plugin: basic
 
 ## BACKLOG
 
-- [ ] See if it's worth it to have the authentication for the API provided by `Auth0/Supabase` @{2023-03-27} #api #auth
-- [ ] `HashTable` implementation for `AYEDA`  @{2023-03-28} #university
+- [ ] See if it's worth it to have the authentication for the API provided by `Auth0/Supabase` @{27-03-2023} #api #auth
+- [ ] `HashTable` implementation for `AYEDA`  @{28-03-2023} #university
 - [ ] Tailwind
 - [ ] Paper.js
 - [ ] Github Issues workflow
