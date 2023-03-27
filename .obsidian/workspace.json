@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "e3b90839f2ff1b3c",
+            "id": "be27da6fddf4980e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "200 Misc/rust crates/cargo-release.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -211,11 +211,11 @@
   },
   "active": "3e1df75fb8b2d39b",
   "lastOpenFiles": [
-    "200 Misc/rust crates/cargo-dist.md",
     "200 Misc/rust crates/cargo-release.md",
+    "200 Misc/My rust tools and crates.md",
+    "200 Misc/rust crates/cargo-dist.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Templates in C++.md",
-    "200 Misc/My rust tools and crates.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "300 Zettelkasten/Rust workspaces.md",
     "400 Personal/Main Kanban.md",
