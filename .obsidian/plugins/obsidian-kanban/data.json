@@ -8,5 +8,7 @@
     }
   ],
   "new-note-folder": "909 Archive",
-  "hide-tags-in-title": true
+  "hide-tags-in-title": true,
+  "show-relative-date": true,
+  "date-picker-week-start": 1
 }
