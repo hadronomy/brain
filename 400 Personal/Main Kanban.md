@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## TODO
+## NEW :new:
 
 - [ ] Improve Github Profile README.md
 - [ ] Take notes about rust
