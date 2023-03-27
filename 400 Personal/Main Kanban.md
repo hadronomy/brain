@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] Take notes about rust
 
 
-## BACKLOG :log:
+## BACKLOG
 
 - [ ] Tailwind
 - [ ] Paper.js
@@ -35,6 +35,7 @@ kanban-plugin: basic
 
 ## DONE :white_check_mark:
 
+**Complete**
 
 
 
