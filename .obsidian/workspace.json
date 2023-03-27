@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800 Obsidian/Using Codeblocks.md",
+                "file": "800 Obsidian/Using Dataview.md",
                 "mode": "preview",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800 Obsidian/Using Codeblocks.md",
+                "file": "800 Obsidian/Using Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "800 Obsidian/Using Codeblocks.md",
+                "file": "800 Obsidian/Using Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "800 Obsidian/Using Codeblocks.md"
+                "file": "800 Obsidian/Using Dataview.md"
               }
             }
           },
@@ -259,8 +259,8 @@
   },
   "active": "aec1326a975a5cd9",
   "lastOpenFiles": [
-    "800 Obsidian/Using Dataview.md",
     "800 Obsidian/Using Codeblocks.md",
+    "800 Obsidian/Using Dataview.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "800 Obsidian/Notetaking in Obsidian.md",
