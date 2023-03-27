@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## NEW :new:
 
 - [ ] Improve Github Profile README.md
-- [ ] Take notes about rust
 
 
 ## BACKLOG
@@ -27,6 +26,7 @@ kanban-plugin: basic
 
 - [ ] graphit
 - [ ] psmt-rs
+- [ ] Take notes about rust #rust
 
 
 ## IN REVIEW
