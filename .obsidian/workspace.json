@@ -11,11 +11,9 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Expose wsl to the network.md",
-                "mode": "preview",
-                "source": false
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expose wsl to the network.md",
+                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expose wsl to the network.md",
+                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expose wsl to the network.md"
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           },
@@ -160,9 +158,9 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "100 Diaries/Expose wsl to the network.md",
     "400 Personal/Main Kanban.md",
     "200 Misc/Great WebUI's for Inspiration.md",
-    "Expose wsl to the network.md",
     "conflict-files-obsidian-git.md",
     "200 Misc/My rust tools and crates.md",
     "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
@@ -174,7 +172,7 @@
     "800 Obsidian/Backup Obsidian Using Git.md",
     "300 Zettelkasten/Rust workspaces.md",
     "Monorepos.md",
-    "My node tools and packages.md",
+    "200 Misc/My node tools and packages.md",
     "800 Obsidian/Notetaking in Obsidian.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
     "800 Obsidian/Using Dataview.md",
