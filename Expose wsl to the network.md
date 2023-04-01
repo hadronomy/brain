@@ -9,7 +9,7 @@ This allows to expose the `wsl` instance to the network, allowing it to get it's
 3. Open `Hyper-V`.
 4. Connect to local.
 5. Click  `Manage virtual switchs` button of the right panel.
-6. Create a new 
+6. Create a new virtual switch as `External`. For
 
 ## Resources
 
