@@ -5,7 +5,9 @@ This allows to expose the `wsl` instance to the network, allowing it to get it's
 ## How 
 
 1. Enable the `Hyper-V` feature on your windows machine.
-2. 
+2. Reboot
+3. Open `Hyper-V`
+4. 
 
 ## Resources
 
