@@ -7,7 +7,8 @@ kanban-plugin: basic
 ## NEW :new:
 
 - [ ] Improve Github Profile README.md
-- [ ] Checkout `ansible` #dev
+- [ ] Checkout `ansible` #devenv
+- [ ] Install `autoenv` #devenv
 
 
 ## BACKLOG
