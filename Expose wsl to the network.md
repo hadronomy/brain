@@ -11,7 +11,12 @@ This allows to expose the `wsl` instance to the network, allowing it to get it's
 5. Click  `Manage virtual switchs` button of the right panel.
 6. Create a new virtual switch as `External`. 
 7. Create or edit the `.wslconfig` located at `C:\Users\{YOUR-USER}`
-8. Ensure that it constains the followi
+8. Ensure that it contains the following:
+```toml
+[wsl2]
+networkingMode = "bridged"
+vmSwitch = "Bridge" # Here goes the name of the switch you previously created
+```
 
 ## Resources
 
