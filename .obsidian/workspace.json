@@ -11,16 +11,6 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "400 Personal/Main Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "d378b4d18fd5b624",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Expose wsl to the network.md",
@@ -30,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -169,9 +158,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d378b4d18fd5b624",
+  "active": "03ca43c302d91f42",
   "lastOpenFiles": [
     "400 Personal/Main Kanban.md",
+    "200 Misc/Great WebUI's for Inspiration.md",
     "Expose wsl to the network.md",
     "conflict-files-obsidian-git.md",
     "200 Misc/My rust tools and crates.md",
@@ -180,7 +170,6 @@
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/My rust tools and crates.html",
     "200 Misc/rust crates/cargo-dist.md",
-    "200 Misc/Great WebUI's for Inspiration.md",
     "300 Zettelkasten/Templates in C++.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "300 Zettelkasten/Rust workspaces.md",
