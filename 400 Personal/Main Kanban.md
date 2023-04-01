@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## NEW :new:
 
 - [ ] Improve Github Profile README.md
-- [ ] Checkout `ansible` #dev-env
+- [ ] Checkout `ansible` #dev
 
 
 ## BACKLOG
@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] Tailwind
 - [ ] Paper.js
 - [ ] Github Issues workflow
+- [ ] Create a custom windows image with everything I use ready
 
 
 ## READY
