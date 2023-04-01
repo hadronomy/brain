@@ -17,6 +17,9 @@ This allows to expose the `wsl` instance to the network, allowing it to get it's
 networkingMode = "bridged"
 vmSwitch = "Bridge" # Here goes the name of the switch you previously created
 ```
+9. Run `wsl --shutdown`.
+10. Open a new `wsl` terminal.
+11. Everything should work now 😄
 
 ## Resources
 
