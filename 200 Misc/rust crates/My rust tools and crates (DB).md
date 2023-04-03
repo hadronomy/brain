@@ -127,7 +127,7 @@ columns:
     sortIndex: -1
     width: 205
     options:
-      - { label: "hello", value: "hello", color: "hsl(271, 95%, 90%)"}
+      - { label: "cargo", value: "cargo", color: "hsl(29, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -137,6 +137,10 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
+      content_alignment: text-align-left
+      content_vertical_alignment: align-middle
+      wrap_content: true
   __modified__:
     key: __modified__
     id: __modified__
@@ -149,6 +153,8 @@ columns:
     csvCandidate: true
     width: 186
     position: 7
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
