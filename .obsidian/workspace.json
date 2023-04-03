@@ -30,6 +30,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
+                "file": "200 Misc/My rust tools and crates.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "03ca43c302d91f42",
+  "active": "c9dd7e57051fad9b",
   "lastOpenFiles": [
-    "200 Misc/My node tools and packages.md",
     "200 Misc/rust crates/My rust tools and crates (DB).md",
+    "200 Misc/My node tools and packages.md",
     "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/dialoguer.md",
     "200 Misc/rust crates/owo_colors.md",
