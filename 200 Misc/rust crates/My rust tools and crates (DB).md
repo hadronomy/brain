@@ -77,7 +77,7 @@ columns:
     accessorKey: crates-io
     key: crates-io
     id: crates-io
-    label: crates-io
+    label: homepage
     position: 4
     skipPersist: false
     isHidden: false
