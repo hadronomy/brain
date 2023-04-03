@@ -173,6 +173,7 @@
   "lastOpenFiles": [
     "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/My rust tools and crates (DB).md",
+    "200 Misc/rust crates/clap.md",
     "200 Misc/rust crates/cargo-watch.md",
     "200 Misc/rust crates/cargo-shuttle.md",
     "200 Misc/rust crates/cargo-release.md",
@@ -199,7 +200,6 @@
     "300 Zettelkasten/Rust Macros.md",
     "200 Misc/rust crates",
     "Untitled.canvas",
-    "Proxmox Home Server.md",
-    "100 Diaries/Using Cygwin for your Windows Development Environment.md"
+    "Proxmox Home Server.md"
   ]
 }
