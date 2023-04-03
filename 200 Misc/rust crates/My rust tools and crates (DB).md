@@ -61,7 +61,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 199
+    width: 118
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -121,13 +121,34 @@ columns:
     key: tags
     id: tags
     label: tags
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 241
+    width: 205
     options:
       - { label: "hello", value: "hello", color: "hsl(271, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  __modified__:
+    key: __modified__
+    id: __modified__
+    input: metadata_time
+    label: Modified
+    accessorKey: __modified__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: true
+    width: 186
+    position: 7
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -146,7 +167,7 @@ config:
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
   show_metadata_created: false
-  show_metadata_modified: false
+  show_metadata_modified: true
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
