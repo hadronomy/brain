@@ -81,9 +81,10 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 120
     config:
       enable_media_view: false
-      link_alias_enabled: false
+      link_alias_enabled: true
       media_width: 100
       media_height: 100
       isInline: false

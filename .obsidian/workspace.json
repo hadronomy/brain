@@ -11,9 +11,11 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
+                "file": "200 Misc/rust crates/cargo-dist.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md",
+                "file": "200 Misc/rust crates/cargo-dist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md",
+                "file": "200 Misc/rust crates/cargo-dist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
+                "file": "200 Misc/rust crates/cargo-dist.md"
               }
             }
           },
@@ -159,9 +161,9 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "200 Misc/rust crates/My rust tools and crates (DB).md",
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/rust crates/cargo-dist.md",
-    "200 Misc/rust crates/My rust tools and crates (DB).md",
     "200 Misc/My rust tools and crates.md",
     "400 Personal/Main Kanban.md",
     "100 Diaries/Expose wsl to the network.md",
