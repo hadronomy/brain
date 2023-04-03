@@ -37,3 +37,4 @@ FROM #rust AND #rust-crate AND #cargo-plugin
 - [assert_fs](https://crates.io/crates/assert_fs) - Filesystem fixtures and assertions for testing.
 - [assert_cmd](https://crates.io/crates/assert_cmd) - Easy command initialization and assertions.
 - [tracing]() - 
+- spinach - 
