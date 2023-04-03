@@ -57,7 +57,7 @@ columns:
     key: docs
     id: docs
     label: docs
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -77,29 +77,31 @@ columns:
     key: crates-io
     id: crates-io
     label: crates-io
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
     config:
-      enable_media_view: true
-      link_alias_enabled: true
+      enable_media_view: false
+      link_alias_enabled: false
       media_width: 100
       media_height: 100
       isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      custom_link_alias: link
   short:
     input: text
     accessorKey: short
     key: short
     id: short
     label: short
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 438
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -109,6 +111,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-left
+      content_vertical_alignment: align-middle
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
