@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
+name: Rust tools and crates
 description: new description
 columns:
   column1:
