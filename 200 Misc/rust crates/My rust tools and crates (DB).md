@@ -63,14 +63,15 @@ columns:
     sortIndex: -1
     width: 118
     config:
-      enable_media_view: true
-      link_alias_enabled: true
+      enable_media_view: false
+      link_alias_enabled: false
       media_width: 100
       media_height: 100
       isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      custom_link_alias: link
   crates-io:
     input: text
     accessorKey: crates-io

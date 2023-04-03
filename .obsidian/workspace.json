@@ -16,6 +16,18 @@
                 "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
               }
             }
+          },
+          {
+            "id": "c9dd7e57051fad9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Misc/My rust tools and crates.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -159,11 +171,13 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
-    "200 Misc/rust crates/hey.md",
-    "200 Misc/rust crates/My rust tools and crates (DB).md",
-    "200 Misc/rust crates/cargo-dist.md",
     "200 Misc/My rust tools and crates.md",
+    "200 Misc/rust crates/My rust tools and crates (DB).md",
+    "200 Misc/rust crates/cargo-watch.md",
+    "200 Misc/rust crates/cargo-shuttle.md",
     "200 Misc/rust crates/cargo-release.md",
+    "200 Misc/rust crates/hey.md",
+    "200 Misc/rust crates/cargo-dist.md",
     "400 Personal/Main Kanban.md",
     "100 Diaries/Expose wsl to the network.md",
     "200 Misc/Great WebUI's for Inspiration.md",
@@ -186,7 +200,6 @@
     "200 Misc/rust crates",
     "Untitled.canvas",
     "Proxmox Home Server.md",
-    "100 Diaries/Using Cygwin for your Windows Development Environment.md",
-    "T.md"
+    "100 Diaries/Using Cygwin for your Windows Development Environment.md"
   ]
 }
