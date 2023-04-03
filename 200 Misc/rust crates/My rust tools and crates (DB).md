@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    isHidden: false
+    isHidden: true
     position: 0
     sortIndex: -1
     config:
@@ -49,6 +49,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-left
+      content_vertical_alignment: align-middle
 config:
   remove_field_when_delete_column: false
   cell_size: normal
