@@ -12,7 +12,7 @@ columns:
     input: text
     key: column1
     accessorKey: column1
-    label: Column 1
+    label: Crate
     position: 0
     skipPersist: false
     isHidden: false
@@ -37,6 +37,8 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     isHidden: true
+    position: 0
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
