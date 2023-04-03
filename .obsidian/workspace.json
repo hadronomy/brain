@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md"
+                "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md",
+                "file": "200 Misc/rust crates/My rust tools and crates (DB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md",
+                "file": "200 Misc/rust crates/My rust tools and crates (DB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md"
+                "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
     "200 Misc/My rust tools and crates.md",
-    "200 Misc/rust crates/Untitled database.md",
+    "200 Misc/rust crates/My rust tools and crates (DB).md",
     "400 Personal/Main Kanban.md",
     "100 Diaries/Expose wsl to the network.md",
     "200 Misc/Great WebUI's for Inspiration.md",
