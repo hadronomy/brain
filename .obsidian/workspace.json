@@ -173,6 +173,7 @@
   "lastOpenFiles": [
     "200 Misc/My rust tools and crates.md",
     "200 Misc/rust crates/My rust tools and crates (DB).md",
+    "200 Misc/rust crates/dialoguer.md",
     "200 Misc/rust crates/owo_colors.md",
     "200 Misc/rust crates/clap.md",
     "200 Misc/rust crates/cargo-watch.md",
@@ -198,7 +199,6 @@
     "800 Obsidian/Using Codeblocks.md",
     "700 Templates/Idea.md",
     "300 Zettelkasten/Singletons in C++.md",
-    "300 Zettelkasten/Rust Macros.md",
     "200 Misc/rust crates",
     "Untitled.canvas"
   ]
