@@ -92,7 +92,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      custom_link_alias: link
+      custom_link_alias: 
   short:
     input: text
     accessorKey: short
@@ -130,6 +130,7 @@ columns:
     options:
       - { label: "cargo", value: "cargo", color: "hsl(29, 95%, 90%)"}
       - { label: "tool", value: "tool", color: "hsl(231, 95%, 90%)"}
+      - { label: "lib", value: "lib", color: "hsl(162, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
