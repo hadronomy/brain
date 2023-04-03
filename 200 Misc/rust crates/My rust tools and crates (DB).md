@@ -115,6 +115,28 @@ columns:
       content_alignment: text-align-left
       content_vertical_alignment: align-middle
       wrap_content: true
+  tags:
+    input: tags
+    accessorKey: tags
+    key: tags
+    id: tags
+    label: tags
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 241
+    options:
+      - { label: "hello", value: "hello", color: "hsl(271, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
