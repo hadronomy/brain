@@ -6,6 +6,7 @@ crates-io: https://crates.io/crates/cargo-dist
 docs: null
 tags:
   - cargo
+  - tool
 ---
 #rust #rust-crate #cargo-plugin 
 

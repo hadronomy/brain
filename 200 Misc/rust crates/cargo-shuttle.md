@@ -4,4 +4,7 @@ short: Build & ship a backend without writing any infrastructure files. Instead
   get your infrastructure definitions from your code function signatures and
   annotations.
 crates-io: https://www.shuttle.rs/
+tags:
+  - cargo
+  - tool
 ---

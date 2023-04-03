@@ -129,6 +129,7 @@ columns:
     width: 205
     options:
       - { label: "cargo", value: "cargo", color: "hsl(29, 95%, 90%)"}
+      - { label: "tool", value: "tool", color: "hsl(231, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

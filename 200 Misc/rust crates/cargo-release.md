@@ -5,6 +5,7 @@ crates-io: https://crates.io/crates/cargo-release
 docs: null
 tags:
   - cargo
+  - tool
 ---
 #rust #rust-crate #cargo-plugin
 
