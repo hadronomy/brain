@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.51103591918945
+    "width": 284.51103591918945
   },
   "right": {
     "id": "9ab8247dcc6e5572",
@@ -170,7 +170,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c9dd7e57051fad9b",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
     "200 Misc/rust crates/My rust tools and crates (DB).md",
     "200 Misc/My node tools and packages.md",
