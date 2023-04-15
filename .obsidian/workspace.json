@@ -11,9 +11,11 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "200 Misc/rust crates/My rust tools and crates (DB).md"
+                "file": "200 Misc/My node tools and packages.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -30,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md"
+                "file": "200 Misc/My node tools and packages.md"
               }
             }
           },
@@ -170,7 +171,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "03ca43c302d91f42",
   "lastOpenFiles": [
     "200 Misc/rust crates/My rust tools and crates (DB).md",
     "200 Misc/My node tools and packages.md",
