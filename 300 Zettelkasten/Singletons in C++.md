@@ -20,9 +20,9 @@ class Singleton {
 
 ```cpp
 class IInProgress {
- IInProgress Name();
- IInProgress InternalFuctions();
- IComplete Complete();
+ virtual IInProgress Name() = 0;
+ virtual IInProgress InternalFuctions() = 0;
+ virtual IComplete Complete() = 0;
 };
 ```
 
@@ -37,7 +37,9 @@ class ShellBuilder : public IInProgress, IComplete {
  public:
   ShellBuilder() {}
 
-  
+  IInProgress Name();
+  IInProgress InternalFuctions();
+  IComplete Complete();
 
  private:
 };
