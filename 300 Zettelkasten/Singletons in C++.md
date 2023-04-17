@@ -28,7 +28,7 @@ class IInProgress {
 
 ```cpp
 class IComplete {
-
+	
 };
 ```
 
