@@ -18,58 +18,6 @@ class Singleton {
 };
 ```
 
-```cpp
-class IInProgress {
- virtual IInProgress Name() = 0;
- virtual IInProgress InternalFuctions() = 0;
- virtual IComplete Complete() = 0;
-};
-```
-
-```cpp
-typedef IInProgress;
-```
-
-```cpp
-
-class Shell() {
- public:
-  static ShellBuilder<IInProgress> Builder() {
-	return ShellBuilder<IInProgress>();
-  }
-}
-
-template<>
-class ShellBuilder<IInProgress> {
- public:
-  ShellBuilder() {}
-
-  ShellBuilder<IInProgress> Name();
-  ShellBuilder<IInProgress> InternalFuctions();
-  ShellBuilder<IComplete> Complete();
-
- private:
-};
-
-template<>
-class ShellBuilder<IComplete> {
- public:
-  ShellBuilder() {}
-
-}
-```
-
-```cpp
-
-IComplete shell = Shell::Builder()
-	.Name("jupiter")
-	.InternalFunction(.......)
-	.Complete();
-
-```
-
-
-
 ## How does it work
 
 We delegate the external construction of the class to the `GetInstance()` function.
