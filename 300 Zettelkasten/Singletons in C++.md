@@ -45,7 +45,11 @@ class ShellBuilder<IInProgress> {
 };
 
 template<>
-class ShellBuilder<I
+class ShellBuilder<IComplete> {
+ public:
+  ShellBuilder() {}
+
+}
 ```
 
 ```cpp
