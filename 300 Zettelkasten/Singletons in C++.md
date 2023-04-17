@@ -19,8 +19,10 @@ class Singleton {
 ```
 
 ```cpp
-class IInprogress {
- //
+class IInProgress {
+ IInProgress Name();
+ IInProgress InternalFuctions();
+ IComplete Complete();
 };
 ```
 
