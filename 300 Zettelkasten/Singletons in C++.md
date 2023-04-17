@@ -32,10 +32,10 @@ typedef IInProgress;
 
 ```cpp
 
-class ShellBuilder() {
+class Shell() {
  public:
   static ShellBuilder<IInProgress> Builder() {
-	return ShellBuilder<IInP
+	return ShellBuilder<IInProgress>();
   }
 }
 
@@ -61,7 +61,7 @@ class ShellBuilder<IComplete> {
 
 ```cpp
 
-IComplete shell = ShellBuilder()
+IComplete shell = Shell::Builder()
 	.Name("jupiter")
 	.InternalFunction(.......)
 	.Complete();
