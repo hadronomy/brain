@@ -33,11 +33,12 @@ class IComplete {
 ```
 
 ```cpp
-class ShellBuilder {
+class ShellBuilder : public IInProgress, IComplete {
  public:
   ShellBuilder() {}
 
   
+
  private:
 };
 ```
