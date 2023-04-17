@@ -161,6 +161,10 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "300 Zettelkasten/Templates in C++.md",
+    "300 Zettelkasten/Singletons in C++.md",
+    "300 Zettelkasten/Rust workspaces.md",
+    "300 Zettelkasten/Rust Macros.md",
     "800 Obsidian/Using Codeblocks.md",
     "200 Misc/My rust tools and crates.md",
     "200 Misc/Great WebUI's for Inspiration.md",
@@ -180,15 +184,11 @@
     "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
-    "300 Zettelkasten/Templates in C++.md",
     "800 Obsidian/Backup Obsidian Using Git.md",
-    "300 Zettelkasten/Rust workspaces.md",
     "Monorepos.md",
     "800 Obsidian/Notetaking in Obsidian.md",
     "800 Obsidian/Use Emojis In Obsidian.md",
     "800 Obsidian/Using Dataview.md",
-    "700 Templates/Idea.md",
-    "300 Zettelkasten/Singletons in C++.md",
     "200 Misc/rust crates",
     "Untitled.canvas"
   ]
