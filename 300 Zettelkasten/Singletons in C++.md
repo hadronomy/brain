@@ -28,7 +28,7 @@ class IInProgress {
 
 ```cpp
 class IComplete {
-	
+
 };
 ```
 
@@ -37,9 +37,9 @@ class ShellBuilder : public IInProgress, IComplete {
  public:
   ShellBuilder() {}
 
-  IInProgress Name();
-  IInProgress InternalFuctions();
-  IComplete Complete();
+  ShellBuilder<IInProgress> Name();
+  ShellBuilder<IInProgress> InternalFuctions();
+  ShellBuilder<IComplete> Complete();
 
  private:
 };
