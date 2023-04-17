@@ -32,6 +32,13 @@ typedef IInProgress;
 
 ```cpp
 
+class ShellBuilder() {
+ public:
+  static ShellBuilder<IInProgress> Builder() {
+	return ShellBuilder<IInP
+  }
+}
+
 template<>
 class ShellBuilder<IInProgress> {
  public:
