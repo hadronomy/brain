@@ -27,13 +27,13 @@ class IInProgress {
 ```
 
 ```cpp
-class IComplete {
-
-};
+typedef IInProgress;
 ```
 
 ```cpp
-class ShellBuilder : public IInProgress, IComplete {
+
+template<>
+class ShellBuilder<IInProgress> {
  public:
   ShellBuilder() {}
 
@@ -43,6 +43,9 @@ class ShellBuilder : public IInProgress, IComplete {
 
  private:
 };
+
+template<>
+class ShellBuilder<I
 ```
 
 ```cpp
