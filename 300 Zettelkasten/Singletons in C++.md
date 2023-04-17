@@ -19,9 +19,24 @@ class Singleton {
 ```
 
 ```cpp
+class IInprogress {
+ //
+};
+```
+
+```cpp
+class IComplete {
+
+};
+```
+
+```cpp
 class ShellBuilder {
  public:
+  ShellBuilder() {}
 
+  
+ private:
 };
 ```
 
