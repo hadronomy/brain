@@ -14,7 +14,7 @@ class Singleton {
   void operator =(const Singleton&) = delete;
   
  private:
-  Shell() = default;
+  Singleton() = default;
 };
 ```
 
