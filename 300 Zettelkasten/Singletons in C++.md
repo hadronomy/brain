@@ -47,10 +47,10 @@ class ShellBuilder : public IInProgress, IComplete {
 
 ```cpp
 
-let shell = ShellBuilder()
+IComplete shell = ShellBuilder()
 	.Name("jupiter")
 	.InternalFunction(.......)
-	.Complete
+	.Complete();
 
 ```
 
