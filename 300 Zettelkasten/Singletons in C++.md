@@ -18,9 +18,6 @@ class Singleton {
 };
 ```
 
-Funcional <------------ std::funcion
-
-
 ## How does it work
 
 We delegate the external construction of the class to the `GetInstance()` function.
