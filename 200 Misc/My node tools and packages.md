@@ -17,4 +17,4 @@ with everything you love from [Next.js](https://nextjs.org/). (Awesome for docs
 
 ## Stacks
 
-- [T3](https://create.t3.gg) - Made by Theo, simply awesome. (I just have to set the app directory and a few things more)
+- [T3](https://create.t3.gg) - Made by Theo, simply awesome. (I just have to setup the app directory and styling)
