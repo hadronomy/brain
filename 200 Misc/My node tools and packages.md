@@ -12,5 +12,9 @@
 
 - [nextra](https://nextra.site) - Simple, powerful and flexible site generation framework  
 with everything you love from [Next.js](https://nextjs.org/). (Awesome for docs)
-- [next](https://beta.nextjs.org/docs) - We all know you my love
-- [sveltekit]()
+- [next](https://beta.nextjs.org/docs) - We all know you my love.
+- [sveltekit](https://kit.svelte.dev/docs/introduction) - My other love (Shhh next doesn't know yet).
+
+## Stacks
+
+- [t3]
