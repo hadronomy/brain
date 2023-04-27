@@ -18,7 +18,7 @@ with everything you love from [Next.js](https://nextjs.org/). (Awesome for docs
 ## UI
 
 - [shadcn-ui](https://ui.shadcn.com) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [radix](radix-ui.com)
+- [radix](https://radix-ui.com) - <3
 
 ## Stacks
 
