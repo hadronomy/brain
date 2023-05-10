@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] Paper.js
 - [ ] https://liveblocks.io
 - [ ] React-Node
+- [ ] Drizzle
 
 
 ## READY
