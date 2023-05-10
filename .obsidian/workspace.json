@@ -11,11 +11,9 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
-                "mode": "preview",
-                "source": false
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My node tools and packages.md"
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           },
@@ -161,9 +159,11 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "900 Files/Configure obsidian-git.png",
+    "700 Templates/Idea.md",
+    "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "().md",
-    "200 Misc/My node tools and packages.md",
     "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Templates in C++.md",
     "300 Zettelkasten/Rust workspaces.md",
@@ -187,8 +187,6 @@
     "200 Misc/My rust tools and crates.html",
     "800 Obsidian/Backup Obsidian Using Git.md",
     "Monorepos.md",
-    "800 Obsidian/Notetaking in Obsidian.md",
-    "800 Obsidian/Use Emojis In Obsidian.md",
     "200 Misc/rust crates",
     "Untitled.canvas"
   ]
