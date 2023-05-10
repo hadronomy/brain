@@ -6,32 +6,24 @@ kanban-plugin: basic
 
 ## NEW :new:
 
-- [ ] Improve Github Profile README.md
 - [ ] Checkout `ansible` #devenv
 - [ ] Install `autoenv` #devenv
 
 
 ## CHECKOUT
 
-- [ ] Tailwind
 - [ ] Paper.js
-- [ ] Github Issues workflow
-- [ ] Create a custom windows image with everything I use ready
+- [ ] https://liveblocks.io
+- [ ] React-Node
 
 
 ## READY
 
-- [ ] toffee
-- [ ] blog
 
 
 ## WORK IN PROGRESS
 
 - [ ] Take notes about rust #rust
-
-
-## IN REVIEW
-
 
 
 ## DONE :white_check_mark:
