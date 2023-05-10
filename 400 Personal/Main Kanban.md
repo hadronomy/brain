@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] https://liveblocks.io
 - [ ] React-Node
 - [ ] Drizzle
+- [ ] Prisma Update
 
 
 ## READY
