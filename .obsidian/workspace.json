@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "200 Misc/My node tools and packages.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -162,10 +162,10 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates/Rust Crates.md",
     "200 Misc/My rust tools and crates.md",
-    "200 Misc/My node tools and packages.md",
     "400 Personal/Main Kanban.md",
     "Proxmox Home Server.md",
     "900 Files/Configure obsidian-git.png",
