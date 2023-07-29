@@ -1,16 +1,19 @@
----
---
 #node #tools #programming 
 
 ## Tools
 
  - [alias-hq](https://www.npmjs.com/package/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases.
  - [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by [esbuild](https://github.com/evanw/esbuild).
+ - vite
+ - rome
+ - eslint
+ - prettier
  
 ## Packages
 
 - [cypress]() - With Cypress, you can easily create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds.
 - [zod](https://zod.dev) - TypeScript-first schema declaration and validation library.
+- 
 
 ## Frameworks
 
