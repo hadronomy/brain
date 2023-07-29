@@ -11,11 +11,9 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
-                "mode": "source",
-                "source": false
+                "file": "200 Misc/rust crates/Untitled database.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "200 Misc/rust crates/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "200 Misc/rust crates/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md"
+                "file": "200 Misc/rust crates/Untitled database.md"
               }
             }
           }
@@ -162,8 +160,9 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
-    "200 Misc/My node tools and packages.md",
     "200 Misc/My rust tools and crates.md",
+    "200 Misc/rust crates/Untitled database.md",
+    "200 Misc/My node tools and packages.md",
     "400 Personal/Main Kanban.md",
     "Proxmox Home Server.md",
     "900 Files/Configure obsidian-git.png",
@@ -190,7 +189,6 @@
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
     "800 Obsidian/Backup Obsidian Using Git.md",
-    "Monorepos.md",
     "200 Misc/rust crates",
     "Untitled.canvas"
   ]
