@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] Paper.js
 - [ ] https://liveblocks.io
 - [ ] React-Node
+- [ ] https://vercel.com/templates/react/turborepo-design-system
 
 
 ## READY
@@ -22,6 +23,7 @@ kanban-plugin: basic
 ## WORK IN PROGRESS
 
 - [ ] Take notes about rust #rust
+- [ ] Websocket project in rust #rust
 
 
 ## DONE :white_check_mark:
