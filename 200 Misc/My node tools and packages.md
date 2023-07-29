@@ -13,6 +13,7 @@
  - husky -
  - lint-staged -
  - contentlayer -
+ - changesets -
  
 ## Packages
 
