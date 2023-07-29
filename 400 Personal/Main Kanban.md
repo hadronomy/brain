@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## NEW :new:
 
-- [ ] Checkout `ansible` #devenv
-- [ ] Install `autoenv` #devenv
 
 
 ## CHECKOUT
@@ -15,8 +13,6 @@ kanban-plugin: basic
 - [ ] Paper.js
 - [ ] https://liveblocks.io
 - [ ] React-Node
-- [ ] Drizzle
-- [ ] Prisma Update
 
 
 ## READY
@@ -31,6 +27,9 @@ kanban-plugin: basic
 ## DONE :white_check_mark:
 
 **Complete**
+- [x] Drizzle
+- [x] Checkout `ansible` #devenv
+- [x] Install `autoenv` #devenv
 
 
 ***
