@@ -8,24 +8,6 @@ database-plugin: basic
 name: new database
 description: new description
 columns:
-  column1:
-    input: text
-    key: column1
-    accessorKey: column1
-    label: Column 1
-    position: 0
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   __file__:
     key: __file__
     id: __file__
@@ -37,7 +19,7 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     isHidden: true
-    position: 0
+    position: 2
     sortIndex: -1
     config:
       enable_media_view: true
@@ -54,7 +36,7 @@ columns:
     key: Name
     id: Name
     label: Name
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -73,7 +55,7 @@ columns:
     key: crates-io
     id: crates-io
     label: crates-io
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -92,7 +74,7 @@ columns:
     key: docs
     id: docs
     label: docs
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -111,7 +93,7 @@ columns:
     key: title
     id: title
     label: title
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1

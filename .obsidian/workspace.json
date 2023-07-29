@@ -11,9 +11,11 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md"
+                "file": "200 Misc/My node tools and packages.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/rust crates/Untitled database.md"
+                "file": "200 Misc/My node tools and packages.md"
               }
             }
           }
@@ -160,14 +162,14 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "200 Misc/Great WebUI's for Inspiration.md",
+    "200 Misc/rust crates/Rust Crates.md",
     "200 Misc/My rust tools and crates.md",
-    "200 Misc/rust crates/Untitled database.md",
     "200 Misc/My node tools and packages.md",
     "400 Personal/Main Kanban.md",
     "Proxmox Home Server.md",
     "900 Files/Configure obsidian-git.png",
     "700 Templates/Idea.md",
-    "200 Misc/Great WebUI's for Inspiration.md",
     "().md",
     "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Templates in C++.md",
