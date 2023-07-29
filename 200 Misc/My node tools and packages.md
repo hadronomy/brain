@@ -18,7 +18,9 @@
 - [cypress]() - With Cypress, you can easily create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds.
 - [zod](https://zod.dev) - TypeScript-first schema declaration and validation library.
 - tailwind-merge
-- 
+- react-wrap-balancer
+- date-fns
+- class-variance-authority -
 
 ## Frameworks
 
