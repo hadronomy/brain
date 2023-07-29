@@ -37,12 +37,90 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     isHidden: true
+    position: 0
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
       media_width: 100
       media_height: 100
       isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Name:
+    input: text
+    accessorKey: Name
+    key: Name
+    id: Name
+    label: Name
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  crates-io:
+    input: text
+    accessorKey: crates-io
+    key: crates-io
+    id: crates-io
+    label: crates-io
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  docs:
+    input: text
+    accessorKey: docs
+    key: docs
+    id: docs
+    label: docs
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  title:
+    input: text
+    accessorKey: title
+    key: title
+    id: title
+    label: title
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
