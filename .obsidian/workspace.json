@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My node tools and packages.md"
+                "file": "200 Misc/My rust tools and crates.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "03ca43c302d91f42",
   "lastOpenFiles": [
-    "200 Misc/My rust tools and crates.md",
     "200 Misc/My node tools and packages.md",
+    "200 Misc/My rust tools and crates.md",
     "400 Personal/Main Kanban.md",
     "Proxmox Home Server.md",
     "900 Files/Configure obsidian-git.png",
