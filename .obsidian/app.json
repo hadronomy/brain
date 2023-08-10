@@ -11,9 +11,6 @@
   "attachmentFolderPath": "Files",
   "showFrontmatter": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "es",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "showInlineTitle": true
 }
