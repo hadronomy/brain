@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] React-Node
 - [ ] https://vercel.com/templates/react/turborepo-design-system
 - [ ] Nextjs A/B testing
+- [ ] Redis for realtime
 
 
 ## READY
