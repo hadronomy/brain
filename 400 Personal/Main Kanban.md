@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] https://liveblocks.io
 - [ ] React-Node
 - [ ] https://vercel.com/templates/react/turborepo-design-system
+- [ ] Nextjs A/B testing
 
 
 ## READY

@@ -23,6 +23,7 @@
 - react-wrap-balancer -
 - date-fns -
 - class-variance-authority -
+- tailwind-variants
 
 ## Frameworks
 
