@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 
 
-## CHECKOUT
+## CHECK
 
 - [ ] Paper.js
 - [ ] https://liveblocks.io
@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] https://vercel.com/templates/react/turborepo-design-system
 - [ ] Nextjs A/B testing
 - [ ] Redis for realtime
+- [ ] https://upstash.com/blog/nextjs-caching-with-redis
 
 
 ## READY
