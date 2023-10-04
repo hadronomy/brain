@@ -16,8 +16,19 @@
                 "file": "400 Personal/Main Kanban.md"
               }
             }
+          },
+          {
+            "id": "940bfb31a9d8ae14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,6 +146,16 @@
                 "file": "400 Personal/Main Kanban.md"
               }
             }
+          },
+          {
+            "id": "d0112b6f8e520f2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -158,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ca43c302d91f42",
+  "active": "940bfb31a9d8ae14",
   "lastOpenFiles": [
     "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
