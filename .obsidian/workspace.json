@@ -26,9 +26,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "060485a0f891a4b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -179,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "940bfb31a9d8ae14",
+  "active": "060485a0f891a4b9",
   "lastOpenFiles": [
     "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
