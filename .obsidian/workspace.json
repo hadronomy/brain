@@ -72,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ca43c302d91f42",
+  "active": "fe0aa24c8f2fafa8",
   "lastOpenFiles": [
     "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
