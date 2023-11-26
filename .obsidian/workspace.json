@@ -11,9 +11,11 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "400 Personal/Main Kanban.md"
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -72,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Personal/Main Kanban.md",
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400 Personal/Main Kanban.md",
+                "file": "200 Misc/Great WebUI's for Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "400 Personal/Main Kanban.md"
+                "file": "200 Misc/Great WebUI's for Inspiration.md"
               }
             }
           },
@@ -169,13 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe0aa24c8f2fafa8",
+  "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "Monorepos.md",
+    "400 Personal/Main Kanban.md",
     "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates/Rust Crates.md",
     "200 Misc/My rust tools and crates.md",
-    "400 Personal/Main Kanban.md",
     "Proxmox Home Server.md",
     "900 Files/Configure obsidian-git.png",
     "700 Templates/Idea.md",
@@ -199,7 +201,6 @@
     "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
-    "800 Obsidian/Backup Obsidian Using Git.md",
     "200 Misc/rust crates",
     "Untitled.canvas"
   ]
