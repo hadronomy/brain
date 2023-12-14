@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] Nextjs A/B testing
 - [ ] Redis for realtime
 - [ ] https://upstash.com/blog/nextjs-caching-with-redis
+- [ ] https://tiptap.dev/introduction
 
 
 ## READY

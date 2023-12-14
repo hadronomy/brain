@@ -11,11 +11,9 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "200 Misc/rust crates/clap.md",
-                "mode": "preview",
-                "source": false
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/rust crates/clap.md",
+                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/rust crates/clap.md",
+                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/rust crates/clap.md"
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           },
@@ -172,6 +170,8 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "900 Files/Configure obsidian-git.png",
+    "200 Misc/rust crates/clap.md",
     "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Templates in C++.md",
     "300 Zettelkasten/Rust workspaces.md",
@@ -183,14 +183,12 @@
     "200 Misc/rust crates/Rust Crates.md",
     "200 Misc/My rust tools and crates.md",
     "Proxmox Home Server.md",
-    "900 Files/Configure obsidian-git.png",
     "700 Templates/Idea.md",
     "().md",
     "800 Obsidian/Using Codeblocks.md",
     "200 Misc/rust crates/My rust tools and crates (DB).md",
     "200 Misc/rust crates/dialoguer.md",
     "200 Misc/rust crates/owo_colors.md",
-    "200 Misc/rust crates/clap.md",
     "200 Misc/rust crates/cargo-watch.md",
     "200 Misc/rust crates/cargo-shuttle.md",
     "200 Misc/rust crates/cargo-release.md",
@@ -198,7 +196,6 @@
     "200 Misc/rust crates/cargo-dist.md",
     "100 Diaries/Expose wsl to the network.md",
     "conflict-files-obsidian-git.md",
-    "909 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
     "200 Misc/rust crates",
