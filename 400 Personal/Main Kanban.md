@@ -18,6 +18,7 @@ kanban-plugin: basic
 - [ ] Redis for realtime
 - [ ] https://upstash.com/blog/nextjs-caching-with-redis
 - [ ] https://tiptap.dev/introduction
+- [ ] https://novel.sh
 
 
 ## READY
