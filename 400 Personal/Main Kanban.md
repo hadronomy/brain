@@ -25,16 +25,11 @@ kanban-plugin: basic
 
 ## WORK IN PROGRESS
 
-- [ ] Take notes about rust #rust
-- [ ] Websocket project in rust #rust
 
 
 ## DONE :white_check_mark:
 
 **Complete**
-- [x] Drizzle
-- [x] Checkout `ansible` #devenv
-- [x] Install `autoenv` #devenv
 
 
 ***
