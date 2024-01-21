@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## NEW :new:
 
 - [ ] Flake DevShell https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
+- [ ] Project: url-shortener<br>example: https://dub.co
 
 
 ## CHECK
