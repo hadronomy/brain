@@ -6,15 +6,13 @@ kanban-plugin: basic
 
 ## NEW :new:
 
+- [ ] Flake DevShell https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
 
 
 ## CHECK
 
 - [ ] Paper.js
 - [ ] https://liveblocks.io
-- [ ] React-Node
-- [ ] https://vercel.com/templates/react/turborepo-design-system
-- [ ] Nextjs A/B testing
 - [ ] Redis for realtime
 - [ ] https://upstash.com/blog/nextjs-caching-with-redis
 - [ ] https://tiptap.dev/introduction
