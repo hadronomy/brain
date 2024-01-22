@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] Flake DevShell https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
 - [ ] Project: url-shortener<br>example: https://dub.co
 - [ ] Project: like https://squoosh.app but for video using ffmpeg and those things
+- [ ] Project: typing test
 
 
 ## CHECK
