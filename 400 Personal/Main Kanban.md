@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] Project: url-shortener<br>example: https://dub.co
 - [ ] Project: like https://squoosh.app but for video using ffmpeg and those things
 - [ ] Project: typing test
+- [ ] Inspiration for portfolio: https://floriankiem.com/about
 
 
 ## CHECK
