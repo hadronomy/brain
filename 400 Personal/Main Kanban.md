@@ -11,6 +11,8 @@ kanban-plugin: basic
 - [ ] Project: typing test
 - [ ] Inspiration for portfolio: https://floriankiem.com/about
 - [ ] Stripe Connect
+- [ ] https://monaspace.githubnext.com
+- [ ] https://fonts.google.com/specimen/Onest
 
 
 ## CHECK
