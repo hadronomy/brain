@@ -11,8 +11,8 @@ kanban-plugin: basic
 - [ ] Project: typing test
 - [ ] Inspiration for portfolio: https://floriankiem.com/about
 - [ ] Stripe Connect
-- [ ] https://monaspace.githubnext.com
-- [ ] https://fonts.google.com/specimen/Onest
+- [ ] Check this out https://monaspace.githubnext.com
+- [ ] Use this for portfolio -https://github.com/jsonresume/resume-schema
 
 
 ## CHECK
@@ -37,6 +37,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] Flake DevShell https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
+- [x] https://fonts.google.com/specimen/Onest
 
 
 ***
