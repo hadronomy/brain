@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] Stripe Connect
 - [ ] Check this out https://monaspace.githubnext.com
 - [ ] Use this for portfolio -https://github.com/jsonresume/resume-schema
+- [ ] GITPOD GITPOD GITPOD - NEED THIS SHITTT
 
 
 ## CHECK
