@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "baseFontSize": 16,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
