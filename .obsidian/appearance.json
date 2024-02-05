@@ -3,7 +3,7 @@
   "cssTheme": "Catppuccin",
   "baseFontSize": 16,
   "theme": "obsidian",
-  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
-  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
