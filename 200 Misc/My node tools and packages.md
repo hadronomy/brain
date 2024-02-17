@@ -15,7 +15,7 @@
  - lint-staged -
  - contentlayer -
  - changesets -
- - bunchee
+ - [bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
  
 ## Packages
 
@@ -33,10 +33,11 @@
 with everything you love from [Next.js](https://nextjs.org/). (Awesome for docs)
 - [next](https://nextjs.org/docs) - We all know you my love.
 - [sveltekit](https://kit.svelte.dev/docs/introduction) - My other love (Shhh next doesn't know yet).
+- [astro]()
 
 ## UI
 
-- [shadcn-ui](https://ui.shadcn.com) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui](https://ui.shadcn.com) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. <3
 - [radix](https://radix-ui.com) - <3
 
 ## Stacks
