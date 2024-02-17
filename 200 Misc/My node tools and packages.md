@@ -33,7 +33,7 @@
 with everything you love from [Next.js](https://nextjs.org/). (Awesome for docs)
 - [next](https://nextjs.org/docs) - We all know you my love.
 - [sveltekit](https://kit.svelte.dev/docs/introduction) - My other love (Shhh next doesn't know yet).
-- [astro]()
+- [astro](https://astro.build) - The web framework for content-driven websites
 
 ## UI
 
