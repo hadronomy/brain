@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94bdc8a77035b6e5",
+        "id": "a87af9650d51a49a",
         "type": "tabs",
         "children": [
           {
-            "id": "03ca43c302d91f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "500 University/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f70f734c9659951e",
+            "id": "f1a1241b8c0fa7f6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 University/Untitled.md",
+                "file": "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "500 University/Untitled.md",
+                "file": "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 University/Untitled.md"
+                "file": "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md"
               }
             }
           },
@@ -190,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ca43c302d91f42",
+  "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
     "500 University/Untitled.md",
+    "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
     "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "400 Personal/Main Kanban.md",
