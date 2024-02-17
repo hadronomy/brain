@@ -11,9 +11,11 @@
             "id": "03ca43c302d91f42",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md"
+                "file": "300 Zettelkasten/Rust Macros.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
+                "file": "300 Zettelkasten/Rust Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
+                "file": "300 Zettelkasten/Rust Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md"
+                "file": "300 Zettelkasten/Rust Macros.md"
               }
             }
           },
@@ -180,6 +182,8 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "400 Personal/Main Kanban.md",
+    "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
     "README.md",
     "Monorepos.md",
     "Proxmox Home Server.md",
@@ -187,8 +191,6 @@
     "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Rust workspaces.md",
     "300 Zettelkasten/Rust Macros.md",
-    "400 Personal/Main Kanban.md",
-    "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
     "Excalidraw",
     "900 Files/Configure obsidian-git.png",
     "200 Misc/rust crates/clap.md",
