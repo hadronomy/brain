@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 University/Untitled.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 University/Untitled.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "500 University/Untitled.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 University/Untitled.md"
+                "file": "200 Misc/My rust tools and crates.md"
               }
             }
           },
@@ -182,9 +182,10 @@
   },
   "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
-    "500 University/Untitled.md",
     "200 Misc/My node tools and packages.md",
+    "200 Misc/rust crates/cargo-dist.md",
+    "500 University/Untitled.md",
+    "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "400 Personal/Main Kanban.md",
     "().md",
@@ -210,7 +211,6 @@
     "200 Misc/rust crates/cargo-watch.md",
     "200 Misc/rust crates/cargo-shuttle.md",
     "200 Misc/rust crates/cargo-release.md",
-    "200 Misc/rust crates/hey.md",
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
     "200 Misc/rust crates",
