@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Zettelkasten/Rust Macros.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Zettelkasten/Rust Macros.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Zettelkasten/Rust Macros.md",
+                "file": "200 Misc/My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Zettelkasten/Rust Macros.md"
+                "file": "200 Misc/My node tools and packages.md"
               }
             }
           },
@@ -182,20 +182,20 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "200 Misc/Great WebUI's for Inspiration.md",
+    "300 Zettelkasten/Templates in C++.md",
+    "300 Zettelkasten/Singletons in C++.md",
+    "300 Zettelkasten/Rust workspaces.md",
+    "300 Zettelkasten/Rust Macros.md",
     "400 Personal/Main Kanban.md",
     "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
     "README.md",
     "Monorepos.md",
     "Proxmox Home Server.md",
     "500 University/Untitled",
-    "300 Zettelkasten/Singletons in C++.md",
-    "300 Zettelkasten/Rust workspaces.md",
-    "300 Zettelkasten/Rust Macros.md",
     "Excalidraw",
     "900 Files/Configure obsidian-git.png",
     "200 Misc/rust crates/clap.md",
-    "300 Zettelkasten/Templates in C++.md",
-    "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/My node tools and packages.md",
     "200 Misc/rust crates/Rust Crates.md",
     "200 Misc/My rust tools and crates.md",

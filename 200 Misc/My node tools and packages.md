@@ -6,7 +6,7 @@
  - [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by [esbuild](https://github.com/evanw/esbuild).
  - vite -
  - vitest -
- - rome -
+ - biome -
  - eslint -
  - prettier -
  - tailwind -
