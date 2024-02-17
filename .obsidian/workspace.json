@@ -149,14 +149,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "5073b8a3732298cd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ca43c302d91f42",
+  "active": "5073b8a3732298cd",
   "lastOpenFiles": [
     "300 Zettelkasten/Rust workspaces.md",
     "300 Zettelkasten/Rust Macros.md",

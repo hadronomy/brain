@@ -3,8 +3,8 @@
   "cssTheme": "",
   "baseFontSize": 16,
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "translucency": false
 }
