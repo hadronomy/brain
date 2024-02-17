@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "500 University/Untitled.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f70f734c9659951e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md"
               }
             }
           }
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "500 University/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "500 University/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My node tools and packages.md"
+                "file": "500 University/Untitled.md"
               }
             }
           },
@@ -182,10 +192,12 @@
   },
   "active": "03ca43c302d91f42",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
+    "500 University/Untitled.md",
+    "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "400 Personal/Main Kanban.md",
     "().md",
-    "200 Misc/My node tools and packages.md",
     "300 Zettelkasten/Templates in C++.md",
     "300 Zettelkasten/Singletons in C++.md",
     "300 Zettelkasten/Rust workspaces.md",
@@ -209,8 +221,6 @@
     "200 Misc/rust crates/cargo-shuttle.md",
     "200 Misc/rust crates/cargo-release.md",
     "200 Misc/rust crates/hey.md",
-    "200 Misc/rust crates/cargo-dist.md",
-    "100 Diaries/Expose wsl to the network.md",
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
     "200 Misc/rust crates",
