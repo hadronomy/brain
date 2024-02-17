@@ -11,9 +11,11 @@
  - prettier -
  - tailwind -
  - husky -
+ - lefthook
  - lint-staged -
  - contentlayer -
  - changesets -
+ - bunchee
  
 ## Packages
 
