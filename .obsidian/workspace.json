@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My node tools and packages.md",
+                "file": "200 Misc/My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My node tools and packages.md"
+                "file": "200 Misc/My rust tools and crates.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
-    "200 Misc/My rust tools and crates.md",
     "200 Misc/My node tools and packages.md",
+    "200 Misc/My rust tools and crates.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates/cargo-dist.md",
     "300 Zettelkasten/Rust Macros.md",
