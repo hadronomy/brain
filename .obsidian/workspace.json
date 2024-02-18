@@ -182,6 +182,8 @@
   },
   "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "200 Misc/My rust tools and crates.md",
     "200 Misc/My node tools and packages.md",
     "200 Misc/rust crates/cargo-dist.md",
     "500 University/Untitled.md",
@@ -202,7 +204,6 @@
     "900 Files/Configure obsidian-git.png",
     "200 Misc/rust crates/clap.md",
     "200 Misc/rust crates/Rust Crates.md",
-    "200 Misc/My rust tools and crates.md",
     "700 Templates/Idea.md",
     "800 Obsidian/Using Codeblocks.md",
     "200 Misc/rust crates/My rust tools and crates (DB).md",
@@ -210,10 +211,8 @@
     "200 Misc/rust crates/owo_colors.md",
     "200 Misc/rust crates/cargo-watch.md",
     "200 Misc/rust crates/cargo-shuttle.md",
-    "200 Misc/rust crates/cargo-release.md",
     "909 Archive",
     "200 Misc/My rust tools and crates.html",
-    "200 Misc/rust crates",
-    "Untitled.canvas"
+    "200 Misc/rust crates"
   ]
 }
