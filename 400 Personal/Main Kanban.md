@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] Use this for portfolio -https://github.com/jsonresume/resume-schema
 - [ ] GITPOD GITPOD GITPOD - NEED THIS SHITTT
 - [ ] linear.app
+- [ ] typst >= portfolio
 
 
 ## CHECK

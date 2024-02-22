@@ -11,11 +11,9 @@
             "id": "f1a1241b8c0fa7f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
-                "mode": "preview",
-                "source": false
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "400 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md",
+                "file": "400 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Misc/My rust tools and crates.md"
+                "file": "400 Personal/Main Kanban.md"
               }
             }
           },
@@ -182,8 +180,8 @@
   },
   "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
-    "200 Misc/My node tools and packages.md",
     "200 Misc/My rust tools and crates.md",
+    "200 Misc/My node tools and packages.md",
     "200 Misc/Great WebUI's for Inspiration.md",
     "200 Misc/rust crates/cargo-dist.md",
     "300 Zettelkasten/Rust Macros.md",
