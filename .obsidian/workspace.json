@@ -16,19 +16,8 @@
                 "file": "400 Personal/Main Kanban.md"
               }
             }
-          },
-          {
-            "id": "07ceac027a8022a3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -189,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07ceac027a8022a3",
+  "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
     "200 Misc/My rust tools and crates.md",
     "200 Misc/My node tools and packages.md",

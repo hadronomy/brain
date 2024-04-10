@@ -26,6 +26,7 @@ kanban-plugin: basic
 - [ ] https://upstash.com/blog/nextjs-caching-with-redis
 - [ ] https://tiptap.dev/introduction
 - [ ] https://novel.sh
+- [ ] Construct 2
 
 
 ## READY
