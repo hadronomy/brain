@@ -11,9 +11,11 @@
             "id": "f1a1241b8c0fa7f6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "04 Personal/Main Kanban.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Personal/Main Kanban.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Personal/Main Kanban.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Personal/Main Kanban.md"
+                "file": "README.md"
               }
             }
           },
@@ -178,8 +180,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "f1a1241b8c0fa7f6",
   "lastOpenFiles": [
+    "04 Personal/Main Kanban.md",
     "02 Misc/My rust tools and crates.md",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
@@ -190,7 +193,6 @@
     "Untitled.canvas",
     "500 University/Untitled.md",
     "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
-    "04 Personal/Main Kanban.md",
     "().md",
     "03 Zettelkasten/Templates in C++.md",
     "03 Zettelkasten/Singletons in C++.md",
