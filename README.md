@@ -1,4 +1,3 @@
----
 
 #docs #obsidian 
 # Hadronomy's Obsidian Vault

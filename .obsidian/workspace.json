@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "03 Zettelkasten/Rust Macros.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03 Zettelkasten/Rust Macros.md"
               }
             }
           },
@@ -180,9 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1a1241b8c0fa7f6",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
     "04 Personal/Main Kanban.md",
+    "06 Obsidian/Backup Obsidian Using Git.md",
+    "06 Obsidian/Use Emojis In Obsidian.md",
+    "06 Obsidian/Using Dataview.md",
+    "06 Obsidian/Using Codeblocks.md",
+    "06 Obsidian/Notetaking in Obsidian.md",
+    "README.md",
     "02 Misc/My rust tools and crates.md",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
@@ -197,7 +203,6 @@
     "03 Zettelkasten/Templates in C++.md",
     "03 Zettelkasten/Singletons in C++.md",
     "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
-    "README.md",
     "Monorepos.md",
     "Proxmox Home Server.md",
     "500 University/Untitled",
@@ -206,12 +211,7 @@
     "02 Misc/rust crates/clap.md",
     "02 Misc/rust crates/Rust Crates.md",
     "99 Templates/Idea.md",
-    "06 Obsidian/Using Codeblocks.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",
-    "02 Misc/rust crates/dialoguer.md",
-    "02 Misc/rust crates/owo_colors.md",
-    "02 Misc/rust crates/cargo-watch.md",
-    "02 Misc/rust crates/cargo-shuttle.md",
     "404 Archive",
     "200 Misc/My rust tools and crates.html",
     "02 Misc/rust crates"
