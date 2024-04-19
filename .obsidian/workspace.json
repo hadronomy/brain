@@ -11,11 +11,9 @@
             "id": "f1a1241b8c0fa7f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
-                "mode": "preview",
-                "source": false
+                "file": "04 Personal/Main Kanban.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "04 Personal/Main Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "04 Personal/Main Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md"
+                "file": "04 Personal/Main Kanban.md"
               }
             }
           },
@@ -182,6 +180,14 @@
   },
   "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "02 Misc/rust crates/dialoguer.md",
+    "02 Misc/rust crates/My rust tools and crates (DB).md",
+    "02 Misc/rust crates/owo_colors.md",
+    "02 Misc/rust crates/clap.md",
+    "02 Misc/rust crates/cargo-watch.md",
+    "02 Misc/rust crates/cargo-release.md",
+    "02 Misc/rust crates/cargo-dist.md",
+    "03 Zettelkasten/Rust Macros.md",
     "04 Personal/Main Kanban.md",
     "06 Obsidian/Backup Obsidian Using Git.md",
     "06 Obsidian/Use Emojis In Obsidian.md",
@@ -192,10 +198,7 @@
     "02 Misc/My rust tools and crates.md",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
-    "02 Misc/rust crates/cargo-dist.md",
-    "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/Rust workspaces.md",
-    "02 Misc/rust crates/cargo-release.md",
     "Untitled.canvas",
     "500 University/Untitled.md",
     "Excalidraw/Drawing 2024-02-17 01.23.13.excalidraw.md",
@@ -204,14 +207,9 @@
     "03 Zettelkasten/Singletons in C++.md",
     "Excalidraw/Drawing 2024-02-17 01.14.42.excalidraw.md",
     "Monorepos.md",
-    "Proxmox Home Server.md",
     "500 University/Untitled",
     "Excalidraw",
     "09 Files/Configure obsidian-git.png",
-    "02 Misc/rust crates/clap.md",
-    "02 Misc/rust crates/Rust Crates.md",
-    "99 Templates/Idea.md",
-    "02 Misc/rust crates/My rust tools and crates (DB).md",
     "404 Archive",
     "200 Misc/My rust tools and crates.html",
     "02 Misc/rust crates"

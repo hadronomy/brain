@@ -196,6 +196,7 @@ config:
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
   enable_footer: false
   implementation: default
+  show_metadata_tags: false
 filters:
   enabled: false
   conditions:
