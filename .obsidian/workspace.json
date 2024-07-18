@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md"
+                "file": "01 Diaries/Expose wsl to the network.md"
               }
             }
           },
@@ -183,32 +183,32 @@
   },
   "active": "2dd6d72a80356d75",
   "lastOpenFiles": [
-    "09 Files/Configure obsidian-git.png",
-    "99 Templates/Idea.md",
-    "04 Personal/Main Kanban.md",
-    "03 Zettelkasten/Singletons in C++.md",
-    "03 Zettelkasten/Rust workspaces.md",
-    "03 Zettelkasten/Templates in C++.md",
-    "03 Zettelkasten/Rust Macros.md",
-    "02 Misc/My rust tools and crates.md",
+    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
+    "02 Misc/My rust tools and crates.md",
+    "03 Zettelkasten/Rust Macros.md",
+    "03 Zettelkasten/Singletons in C++.md",
+    "03 Zettelkasten/Templates in C++.md",
+    "04 Personal/Main Kanban.md",
+    "06 Obsidian/Backup Obsidian Using Git.md",
+    "06 Obsidian/Notetaking in Obsidian.md",
+    "06 Obsidian/Use Emojis In Obsidian.md",
+    "06 Obsidian/Using Dataview.md",
+    "06 Obsidian/Using Codeblocks.md",
+    "09 Files/Configure obsidian-git.png",
+    "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
+    "99 Templates/Idea.md",
+    "03 Zettelkasten/Rust workspaces.md",
     "02 Misc/rust crates/clap.md",
     "02 Misc/rust crates/cargo-watch.md",
     "02 Misc/rust crates/cargo-shuttle.md",
     "02 Misc/rust crates/cargo-release.md",
     "02 Misc/rust crates/cargo-dist.md",
     "01 Diaries/Expose wsl to the network.md",
-    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "02 Misc/rust crates/dialoguer.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",
     "02 Misc/rust crates/owo_colors.md",
-    "06 Obsidian/Backup Obsidian Using Git.md",
-    "06 Obsidian/Use Emojis In Obsidian.md",
-    "06 Obsidian/Using Dataview.md",
-    "06 Obsidian/Using Codeblocks.md",
-    "06 Obsidian/Notetaking in Obsidian.md",
-    "README.md",
     "Untitled.canvas",
     "500 University/Untitled",
     "Excalidraw",
