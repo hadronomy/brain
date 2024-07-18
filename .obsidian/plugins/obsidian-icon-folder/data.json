@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookTemplate",
       "LiTrash2"
     ],
     "recentlyUsedIconsSize": 5,
@@ -16,7 +17,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
@@ -28,5 +29,6 @@
     "debugMode": false,
     "iconInTitlePosition": "above"
   },
-  "404 Archive": "LiTrash2"
+  "404 Archive": "LiTrash2",
+  "99 Templates": "LiBookTemplate"
 }
