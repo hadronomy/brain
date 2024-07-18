@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 Diaries/Expose wsl to the network.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +177,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2dd6d72a80356d75",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "01 Diaries/Expose wsl to the network.md",
+    "06 Obsidian/Notetaking in Obsidian.md",
+    "README.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
@@ -192,7 +191,6 @@
     "03 Zettelkasten/Templates in C++.md",
     "04 Personal/Main Kanban.md",
     "06 Obsidian/Backup Obsidian Using Git.md",
-    "06 Obsidian/Notetaking in Obsidian.md",
     "06 Obsidian/Use Emojis In Obsidian.md",
     "06 Obsidian/Using Dataview.md",
     "06 Obsidian/Using Codeblocks.md",
@@ -205,7 +203,6 @@
     "02 Misc/rust crates/cargo-shuttle.md",
     "02 Misc/rust crates/cargo-release.md",
     "02 Misc/rust crates/cargo-dist.md",
-    "01 Diaries/Expose wsl to the network.md",
     "02 Misc/rust crates/dialoguer.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",
     "02 Misc/rust crates/owo_colors.md",
