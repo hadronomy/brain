@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dd6d72a80356d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Misc/rust crates/cargo-watch.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "85212c5785617751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Misc/rust crates/cargo-watch.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Misc/rust crates/cargo-watch.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Misc/rust crates/cargo-watch.md"
+                "file": "02 Misc/My node tools and packages.md"
               }
             }
           }
@@ -173,16 +161,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2dd6d72a80356d75",
+  "active": "85212c5785617751",
   "lastOpenFiles": [
-    "02 Misc/rust crates/cargo-shuttle.md",
     "02 Misc/My rust tools and crates.md",
+    "02 Misc/Great WebUI's for Inspiration.md",
+    "02 Misc/rust crates/cargo-watch.md",
+    "02 Misc/rust crates/cargo-shuttle.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",
     "02 Misc/My node tools and packages.md",
-    "02 Misc/Great WebUI's for Inspiration.md",
     "02 Misc/rust crates/cargo-release.md",
     "02 Misc/rust crates/cargo-dist.md",
-    "02 Misc/rust crates/cargo-watch.md",
     "01 Diaries/Expose wsl to the network.md",
     "Untitled Kanban.md",
     "2024-07-18.md",
