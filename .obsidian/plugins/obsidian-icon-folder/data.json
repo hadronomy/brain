@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFiles",
+      "TiFolder",
       "LiBookTemplate",
       "LiTrash2"
     ],
@@ -30,5 +32,12 @@
     "iconInTitlePosition": "above"
   },
   "404 Archive": "LiTrash2",
-  "99 Templates": "LiBookTemplate"
+  "99 Templates": "LiBookTemplate",
+  "09 Files": "LiFiles",
+  "06 Obsidian": "TiFolder",
+  "05 University": "TiFolder",
+  "04 Personal": "TiFolder",
+  "03 Zettelkasten": "TiFolder",
+  "02 Misc": "TiFolder",
+  "01 Diaries": "TiFolder"
 }
