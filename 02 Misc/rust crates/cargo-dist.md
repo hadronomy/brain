@@ -6,6 +6,9 @@ docs:
 tags:
   - cargo
   - tool
+  - rust-crate
+  - rust
+  - cargo-plugin
 ---
 #rust #rust-crate #cargo-plugin 
 

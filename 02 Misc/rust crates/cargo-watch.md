@@ -5,4 +5,5 @@ crates-io: https://www.shuttle.rs/
 tags:
   - cargo
   - tool
+docs:
 ---
