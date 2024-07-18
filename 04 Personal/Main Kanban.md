@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Stripe Connect
 - [ ] Inspiration for portfolio: https://floriankiem.com/about
 - [ ] Use this for portfolio -https://github.com/jsonresume/resume-schema
+- [ ] OMG COOL CELL SHADING https://www.youtube.com/watch?v=eBS3BOI5KnM
 
 
 ## CHECK
