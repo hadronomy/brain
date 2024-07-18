@@ -14,7 +14,6 @@ kanban-plugin: board
 - [ ] Project: typing test
 - [ ] Inspiration for portfolio: https://floriankiem.com/about
 - [ ] Stripe Connect
-- [ ] Check this out https://monaspace.githubnext.com
 - [ ] Use this for portfolio -https://github.com/jsonresume/resume-schema
 
 
@@ -40,6 +39,7 @@ kanban-plugin: board
 ## DONE :white_check_mark:
 
 **Complete**
+- [x] Check this out https://monaspace.githubnext.com
 - [x] Flake DevShell https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
 - [x] https://fonts.google.com/specimen/Onest
 
