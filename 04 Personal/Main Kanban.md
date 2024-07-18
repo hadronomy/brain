@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## NEW :new:
@@ -53,6 +55,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","table-sizing":{"card":720}}
+{"kanban-plugin":"board","table-sizing":{"card":720}}
 ```
 %%
