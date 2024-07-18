@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a87af9650d51a49a",
+        "id": "0f81c51353b906fa",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a1241b8c0fa7f6",
+            "id": "2dd6d72a80356d75",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "04 Personal/Main Kanban.md"
+                "file": "04 Personal/Main Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -175,10 +179,11 @@
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "2dd6d72a80356d75",
   "lastOpenFiles": [
     "02 Misc/rust crates/dialoguer.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",

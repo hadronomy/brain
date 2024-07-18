@@ -1,12 +1,15 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
 ## NEW :new:
 
-- [ ] Project: url-shortener<br>example: https://dub.co
+- [ ] Checkout beelink mini pcs for homelab
+	https://www.youtube.com/watch?v=2yplBzPCghA
+- [ ] Project: url-shortener
+	example: https://dub.co
 - [ ] Project: like https://squoosh.app but for video using ffmpeg and those things
 - [ ] Project: typing test
 - [ ] Inspiration for portfolio: https://floriankiem.com/about
@@ -51,6 +54,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%
