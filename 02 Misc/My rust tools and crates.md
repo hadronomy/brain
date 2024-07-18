@@ -13,13 +13,14 @@ TABLE short AS Description, crates-io AS "Crates.io", docs AS Docs
 FROM #rust AND #rust-crate AND #cargo-plugin 
 ```
 
+
 ### Cargo Plugins (cargo-whatever)
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
 - [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
 - [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
 - [watch](https://crates.io/crates/cargo-watch) - Watches over your Cargo project’s source
-- [nextest]()
+- [nextest](https://github.com/nextest-rs/nextest) -  next-generation test runner for Rust.
 
 ## Crates
 
