@@ -5,5 +5,8 @@ crates-io: https://www.shuttle.rs/
 tags:
   - cargo
   - tool
+  - cargo-plugin
+  - rust
+  - rust-crate
 docs:
 ---
