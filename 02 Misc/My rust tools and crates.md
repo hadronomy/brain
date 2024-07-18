@@ -19,6 +19,7 @@ FROM #rust AND #rust-crate AND #cargo-plugin
 - [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
 - [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
 - [watch](https://crates.io/crates/cargo-watch) - Watches over your Cargo project’s source
+- [nextest]()
 
 ## Crates
 
