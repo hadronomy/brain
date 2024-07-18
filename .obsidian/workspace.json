@@ -163,8 +163,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f14745a328d02424",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "Untitled",
     "03 Zettelkasten/Rust Macros.md",
     "04 Personal/Main Kanban.md",
     "03 Zettelkasten/Rust workspaces.md",
@@ -191,7 +192,6 @@
     "09 Files/Configure obsidian-git.png",
     "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
     "99 Templates/Idea.md",
-    "02 Misc/rust crates/clap.md",
     "Untitled.canvas",
     "500 University/Untitled",
     "Excalidraw",
