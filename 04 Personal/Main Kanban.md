@@ -6,14 +6,8 @@ kanban-plugin: board
 
 ## NEW :new:
 
-- [ ] Checkout beelink mini pcs for homelab
-	https://www.youtube.com/watch?v=2yplBzPCghA
-- [ ] Project: url-shortener
-	example: https://dub.co
-- [ ] Project: like https://squoosh.app but for video using ffmpeg and those things
-- [ ] Project: typing test
-- [ ] Inspiration for portfolio: https://floriankiem.com/about
 - [ ] Stripe Connect
+- [ ] Inspiration for portfolio: https://floriankiem.com/about
 - [ ] Use this for portfolio -https://github.com/jsonresume/resume-schema
 
 
@@ -26,10 +20,16 @@ kanban-plugin: board
 - [ ] https://tiptap.dev/introduction
 - [ ] https://novel.sh
 - [ ] https://coolify.io/self-hosted
+- [ ] Project: url-shortener
+	example: https://dub.co
+- [ ] Project: like https://squoosh.app but for video using ffmpeg and those things
+- [ ] Project: typing test
 
 
 ## READY
 
+- [ ] Checkout beelink mini pcs for homelab
+	https://www.youtube.com/watch?v=2yplBzPCghA
 
 
 ## WORK IN PROGRESS
