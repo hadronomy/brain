@@ -10,7 +10,6 @@ tags:
   - rust
   - cargo-plugin
 ---
-#rust #rust-crate #cargo-plugin 
 
 ## Description
 

@@ -2,12 +2,15 @@
 title: cargo-release
 short: Everything about releasing a rust crate.
 crates-io: https://crates.io/crates/cargo-release
-docs: null
+docs: 
 tags:
   - cargo
   - tool
+  - rust
+  - rust-crate
+  - cargo-plugin
 ---
-#rust #rust-crate #cargo-plugin
+
 
 ## Description
 

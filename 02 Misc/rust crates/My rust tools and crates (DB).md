@@ -131,6 +131,9 @@ columns:
       - { label: "cargo", value: "cargo", color: "hsl(29, 95%, 90%)"}
       - { label: "tool", value: "tool", color: "hsl(231, 95%, 90%)"}
       - { label: "lib", value: "lib", color: "hsl(162, 95%, 90%)"}
+      - { label: "rust", value: "rust", color: "hsl(163, 95%, 90%)"}
+      - { label: "rust-crate", value: "rust-crate", color: "hsl(49, 95%, 90%)"}
+      - { label: "cargo-plugin", value: "cargo-plugin", color: "hsl(210, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
