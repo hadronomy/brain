@@ -139,6 +139,18 @@
                 "file": "04 Personal/Main Kanban.md"
               }
             }
+          },
+          {
+            "id": "f6521352214fc0b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -163,7 +175,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "f14745a328d02424",
   "lastOpenFiles": [
     "Untitled",
     "03 Zettelkasten/Rust Macros.md",
