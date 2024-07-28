@@ -11,13 +11,11 @@
             "id": "f14745a328d02424",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "04 Personal/Main Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "02 Misc/My node tools and packages.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Personal/Main Kanban.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Personal/Main Kanban.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Personal/Main Kanban.md"
+                "file": "02 Misc/My node tools and packages.md"
               }
             }
           },
@@ -177,9 +175,9 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
+    "04 Personal/Main Kanban.md",
     "Untitled",
     "03 Zettelkasten/Rust Macros.md",
-    "04 Personal/Main Kanban.md",
     "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
     "03 Zettelkasten/Singletons in C++.md",
