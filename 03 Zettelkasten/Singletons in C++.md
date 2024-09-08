@@ -5,7 +5,6 @@ tags:
   - design-pattern
 ---
 
-#programming #cpp #design-pattern
 
 ## Example
 
