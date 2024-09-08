@@ -4,10 +4,6 @@ tags:
   - tools
   - programming
 ---
-
-
-#todo
-
 ## Cargo Plugins `cargo-whatever`
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
