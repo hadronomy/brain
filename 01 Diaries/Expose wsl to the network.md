@@ -4,7 +4,7 @@ This allows to expose the `wsl` instance to the network, allowing it to get it's
 
 > [!note] Since `wsl2` version `2.0.5`
 > it's easier to expose `wsl` to the network.
-> see the for more information.
+> see the [[#Updated Version|updated version]] for more information.
 
 ## How
 
