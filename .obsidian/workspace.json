@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Misc/My node tools and packages.md",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Misc/My node tools and packages.md",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Misc/My node tools and packages.md",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Misc/My node tools and packages.md"
+                "file": "03 Zettelkasten/Rust Macros.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
+    "02 Misc/My node tools and packages.md",
     "04 Personal/Main Kanban.md",
     "Untitled",
     "03 Zettelkasten/Rust Macros.md",
@@ -182,7 +183,6 @@
     "03 Zettelkasten/Templates in C++.md",
     "03 Zettelkasten/Singletons in C++.md",
     "02 Misc/My rust tools and crates.md",
-    "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "02 Misc/rust crates/cargo-watch.md",
     "02 Misc/rust crates/cargo-shuttle.md",
