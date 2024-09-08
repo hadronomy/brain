@@ -1,4 +1,10 @@
-#rust #tools #programming
+---
+tags:
+  - rust
+  - tools
+  - programming
+---
+
 
 #todo
 

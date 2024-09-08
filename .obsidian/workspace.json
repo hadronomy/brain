@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "02 Misc/My node tools and packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md"
+                "file": "02 Misc/My node tools and packages.md"
               }
             }
           },
@@ -173,8 +174,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f14745a328d02424",
+  "active": "fe0aa24c8f2fafa8",
   "lastOpenFiles": [
+    "02 Misc/My rust tools and crates.md",
+    "02 Misc/My node tools and packages.md",
     "03 Zettelkasten/Singletons in C++.md",
     "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/Rust workspaces.md",
@@ -182,11 +185,9 @@
     "README.md~",
     "4913",
     "index.md",
-    "02 Misc/My node tools and packages.md",
     "04 Personal/Main Kanban.md",
     "Untitled",
     "03 Zettelkasten/Templates in C++.md",
-    "02 Misc/My rust tools and crates.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "02 Misc/rust crates/cargo-watch.md",
     "02 Misc/rust crates/cargo-shuttle.md",
