@@ -3,8 +3,8 @@
 This allows to expose the `wsl` instance to the network, allowing it to get it's `ip` from the `dhcp server` of the `router`.
 
 > [!note] Since `wsl2` version `2.0.5`
-> it's easier to expose `wsl` to the network.`
-> see
+> it's easier to expose `wsl` to the network.
+> see the [updated version](#updated-version) for more information.
 
 ## How
 
