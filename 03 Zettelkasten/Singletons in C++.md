@@ -1,3 +1,10 @@
+---
+tags:
+  - programming
+  - cpp
+  - design-pattern
+---
+
 #programming #cpp #design-pattern
 
 ## Example

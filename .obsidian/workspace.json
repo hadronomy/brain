@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
-                "mode": "preview",
+                "file": "03 Zettelkasten/Singletons in C++.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "03 Zettelkasten/Singletons in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "03 Zettelkasten/Singletons in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md"
+                "file": "03 Zettelkasten/Singletons in C++.md"
               }
             }
           },
@@ -175,14 +175,14 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
+    "03 Zettelkasten/Rust workspaces.md",
+    "03 Zettelkasten/Rust Macros.md",
     "README.md~",
     "4913",
     "index.md",
     "02 Misc/My node tools and packages.md",
     "04 Personal/Main Kanban.md",
     "Untitled",
-    "03 Zettelkasten/Rust Macros.md",
-    "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
     "03 Zettelkasten/Singletons in C++.md",
     "02 Misc/My rust tools and crates.md",
