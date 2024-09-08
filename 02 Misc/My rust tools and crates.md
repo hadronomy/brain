@@ -2,19 +2,7 @@
 
 #todo
 
-## Tools
-
-%%
-Move all of this into a obsidian database (For easy search and query)
-%%
-
-```dataview
-TABLE short AS Description, crates-io AS "Crates.io", docs AS Docs
-FROM #rust AND #rust-crate AND #cargo-plugin 
-```
-
-
-### Cargo Plugins (cargo-whatever)
+## Cargo Plugins `cargo-whatever`
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
 - [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
