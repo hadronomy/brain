@@ -175,6 +175,8 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
+    "README.md~",
+    "4913",
     "index.md",
     "02 Misc/My node tools and packages.md",
     "04 Personal/Main Kanban.md",
@@ -202,7 +204,6 @@
     "06 Obsidian/Using Codeblocks.md",
     "09 Files/Configure obsidian-git.png",
     "404 Archive/See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
-    "308 Templates/Idea.md",
     "Untitled.canvas",
     "500 University/Untitled",
     "Excalidraw",
