@@ -1,9 +1,12 @@
 ---
+id: My rust tools and crates
+aliases: []
 tags:
   - rust
   - tools
   - programming
 ---
+
 ## Cargo Plugins `cargo-whatever`
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
@@ -28,6 +31,6 @@ tags:
 - [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
 - [assert_fs](https://crates.io/crates/assert_fs) - Filesystem fixtures and assertions for testing.
 - [assert_cmd](https://crates.io/crates/assert_cmd) - Easy command initialization and assertions.
-- [tracing]() - 
-- spinach - 
-- handlebars-rust - 
+- [tracing]() -
+- spinach -
+- handlebars-rust -
