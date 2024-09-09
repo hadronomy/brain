@@ -1,6 +1,12 @@
-#rust #programming 
+---
+id: Rust Macros
+aliases: []
+tags:
+  - rust
+  - programing
+todo: true
+---
 
-#todo
 %%
 
 - Attribute-like
