@@ -1,4 +1,13 @@
-#git #obsidian #notes #docs #config 
+---
+id: Backup Obsidian Using Git
+aliases: []
+tags:
+  - git
+  - obsidian
+  - notes
+  - docs
+  - config
+---
 
 > [!note]
 > This will also backup your editor config
@@ -20,6 +29,7 @@ cd your-vault-directory-path
 ```bash
 git init
 ```
+
 ## Add Remote
 
 ```bash
@@ -44,7 +54,7 @@ git push -u origin master
 
 ## Configure `obsidian-git`
 
-- Set `Vault backup interval (minutes)` to anything you like. This will define how often obsidian pushes changes to Github. *Setting it to 0 will disable this functionality*.
-- Set `Auto pull interval (minutes)` to anything you like. This will define how often obsidian pulls changes from Github. *Setting it to 0 will disable this functionality*.
+- Set `Vault backup interval (minutes)` to anything you like. This will define how often obsidian pushes changes to Github. _Setting it to 0 will disable this functionality_.
+- Set `Auto pull interval (minutes)` to anything you like. This will define how often obsidian pulls changes from Github. _Setting it to 0 will disable this functionality_.
 
 ![[Configure obsidian-git.png]]

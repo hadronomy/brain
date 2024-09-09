@@ -1,4 +1,11 @@
-#docs #notes #obsidian
+---
+id: Notetaking in Obsidian
+aliases: []
+tags:
+  - docs
+  - notes
+  - obsidian
+---
 
 ## Configuration
 
