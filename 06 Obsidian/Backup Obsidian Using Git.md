@@ -22,7 +22,7 @@ git init
 ```
 
 > [!NOTE]
-You can also initialize a new repo using the `/`  commands
+> You can also initialize a new repo using the `/`  commands
 > `/GitInit`
 
 ## Add Remote
