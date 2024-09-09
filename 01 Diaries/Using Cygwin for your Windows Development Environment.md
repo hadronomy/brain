@@ -1,10 +1,14 @@
 ---
 id: Using Cygwin for your Windows Development Environment
 aliases: []
-tags: []
+tags:
+  - cygwin
+  - docs
+  - config
+  - tools
+  - windows
+  - programming
 ---
-
-#cygwin #docs #config #tools #windows #programming
 
 ## Download & Install
 

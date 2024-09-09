@@ -11,11 +11,9 @@
             "id": "f14745a328d02424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
-                "mode": "preview",
-                "source": false
+                "file": "09 Files/Configure obsidian-git.png"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "09 Files/Configure obsidian-git.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "09 Files/Configure obsidian-git.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md"
+                "file": "09 Files/Configure obsidian-git.png"
               }
             }
           },
@@ -175,9 +173,14 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
-    "01 Diaries/Expose wsl to the network.md~",
-    "01 Diaries/4913",
+    "04 Personal/Main Kanban.md",
+    "03 Zettelkasten/Singletons in C++.md",
+    "03 Zettelkasten/Rust workspaces.md",
+    "03 Zettelkasten/Rust Macros.md",
+    "02 Misc/My rust tools and crates.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
+    "01 Diaries/4913",
+    "01 Diaries/Expose wsl to the network.md~",
     "308 Templates/Idea.md~",
     "308 Templates/4913",
     "06 Obsidian/Using Dataview.md~",
@@ -185,15 +188,10 @@
     "06 Obsidian/Using Codeblocks.md~",
     "06 Obsidian/Use Emojis In Obsidian.md~",
     "06 Obsidian/Notetaking in Obsidian.md~",
-    "06 Obsidian/Backup Obsidian Using Git.md~",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
-    "04 Personal/Main Kanban.md",
-    "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/1725892554-HTMP.md",
-    "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
-    "03 Zettelkasten/Singletons in C++.md",
     "06 Obsidian/Backup Obsidian Using Git.md",
     "09 Files/Configure obsidian-git.png",
     "308 Templates/Idea.md",
@@ -202,7 +200,6 @@
     "06 Obsidian/Use Emojis In Obsidian.md",
     "06 Obsidian/Notetaking in Obsidian.md",
     "01 Diaries/Expose wsl to the network.md",
-    "02 Misc/My rust tools and crates.md",
     "README.md",
     "index.md",
     "02 Misc/rust crates/cargo-watch.md",
