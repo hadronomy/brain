@@ -1,10 +1,12 @@
 ---
 id: Using Codeblocks
 aliases: []
-tags: []
+tags:
+  - docs
+  - obsidian
+  - notes
+  - workflow
 ---
-
-#docs #obsidian #notes #workflow
 
 ## Usage
 
