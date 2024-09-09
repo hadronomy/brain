@@ -31,9 +31,9 @@ vmSwitch = "Bridge" # Here goes the name of the switch you previously created
 ## Updated Version
 
 Since `wsl2` version `2.0.5` it's easier to expose `wsl` to the network.
+
 Instead of creating a virtual switch, and setting the
 networking mode to `bridged`.
-
 The servers running in `wsl` can be exposed using the `mirrored` networking mode.
 
 ```toml
