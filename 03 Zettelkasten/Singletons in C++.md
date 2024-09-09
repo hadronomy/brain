@@ -1,10 +1,11 @@
 ---
+id: Singletons in C++
+aliases: []
 tags:
   - programming
   - cpp
   - design-pattern
 ---
-
 
 ## Example
 
@@ -18,7 +19,7 @@ class Singleton {
 
   Singleton(const Singleton&) = delete;
   void operator =(const Singleton&) = delete;
-  
+
  private:
   Singleton() = default;
 };
@@ -37,13 +38,15 @@ public:
   }
 ```
 
-For this to be enforced is also required to **delete** the `Copy` constructor and the `Move` operator. 
+For this to be enforced is also required to **delete** the `Copy` constructor and the `Move` operator.
+
 ```cpp
 Singleton(const Singleton&) = delete;
 void operator =(const Singleton&) = delete;
 ```
 
 Additionaly the `default constructor` has to be hidden from external access.
+
 ```cpp
 private:
   Shell() = default;

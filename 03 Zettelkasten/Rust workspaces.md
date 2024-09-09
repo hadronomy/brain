@@ -7,10 +7,8 @@ tags:
 todo: true
 ---
 
-#programming #rust
-
-#todo
-
 %%
+
 Usage and explanation
+
 %%

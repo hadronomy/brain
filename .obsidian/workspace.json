@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "03 Zettelkasten/Templates in C++.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "03 Zettelkasten/Templates in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "03 Zettelkasten/Templates in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md"
+                "file": "03 Zettelkasten/Templates in C++.md"
               }
             }
           },
@@ -175,17 +175,20 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
-    "03 Zettelkasten/Rust workspaces.md~",
+    "03 Zettelkasten/Templates in C++.md~",
+    "03 Zettelkasten/Singletons in C++.md",
+    "03 Zettelkasten/Singletons in C++.md~",
     "03 Zettelkasten/4913",
     "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Rust Macros.md",
+    "03 Zettelkasten/Rust workspaces.md~",
+    "03 Zettelkasten/Rust Macros.md~",
     "06 Obsidian/Backup Obsidian Using Git.md",
     "09 Files/Configure obsidian-git.png",
     "308 Templates/Idea.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "02 Misc/My node tools and packages.md",
-    "03 Zettelkasten/Singletons in C++.md",
     "03 Zettelkasten/Templates in C++.md",
     "06 Obsidian/Using Codeblocks.md",
     "06 Obsidian/Use Emojis In Obsidian.md",
@@ -209,9 +212,6 @@
     "Untitled Kanban.md",
     "2024-07-18.md",
     "06 Obsidian/Using Dataview.md",
-    "Untitled.canvas",
-    "500 University/Untitled",
-    "Excalidraw",
-    "404 Archive"
+    "Untitled.canvas"
   ]
 }
