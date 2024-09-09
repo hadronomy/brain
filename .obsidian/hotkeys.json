@@ -14,5 +14,14 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": []
 }
