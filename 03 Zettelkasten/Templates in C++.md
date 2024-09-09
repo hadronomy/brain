@@ -1,12 +1,11 @@
 ---
 id: Templates in C++
 aliases: []
-tags: []
+tags:
+  - programming
+  - cpp
+todo: true
 ---
-
-#programming #cpp
-
-#todo
 
 %%
 TODO: - General template explanation with drawbacks and ways to make it better - Template specification
