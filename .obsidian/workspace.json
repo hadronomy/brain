@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md",
+                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/Rust Macros.md"
+                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md"
               }
             }
           },
@@ -175,9 +175,9 @@
   },
   "active": "f14745a328d02424",
   "lastOpenFiles": [
+    "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
-    "03 Zettelkasten/Rust Macros.md",
     "09 Files/Configure obsidian-git.png",
     "04 Personal/Main Kanban.md",
     "03 Zettelkasten/Singletons in C++.md",
