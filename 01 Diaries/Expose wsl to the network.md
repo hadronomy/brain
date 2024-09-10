@@ -11,7 +11,8 @@ tags:
 
 ## Description
 
-This allows to expose the `wsl` instance to the network, allowing it to get it's `ip` from the `dhcp server` of the `router`.
+This allows to expose the `wsl` instance to the network,
+allowing it to get it's `ip` from the `dhcp server` of the `router`.
 
 > [!note]
 > Since `wsl2` version `2.0.5`
