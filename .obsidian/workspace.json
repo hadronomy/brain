@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Misc/Great WebUI's for Inspiration.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Misc/Great WebUI's for Inspiration.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Misc/Great WebUI's for Inspiration.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Misc/Great WebUI's for Inspiration.md"
+                "file": "01 Diaries/Expose wsl to the network.md"
               }
             }
           },
@@ -176,11 +176,11 @@
   },
   "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
-    "02 Misc/My node tools and packages.md",
-    "02 Misc/Great WebUI's for Inspiration.md",
-    "01 Diaries/1725984944-GEIH.md",
-    "01 Diaries/Expose wsl to the network.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
+    "01 Diaries/Expose wsl to the network.md",
+    "01 Diaries/1725984944-GEIH.md",
+    "02 Misc/Great WebUI's for Inspiration.md",
+    "02 Misc/My node tools and packages.md",
     "404 Archive",
     "README.md",
     "conflict-files-obsidian-git.md",
