@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 Diaries/Expose wsl to the network.md"
               }
             }
           },
@@ -166,18 +166,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
+    "01 Diaries/Expose wsl to the network.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "index.md",
     "README.md~",
     "4913",
     "06 Obsidian/Backup Obsidian Using Git.md",
-    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
@@ -200,7 +206,6 @@
     "06 Obsidian/Using Codeblocks.md",
     "06 Obsidian/Use Emojis In Obsidian.md",
     "06 Obsidian/Notetaking in Obsidian.md",
-    "01 Diaries/Expose wsl to the network.md",
     "02 Misc/rust crates/cargo-watch.md",
     "02 Misc/rust crates/cargo-shuttle.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",
