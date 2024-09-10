@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
+                "file": "01 Diaries/1725984944-GEIH.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.51103591918945
+    "width": 284.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9ab8247dcc6e5572",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
+                "file": "01 Diaries/1725984944-GEIH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
+                "file": "01 Diaries/1725984944-GEIH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md"
+                "file": "01 Diaries/1725984944-GEIH.md"
               }
             }
           },
@@ -176,8 +177,8 @@
   },
   "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
-    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "01 Diaries/Expose wsl to the network.md",
+    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "01 Diaries/1725984944-GEIH.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "02 Misc/My node tools and packages.md",
