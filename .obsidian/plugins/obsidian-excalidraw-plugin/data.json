@@ -8,6 +8,7 @@
   "compress": true,
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
+  "onceOffGPTVersionReset": false,
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
@@ -35,6 +36,7 @@
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
+  "penModeDoubleTapEraser": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
@@ -104,7 +106,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "2.2.9",
+  "previousRelease": "2.4.3",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -426,6 +428,7 @@
   "numberOfCustomPens": 0,
   "pdfScale": 4,
   "pdfBorderBox": true,
+  "pdfFrame": false,
   "pdfGapSize": 20,
   "pdfGroupPages": false,
   "pdfLockAfterImport": true,
@@ -449,11 +452,12 @@
     "borderOpacity": 0,
     "filenameVisible": false
   },
+  "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
-  "openAIDefaultVisionModel": "gpt-4-vision-preview",
+  "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
   "openAIImageGenerationURL": "https://api.openai.com/v1/images/generations",
@@ -748,6 +752,28 @@
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "isDebugMode": false,
+  "rank": "Bronze",
+  "modifierKeyOverrides": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "k"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "showSplashscreen": true,
   "autosaveInterval": 15000,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }

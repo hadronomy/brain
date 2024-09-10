@@ -29,7 +29,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false,
-    "iconInTitlePosition": "above"
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native"
   },
   "404 Archive": "LiTrash2",
   "09 Files": "LiFiles",
