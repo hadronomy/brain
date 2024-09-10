@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66f94965e9107cb5",
+        "id": "68338d3dc6e163d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f14745a328d02424",
+            "id": "2590ffe3983cfc27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Diaries/Using Cygwin for your Windows Development Environment.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,6 +160,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,8 +174,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f14745a328d02424",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "06 Obsidian/Backup Obsidian Using Git.md",
+    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
@@ -191,15 +200,11 @@
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "03 Zettelkasten/1725892554-HTMP.md",
-    "06 Obsidian/Backup Obsidian Using Git.md",
     "308 Templates/Idea.md",
-    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "06 Obsidian/Using Codeblocks.md",
     "06 Obsidian/Use Emojis In Obsidian.md",
     "06 Obsidian/Notetaking in Obsidian.md",
     "01 Diaries/Expose wsl to the network.md",
-    "README.md",
-    "index.md",
     "02 Misc/rust crates/cargo-watch.md",
     "02 Misc/rust crates/cargo-shuttle.md",
     "02 Misc/rust crates/My rust tools and crates (DB).md",
