@@ -11,9 +11,11 @@
             "id": "f14745a328d02424",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "09 Files/Configure obsidian-git.png"
+                "file": "03 Zettelkasten/Rust Macros.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 Files/Configure obsidian-git.png",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 Files/Configure obsidian-git.png",
+                "file": "03 Zettelkasten/Rust Macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Files/Configure obsidian-git.png"
+                "file": "03 Zettelkasten/Rust Macros.md"
               }
             }
           },
@@ -171,12 +173,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f14745a328d02424",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
+    "03 Zettelkasten/Rust workspaces.md",
+    "03 Zettelkasten/Templates in C++.md",
+    "03 Zettelkasten/Rust Macros.md",
+    "09 Files/Configure obsidian-git.png",
     "04 Personal/Main Kanban.md",
     "03 Zettelkasten/Singletons in C++.md",
-    "03 Zettelkasten/Rust workspaces.md",
-    "03 Zettelkasten/Rust Macros.md",
     "02 Misc/My rust tools and crates.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
     "01 Diaries/4913",
@@ -191,9 +195,7 @@
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "03 Zettelkasten/1725892554-HTMP.md",
-    "03 Zettelkasten/Templates in C++.md",
     "06 Obsidian/Backup Obsidian Using Git.md",
-    "09 Files/Configure obsidian-git.png",
     "308 Templates/Idea.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "06 Obsidian/Using Codeblocks.md",
