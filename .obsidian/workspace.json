@@ -174,11 +174,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
-    "4913",
     "index.md",
     "README.md",
+    "README.md~",
+    "4913",
     "06 Obsidian/Backup Obsidian Using Git.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "03 Zettelkasten/Rust Macros.md",
@@ -196,8 +197,6 @@
     "06 Obsidian/Using Dataview.md~",
     "06 Obsidian/4913",
     "06 Obsidian/Using Codeblocks.md~",
-    "06 Obsidian/Use Emojis In Obsidian.md~",
-    "06 Obsidian/Notetaking in Obsidian.md~",
     "02 Misc/My node tools and packages.md",
     "02 Misc/Great WebUI's for Inspiration.md",
     "03 Zettelkasten/1725892554-HTMP.md",
