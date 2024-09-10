@@ -1,5 +1,5 @@
 ---
-id: Expose wsl to the networrk
+id: Expose wsl to the network
 aliases: []
 tags:
   - wsl
