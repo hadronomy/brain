@@ -5,7 +5,7 @@ title: Hadronomy's Second Brain
 This is the home for my 🧠.
 
 - [~] Hey
-- [~] Hey1
+- [ ] Hey1
 
 ## New Obsidian Installation
 
