@@ -2,8 +2,8 @@
 id: Great WebUI's for Inspiration
 aliases: []
 tags:
-  - web,
-  - inspiration,
+  - web
+  - inspiration
   - programming
 ---
 
