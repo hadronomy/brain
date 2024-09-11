@@ -7,6 +7,7 @@ tags:
   - network
   - windows
   - docs
+title: Expose wsl to the network
 ---
 
 ## Description

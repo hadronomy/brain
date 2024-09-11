@@ -1,6 +1,6 @@
 ---
 id: Great WebUI's for Inspiration
-aliases: 
+aliases: []
 tags:
   - web
   - inspiration

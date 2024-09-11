@@ -2,8 +2,8 @@
 id: Main Kanban
 aliases: []
 tags: []
+draft: true
 kanban-plugin: board
-published: false
 ---
 
 ## NEW :new:

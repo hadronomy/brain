@@ -1,5 +1,5 @@
 ---
-title: Hadronomy's Second Brain
+title: My Second Brain
 ---
 
 This is the home for my 🧠.
