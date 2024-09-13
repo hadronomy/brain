@@ -3,7 +3,7 @@ id: Rust Macros
 aliases: []
 tags:
   - rust
-  - programing
+  - programming
 todo: true
 ---
 
