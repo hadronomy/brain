@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726195185-CQXF.md",
+                "file": "02 Misc/1726314147-FOBK.md",
                 "mode": "preview",
                 "source": false
               }
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/1726180765-GNTM.md",
+                "file": "02 Misc/1726314147-FOBK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/1726180765-GNTM.md",
+                "file": "02 Misc/1726314147-FOBK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/1726180765-GNTM.md"
+                "file": "02 Misc/1726314147-FOBK.md"
               }
             }
           },
@@ -187,17 +186,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aaea9972cf9a3fb7",
+  "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
+    "https/tempo.formkit.com 1.md",
     "02 Misc/1726314147-FOBK.md",
+    "https/tempo.formkit.com.md",
+    "https",
+    "09.md",
     "03 Zettelkasten/1726253164-APQB.md",
-    "03 Zettelkasten/1726250641-KMUS.md",
     "03 Zettelkasten/1726250893-CMKY.md",
-    "lazy",
+    "03 Zettelkasten/1726250641-KMUS.md",
     "03 Zettelkasten/1726195185-CQXF.md",
-    "03 Zettelkasten/1726018385-BLNT.md",
     "03 Zettelkasten/1726180765-GNTM.md",
+    "03 Zettelkasten/1726018385-BLNT.md",
     "03 Zettelkasten/1726015958-GSVA.md",
+    "09 Files/images/tempo.pngZone.Identifier",
+    "09 Files/images/tempo.png",
+    "09 Files/images",
+    "lazy",
     "04 Personal/Main Kanban.md",
     "01 Diaries/1726012381-OPLP.md",
     "01 Diaries/Expose wsl to the network.md",
@@ -217,15 +223,9 @@
     "03 Zettelkasten/Rust workspaces.md",
     "03 Zettelkasten/Templates in C++.md",
     "09 Files/Configure obsidian-git.png",
-    "03 Zettelkasten/Singletons in C++.md",
-    "02 Misc/My rust tools and crates.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
     "01 Diaries/4913",
     "01 Diaries/Expose wsl to the network.md~",
-    "308 Templates/Idea.md~",
-    "308 Templates/4913",
-    "06 Obsidian/Using Dataview.md~",
-    "03 Zettelkasten/1725892554-HTMP.md",
     "Untitled.canvas"
   ]
 }
