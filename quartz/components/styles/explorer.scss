@@ -23,7 +23,7 @@ button#explorer {
   }
 
   &.collapsed .fold {
-    transform: rotateZ(-90deg);
+    transform: rotate(-90deg);
   }
 }
 
@@ -137,8 +137,14 @@ svg {
   backface-visibility: visible;
 }
 
-li:has(> .folder-outer:not(.open)) > .folder-container > svg {
-  transform: rotate(-90deg);
+li:has(> .folder-outer:not(.open)) > .folder-container > svg:not(.closed) {
+  display: none;
+  opacity: 0;
+}
+
+li:has(> .folder-outer.open) > .folder-container > svg.closed {
+  display: none;
+  opacity: 0;
 }
 
 .folder-icon:hover {

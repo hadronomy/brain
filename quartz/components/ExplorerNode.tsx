@@ -188,17 +188,37 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
             <div class="folder-container">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="12"
-                height="12"
-                viewBox="5 8 14 8"
-                fill="none"
+                class="folder-icon icon icon-tabler icon-tabler-folder"
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                stroke-width="3"
                 stroke="currentColor"
-                stroke-width="2"
+                fill="none"
                 stroke-linecap="round"
                 stroke-linejoin="round"
-                class="folder-icon"
               >
-                <polyline points="6 9 12 15 18 9"></polyline>
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                <path d="M5 4h4l3 3h7a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-11a2 2 0 0 1 2 -2" />
+              </svg>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="folder-icon closed icon icon-tabler icon-tabler-folder-filled"
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="none"
+                fill="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                <path
+                  d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z"
+                  stroke-width="0"
+                  fill="currentColor"
+                />
               </svg>
               {/* render <a> tag if folderBehavior is "link", otherwise render <button> with collapse click event */}
               <div key={node.name} data-folderpath={folderPath}>
