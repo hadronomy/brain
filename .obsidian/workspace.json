@@ -11,8 +11,12 @@
             "id": "2590ffe3983cfc27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 Zettelkasten/1726446012-PDWC.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Zettelkasten/1726446012-PDWC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Zettelkasten/1726446012-PDWC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 Zettelkasten/1726446012-PDWC.md"
+              }
             }
           },
           {
@@ -180,6 +188,11 @@
   },
   "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
+    "03 Zettelkasten/1726445784-WLSF.md",
+    "03 Zettelkasten/1726195185-CQXF.md",
+    "03 Zettelkasten/1726018385-BLNT.md",
+    "04 Personal/Main Kanban.md",
+    "See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
     "02 Misc/1726314147-FOBK.md",
     "https/tempo.formkit.com 1.md",
     "https/tempo.formkit.com.md",
@@ -188,15 +201,12 @@
     "03 Zettelkasten/1726253164-APQB.md",
     "03 Zettelkasten/1726250893-CMKY.md",
     "03 Zettelkasten/1726250641-KMUS.md",
-    "03 Zettelkasten/1726195185-CQXF.md",
     "03 Zettelkasten/1726180765-GNTM.md",
-    "03 Zettelkasten/1726018385-BLNT.md",
     "03 Zettelkasten/1726015958-GSVA.md",
     "09 Files/images/tempo.pngZone.Identifier",
     "09 Files/images/tempo.png",
     "09 Files/images",
     "lazy",
-    "04 Personal/Main Kanban.md",
     "01 Diaries/1726012381-OPLP.md",
     "01 Diaries/Expose wsl to the network.md",
     "01 Diaries/1725984944-GEIH.md",
@@ -212,8 +222,6 @@
     "4913",
     "06 Obsidian/Backup Obsidian Using Git.md",
     "03 Zettelkasten/Rust Macros.md",
-    "03 Zettelkasten/Rust workspaces.md",
-    "03 Zettelkasten/Templates in C++.md",
     "09 Files/Configure obsidian-git.png",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
     "01 Diaries/4913",
