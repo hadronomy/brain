@@ -1,4 +1,4 @@
-![readme-banner.png](<09 Files/images/readme-banner.png>)
+![readme-banner.png](<content/09 Files/images/readme-banner.png>)
 
 From #diary entries describing my **tech endeavors**
 to **random notes** managed using the [[1726018385-BLNT|Zettelkasten]] method,
