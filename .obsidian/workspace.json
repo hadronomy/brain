@@ -178,12 +178,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "2590ffe3983cfc27",
