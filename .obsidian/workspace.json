@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726446012-PDWC.md",
+                "file": "03 Zettelkasten/1726446424-ENBU.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/1726446012-PDWC.md",
+                "file": "03 Zettelkasten/1726446424-ENBU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/1726446012-PDWC.md",
+                "file": "03 Zettelkasten/1726446424-ENBU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/1726446012-PDWC.md"
+                "file": "03 Zettelkasten/1726446424-ENBU.md"
               }
             }
           },
@@ -178,12 +178,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
     "03 Zettelkasten/1726445784-WLSF.md",
+    "03 Zettelkasten/1726446012-PDWC.md",
     "03 Zettelkasten/1726195185-CQXF.md",
     "03 Zettelkasten/1726018385-BLNT.md",
     "04 Personal/Main Kanban.md",
@@ -216,7 +222,6 @@
     "README.md~",
     "4913",
     "06 Obsidian/Backup Obsidian Using Git.md",
-    "03 Zettelkasten/Rust Macros.md",
     "09 Files/Configure obsidian-git.png",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
     "01 Diaries/4913",
