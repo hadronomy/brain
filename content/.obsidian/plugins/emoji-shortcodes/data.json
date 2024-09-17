@@ -1,0 +1,15 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":smile:",
+    ":brain:",
+    ":arrow_backward:",
+    ":-1:",
+    ":a:",
+    ":100:",
+    ":1234:"
+  ]
+}

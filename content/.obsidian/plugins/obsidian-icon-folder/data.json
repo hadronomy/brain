@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFiles",
+      "TiFolder",
+      "LiBookTemplate",
+      "LiTrash2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native"
+  },
+  "404 Archive": "LiTrash2",
+  "09 Files": "LiFiles",
+  "06 Obsidian": "TiFolder",
+  "05 University": "TiFolder",
+  "04 Personal": "TiFolder",
+  "03 Zettelkasten": "TiFolder",
+  "02 Misc": "TiFolder",
+  "01 Diaries": "TiFolder",
+  "308 Templates": "LiBookTemplate"
+}

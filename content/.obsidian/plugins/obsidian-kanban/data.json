@@ -1,0 +1,17 @@
+{
+  "show-checkboxes": true,
+  "tag-colors": [
+    {
+      "tagKey": "#rust",
+      "color": "rgba(255, 170, 90, 1)",
+      "backgroundColor": "rgba(255, 130, 15, 0.1)"
+    }
+  ],
+  "new-note-folder": "909 Archive",
+  "hide-tags-in-title": true,
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "hide-date-display": false,
+  "hide-date-in-title": true,
+  "date-format": "DD-MM-YYYY"
+}

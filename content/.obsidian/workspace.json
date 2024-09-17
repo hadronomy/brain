@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "31cca68128e3a808",
+    "type": "split",
+    "children": [
+      {
+        "id": "68338d3dc6e163d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2590ffe3983cfc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Zettelkasten/1726446424-ENBU.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e40055680c9f18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Zettelkasten/1726180765-GNTM.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca44a357485c22c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d53db59a5496b8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaea9972cf9a3fb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe0aa24c8f2fafa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#node",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cf75739288e2c38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b754b8156953d25c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.51103591918945
+  },
+  "right": {
+    "id": "9ab8247dcc6e5572",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbd6083f7f11d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca3a12cf150f3d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Zettelkasten/1726446424-ENBU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0544316b4ce50eb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 Zettelkasten/1726446424-ENBU.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "000363b81a7de50e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7f38383464852af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Zettelkasten/1726446424-ENBU.md"
+              }
+            }
+          },
+          {
+            "id": "f6521352214fc0b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2590ffe3983cfc27",
+  "lastOpenFiles": [
+    "03 Zettelkasten/1726445784-WLSF.md",
+    "03 Zettelkasten/1726446012-PDWC.md",
+    "03 Zettelkasten/1726195185-CQXF.md",
+    "03 Zettelkasten/1726018385-BLNT.md",
+    "04 Personal/Main Kanban.md",
+    "See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
+    "02 Misc/1726314147-FOBK.md",
+    "https/tempo.formkit.com 1.md",
+    "https/tempo.formkit.com.md",
+    "https",
+    "09.md",
+    "03 Zettelkasten/1726253164-APQB.md",
+    "03 Zettelkasten/1726250893-CMKY.md",
+    "03 Zettelkasten/1726250641-KMUS.md",
+    "03 Zettelkasten/1726180765-GNTM.md",
+    "03 Zettelkasten/1726015958-GSVA.md",
+    "09 Files/images/tempo.pngZone.Identifier",
+    "09 Files/images/tempo.png",
+    "09 Files/images",
+    "lazy",
+    "01 Diaries/1726012381-OPLP.md",
+    "01 Diaries/Expose wsl to the network.md",
+    "01 Diaries/1725984944-GEIH.md",
+    "404 Archive/Using Cygwin for your Windows Development Environment.md",
+    "01 Diaries/Using Cygwin for your Windows Development Environment.md",
+    "02 Misc/Great WebUI's for Inspiration.md",
+    "02 Misc/My node tools and packages.md",
+    "404 Archive",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "index.md",
+    "README.md~",
+    "4913",
+    "06 Obsidian/Backup Obsidian Using Git.md",
+    "09 Files/Configure obsidian-git.png",
+    "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
+    "01 Diaries/4913",
+    "01 Diaries/Expose wsl to the network.md~",
+    "Untitled.canvas"
+  ]
+}
