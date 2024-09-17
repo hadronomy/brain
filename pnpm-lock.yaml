@@ -81,8 +81,8 @@ importers:
         specifier: ^0.4.5
         version: 0.4.5
       pixi.js:
-        specifier: ^8.3.4
-        version: 8.3.4
+        specifier: ^8.4.0
+        version: 8.4.0
       preact:
         specifier: ^10.23.2
         version: 10.23.2
@@ -1819,8 +1819,8 @@ packages:
     resolution: {integrity: sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==}
     engines: {node: '>=8.6'}
 
-  pixi.js@8.3.4:
-    resolution: {integrity: sha512-b5qdoHMQy79JjTiOOAH/fDiK9dLKGAoxfBwkHIdsK5XKNxsFuII2MBbktvR9pVaAmTDobDkMPDoIBFKYYpDeOg==}
+  pixi.js@8.4.0:
+    resolution: {integrity: sha512-IM0YDv7G9XATtD/sPgbEi6FoLg82+XSqejzeCWg575vEyuQGs4RrdVFSV/K/i2PeXr/sLxiHRJDOGuotBUlldA==}
 
   preact-render-to-string@6.5.10:
     resolution: {integrity: sha512-BJdypTQaBA5UbTF9NKZS3zP93Sw33tZOxNXIfuHofqOZFoMdsquNkVebs/HkEw0in/Qbi6Ep/Anngnj+VsHeBQ==}
@@ -4056,7 +4056,7 @@ snapshots:
 
   picomatch@2.3.1: {}
 
-  pixi.js@8.3.4:
+  pixi.js@8.4.0:
     dependencies:
       '@pixi/colord': 2.9.6
       '@types/css-font-loading-module': 0.0.12
