@@ -26,7 +26,8 @@ tags:
 
 ## Packages
 
-- [cypress](https://cypress.io) - With Cypress, you can easily create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds.
+- [playwright](https://playwright.dev/) - A framework for Web Testing and Automation.
+  It allows testing Chromium, Firefox and WebKit with a single API.
 - [zod](https://zod.dev) - TypeScript-first schema declaration and validation library.
 - tailwind-merge -
 - react-wrap-balancer -
