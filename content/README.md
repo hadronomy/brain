@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- MIT License -->
-  <a href="https://github.com/hadronomy/brain/blob/main/LICENSE">
+  <a href="https://github.com/hadronomy/brain/blob/main/LICENSE.txt">
     <img
       alt="Content License"
       src="https://img.shields.io/github/license/hadronomy/brain?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41"
