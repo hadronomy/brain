@@ -87,8 +87,8 @@ importers:
         specifier: ^10.23.2
         version: 10.23.2
       preact-render-to-string:
-        specifier: ^6.5.10
-        version: 6.5.10(preact@10.23.2)
+        specifier: ^6.5.11
+        version: 6.5.11(preact@10.23.2)
       pretty-bytes:
         specifier: ^6.1.1
         version: 6.1.1
@@ -1822,8 +1822,8 @@ packages:
   pixi.js@8.3.4:
     resolution: {integrity: sha512-b5qdoHMQy79JjTiOOAH/fDiK9dLKGAoxfBwkHIdsK5XKNxsFuII2MBbktvR9pVaAmTDobDkMPDoIBFKYYpDeOg==}
 
-  preact-render-to-string@6.5.10:
-    resolution: {integrity: sha512-BJdypTQaBA5UbTF9NKZS3zP93Sw33tZOxNXIfuHofqOZFoMdsquNkVebs/HkEw0in/Qbi6Ep/Anngnj+VsHeBQ==}
+  preact-render-to-string@6.5.11:
+    resolution: {integrity: sha512-ubnauqoGczeGISiOh6RjX0/cdaF8v/oDXIjO85XALCQjwQP+SB4RDXXtvZ6yTYSjG+PC1QRP2AhPgCEsM2EvUw==}
     peerDependencies:
       preact: '>=10'
 
@@ -4068,7 +4068,7 @@ snapshots:
       ismobilejs: 1.1.1
       parse-svg-path: 0.1.2
 
-  preact-render-to-string@6.5.10(preact@10.23.2):
+  preact-render-to-string@6.5.11(preact@10.23.2):
     dependencies:
       preact: 10.23.2
 
