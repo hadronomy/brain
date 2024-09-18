@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2590ffe3983cfc27",
+            "id": "550df64e4be5731e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726446424-ENBU.md",
+                "file": "03 Zettelkasten/1726446012-PDWC.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "7e40055680c9f18a",
+            "id": "4dc70a11b0177070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726180765-GNTM.md",
-                "mode": "preview",
+                "file": "03 Zettelkasten/1726532024-WDZM.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,11 +87,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 284.51103591918945
+    "width": 284.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9ab8247dcc6e5572",
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/1726446424-ENBU.md",
+                "file": "03 Zettelkasten/1726532024-WDZM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/1726446424-ENBU.md",
+                "file": "03 Zettelkasten/1726532024-WDZM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/1726446424-ENBU.md"
+                "file": "03 Zettelkasten/1726532024-WDZM.md"
               }
             }
           },
@@ -186,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2590ffe3983cfc27",
+  "active": "4dc70a11b0177070",
   "lastOpenFiles": [
-    "03 Zettelkasten/1726445784-WLSF.md",
     "03 Zettelkasten/1726446012-PDWC.md",
+    "03 Zettelkasten/1726446424-ENBU.md",
+    "03 Zettelkasten/1726445784-WLSF.md",
     "03 Zettelkasten/1726195185-CQXF.md",
     "03 Zettelkasten/1726018385-BLNT.md",
     "04 Personal/Main Kanban.md",
@@ -221,7 +225,6 @@
     "index.md",
     "README.md~",
     "4913",
-    "06 Obsidian/Backup Obsidian Using Git.md",
     "09 Files/Configure obsidian-git.png",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md~",
     "01 Diaries/4913",
