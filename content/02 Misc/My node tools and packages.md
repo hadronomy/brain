@@ -45,7 +45,6 @@ tags:
 - [next](https://nextjs.org/docs) - We all know you my love.
 - [sveltekit](https://kit.svelte.dev/docs/introduction) - My other love (Shhh next doesn't know yet).
 - [astro](https://astro.build) - The web framework for content-driven websites
-- [sst.dev](https://sst.dev) - Serverless Stack Toolkit is a framework to build serverless apps on AWS using TypeScript or JavaScript.
 
 ## UI
 
