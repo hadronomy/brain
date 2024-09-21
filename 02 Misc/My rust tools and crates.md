@@ -5,6 +5,7 @@ tags:
   - rust
   - tools
   - programming
+date: 2023-10-07T16:26:04+08:00
 ---
 
 ## Cargo Plugins `cargo-whatever`
@@ -31,6 +32,6 @@ tags:
 - [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
 - [assert_fs](https://crates.io/crates/assert_fs) - Filesystem fixtures and assertions for testing.
 - [assert_cmd](https://crates.io/crates/assert_cmd) - Easy command initialization and assertions.
-- [tracing]() -
+- [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - spinach -
 - handlebars-rust -
