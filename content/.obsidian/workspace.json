@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726532024-WDZM.md",
+                "file": "02 Misc/My rust tools and crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/1726532024-WDZM.md",
+                "file": "02 Misc/My rust tools and crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/1726532024-WDZM.md",
+                "file": "02 Misc/My rust tools and crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/1726532024-WDZM.md"
+                "file": "02 Misc/My rust tools and crates.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "4dc70a11b0177070",
   "lastOpenFiles": [
+    "03 Zettelkasten/1726532024-WDZM.md",
     "03 Zettelkasten/1726446012-PDWC.md",
     "03 Zettelkasten/1726446424-ENBU.md",
     "03 Zettelkasten/1726445784-WLSF.md",
@@ -222,7 +223,6 @@
     "404 Archive",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "index.md",
     "README.md~",
     "4913",
     "09 Files/Configure obsidian-git.png",

@@ -25,6 +25,7 @@ date: 2023-10-07T16:26:04+08:00
 - [enum_dispatch](https://crates.io/crates/enum_dispatch) - Near drop-in replacement for dynamic-dispatched method calls with up to 10x the speed.
 - [eyre](https://crates.io/crates/eyre) - Flexible concrete Error Reporting type built on `std::error::Error` with customizable Reports.
 - [color-eyre](https://crates.io/crates/color-eyre/0.6.2/dependencies) - An error report handler for panics and `eyre::Reports` for colorful, consistent, and well formatted error reports for all kinds of errors.
+- [miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [thiserror](https://crates.io/crates/thiserror) - This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait.
 - [fern](https://crates.io/crates/fern) - Simple, efficient logging for [Rust](https://www.rust-lang.org/).
 - [rusty-hook](https://crates.io/crates/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
