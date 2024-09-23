@@ -5,7 +5,7 @@ tags: []
 title: My Second Brain
 ---
 
-![readme-banner.png](<09 Files/images/readme-banner.png>)
+![readme-banner.webp](<09 Files/images/readme-banner.webp>)
 
 This is the home for [my](https://github.com/hadronomy) 🧠.
 

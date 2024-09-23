@@ -1,4 +1,4 @@
-![readme-banner.png](</content/09 Files/images/readme-banner.png>)
+![readme-banner.png](</content/09 Files/images/readme-banner.webp>)
 
 <div align="center">
   <!-- MIT License -->
