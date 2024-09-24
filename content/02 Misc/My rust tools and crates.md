@@ -45,5 +45,6 @@ tags:
 - [assert_fs](https://crates.io/crates/assert_fs) - Filesystem fixtures and assertions for testing.
 - [assert_cmd](https://crates.io/crates/assert_cmd) - Easy command initialization and assertions.
 - [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+- [typed-builder](https://github.com/idanarye/rust-typed-builder) - A procedural macro for creating typed builders.
 - spinach -
 - handlebars-rust -
