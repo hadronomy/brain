@@ -35,7 +35,7 @@ end
 ```
 
 In here you will have to execute  `keychain`, a tool that comes with almost
-every package manager out there. Ensure that you have it installed, if not
+every package manager out there. Ensure that you have it installed, if not,
 do it with the package manager you are stuck with.
 
 ```sh
