@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,13 +87,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.51103591918945,
-    "collapsed": true
+    "width": 284.51103591918945
   },
   "right": {
     "id": "9ab8247dcc6e5572",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md",
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Misc/My rust tools and crates.md"
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md"
               }
             }
           },
@@ -191,8 +189,10 @@
   },
   "active": "4dc70a11b0177070",
   "lastOpenFiles": [
-    "03 Zettelkasten/1726532024-WDZM.md",
     "03 Zettelkasten/1726446012-PDWC.md",
+    "03 Zettelkasten/Keep ssh-agent running in servers.md",
+    "02 Misc/My rust tools and crates.md",
+    "03 Zettelkasten/1726532024-WDZM.md",
     "03 Zettelkasten/1726446424-ENBU.md",
     "03 Zettelkasten/1726445784-WLSF.md",
     "03 Zettelkasten/1726195185-CQXF.md",
@@ -221,8 +221,6 @@
     "02 Misc/Great WebUI's for Inspiration.md",
     "02 Misc/My node tools and packages.md",
     "404 Archive",
-    "README.md",
-    "conflict-files-obsidian-git.md",
     "README.md~",
     "4913",
     "09 Files/Configure obsidian-git.png",
