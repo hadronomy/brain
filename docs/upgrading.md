@@ -7,7 +7,7 @@ title: "Upgrading Quartz"
 
 To fetch the latest Quartz updates, simply run
 
-```bash
+```sh
 npx quartz update
 ```
 

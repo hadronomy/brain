@@ -14,7 +14,7 @@ At the top of your repository on GitHub.com's Quick Setup page, click the clipb
 
 In your terminal of choice, navigate to the root of your Quartz folder. Then, run the following commands, replacing `REMOTE-URL` with the URL you just copied from the previous step.
 
-```bash
+```sh
 # list all the repositories that are tracked
 git remote -v
 
@@ -27,7 +27,7 @@ git remote add upstream https://github.com/jackyzha0/quartz.git
 
 Then, you can sync the content to upload it to your repository. This is a helper command that will do the initial push of your content to your repository.
 
-```bash
+```sh
 npx quartz sync --no-pull
 ```
 

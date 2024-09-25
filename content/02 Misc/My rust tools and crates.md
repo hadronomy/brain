@@ -11,8 +11,8 @@ tags:
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
 - [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
-- [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure definitions from your code function signatures and annotations.
-- [watch](https://crates.io/crates/cargo-watch) - Watches over your Cargo project’s source
+- [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure. definitions from your code function signatures and annotations.
+- [watch](https://crates.io/crates/cargo-watch) - Watches over your Cargo project’s source.
 - [nextest](https://github.com/nextest-rs/nextest) -  next-generation test runner for Rust.
 
 ## Tools
@@ -21,7 +21,7 @@ tags:
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [eza](https://github.com/eza-community/eza) - A simple, fast, and modern package manager for Linux.
 - [starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in rust
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in rust.
 - [doggo](https://github.com/mr-karan/doggo) - A command-line DNS client like dig but faster.
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.

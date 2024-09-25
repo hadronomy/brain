@@ -25,6 +25,6 @@ In the _Select packages_ page, select the packages that you wanna install alongs
 
 ## Chocolatey
 
-```bash
+```sh
 choco install cygwin
 ```

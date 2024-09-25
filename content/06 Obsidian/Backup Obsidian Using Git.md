@@ -22,33 +22,33 @@ Go to [Github](htttps://github.com), create a new repository and **copy the ssh 
 
 ## Init a New Git Repo
 
-```bash
+```sh
 cd your-vault-directory-path
 ```
 
-```bash
+```sh
 git init
 ```
 
 ## Add Remote
 
-```bash
+```sh
 git remote add origin git@github.com:your-user/your-repo.git
 ```
 
 ## First Commit
 
-```bash
+```sh
 git add .
 ```
 
-```bash
+```sh
 git commit -m "First commit"
 ```
 
 ## Push
 
-```bash
+```sh
 git push -u origin master
 ```
 
