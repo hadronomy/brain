@@ -43,6 +43,7 @@
     "chalk": "^5.3.0",
     "chokidar": "^3.6.0",
     "cli-spinner": "^0.2.10",
+    "content": "link:/home/hadronomy/repos/brain/content",
     "d3": "^7.9.0",
     "esbuild-sass-plugin": "^2.16.1",
     "flexsearch": "0.7.43",

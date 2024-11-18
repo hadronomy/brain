@@ -32,6 +32,9 @@ importers:
       cli-spinner:
         specifier: ^0.2.10
         version: 0.2.10
+      content:
+        specifier: link:/home/hadronomy/repos/brain/content
+        version: link:content
       d3:
         specifier: ^7.9.0
         version: 7.9.0

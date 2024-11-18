@@ -10,6 +10,14 @@ tags:
 title: Expose wsl to the network
 ---
 
+<!--toc:start-->
+
+- [Description](#description)
+- [How](#how)
+- [Updated Version](#updated-version)
+- [Resources](#resources)
+<!--toc:end-->
+
 ## Description
 
 This allows to expose the `wsl` instance to the network,

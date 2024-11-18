@@ -10,10 +10,10 @@ tags:
 ## Cargo Plugins `cargo-whatever`
 
 - [release](https://crates.io/crates/cargo-release) - everything about releasing a rust crate.
-- [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
+- [dist](https://crates.io/crates/cargo-dist) - `cargo build` but For Building Final Distributable Artifacts and uploading them to an archive.
 - [shuttle](https://www.shuttle.rs/) - Build & ship a backend without writing any infrastructure files. Instead get your infrastructure. definitions from your code function signatures and annotations.
 - [watch](https://crates.io/crates/cargo-watch) - Watches over your Cargo project’s source.
-- [nextest](https://github.com/nextest-rs/nextest) -  next-generation test runner for Rust.
+- [nextest](https://github.com/nextest-rs/nextest) - next-generation test runner for Rust.
 
 ## Tools
 
@@ -38,7 +38,7 @@ tags:
 - [color-eyre](https://crates.io/crates/color-eyre/0.6.2/dependencies) - An error report handler for panics and `eyre::Reports` for colorful, consistent, and well formatted error reports for all kinds of errors.
 - [miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [thiserror](https://crates.io/crates/thiserror) - This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait.
-- [fern](https://crates.io/crates/fern) - Simple, efficient logging for [Rust](https://www.rust-lang.org/).
+- [fern](https://crates.io/crates/fern) - Simple, efficient logging for [Rust](https://www.rust-lang.org/).
 - [rusty-hook](https://crates.io/crates/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
 - [dotenv](https://crates.io/crates/dotenv) - Library to help supply environment variables in testing and development.
 - [walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
