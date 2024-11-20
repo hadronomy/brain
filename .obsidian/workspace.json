@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "f81ab97dbc6a08c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
             "id": "7e40055680c9f18a",
             "type": "leaf",
             "state": {
@@ -48,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -221,7 +208,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f81ab97dbc6a08c6",
+  "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
     "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/1726446012-PDWC.md",
