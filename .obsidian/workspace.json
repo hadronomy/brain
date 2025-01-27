@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Obsidian/Backup Obsidian Using Git.md",
+                "file": "06 Obsidian/Use Emojis In Obsidian.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backup Obsidian Using Git"
+              "title": "Use Emojis In Obsidian"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -209,9 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e40055680c9f18a",
+  "active": "2590ffe3983cfc27",
   "lastOpenFiles": [
+    "06 Obsidian/Use Emojis In Obsidian.md",
     "06 Obsidian/Notetaking in Obsidian.md",
+    "06 Obsidian/Backup Obsidian Using Git.md",
     "09 Files/images/readme-banner.png",
     "03 Zettelkasten/1726180765-GNTM.md",
     "03 Zettelkasten/Rust Macros.md",
@@ -241,9 +242,7 @@
     "404 Archive/Using Cygwin for your Windows Development Environment.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "02 Misc/Great WebUI's for Inspiration.md",
-    "02 Misc/My node tools and packages.md",
     "404 Archive",
-    "README.md",
     "README.md~",
     "4913",
     "09 Files/Configure obsidian-git.png",
