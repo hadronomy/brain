@@ -22,33 +22,21 @@
             }
           },
           {
-            "id": "41b731c2c23fa1fe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "7e40055680c9f18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726180765-GNTM.md",
+                "file": "06 Obsidian/Notetaking in Obsidian.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726180765-GNTM"
+              "title": "Notetaking in Obsidian"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -223,6 +211,8 @@
   },
   "active": "7e40055680c9f18a",
   "lastOpenFiles": [
+    "09 Files/images/readme-banner.png",
+    "03 Zettelkasten/1726180765-GNTM.md",
     "03 Zettelkasten/Rust Macros.md",
     "03 Zettelkasten/1726446012-PDWC.md",
     "03 Zettelkasten/1726446424-ENBU.md",
@@ -239,7 +229,6 @@
     "03 Zettelkasten/1726253164-APQB.md",
     "03 Zettelkasten/1726250893-CMKY.md",
     "03 Zettelkasten/1726250641-KMUS.md",
-    "03 Zettelkasten/1726180765-GNTM.md",
     "03 Zettelkasten/1726015958-GSVA.md",
     "09 Files/images/tempo.pngZone.Identifier",
     "09 Files/images/tempo.png",
@@ -254,7 +243,6 @@
     "02 Misc/My node tools and packages.md",
     "404 Archive",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "README.md~",
     "4913",
     "09 Files/Configure obsidian-git.png",
