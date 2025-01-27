@@ -12,5 +12,5 @@
   "showFrontmatter": true,
   "spellcheck": true,
   "spellcheckLanguages": null,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }
