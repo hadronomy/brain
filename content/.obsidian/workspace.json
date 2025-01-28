@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
-                "mode": "source",
+                "file": "01 Diaries/1725984944-GEIH.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keep ssh-agent running in servers"
+              "title": "1725984944-GEIH"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
+                "file": "01 Diaries/1725984944-GEIH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Keep ssh-agent running in servers"
+              "title": "Backlinks for 1725984944-GEIH"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
+                "file": "01 Diaries/1725984944-GEIH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Keep ssh-agent running in servers"
+              "title": "Outgoing links from 1725984944-GEIH"
             }
           },
           {
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md"
+                "file": "01 Diaries/1725984944-GEIH.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Keep ssh-agent running in servers"
+              "title": "Outline of 1725984944-GEIH"
             }
           },
           {
@@ -201,13 +201,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4dc70a11b0177070",
   "lastOpenFiles": [
-    "03 Zettelkasten/1726446012-PDWC.md",
     "03 Zettelkasten/Keep ssh-agent running in servers.md",
+    "03 Zettelkasten/1726446012-PDWC.md",
     "02 Misc/My rust tools and crates.md",
     "03 Zettelkasten/1726532024-WDZM.md",
     "03 Zettelkasten/1726446424-ENBU.md",

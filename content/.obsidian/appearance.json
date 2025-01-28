@@ -6,5 +6,6 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
-  "translucency": false
+  "translucency": false,
+  "showViewHeader": true
 }
