@@ -16,7 +16,9 @@
                 "file": "03 Zettelkasten/1726446012-PDWC.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1726446012-PDWC"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Keep ssh-agent running in servers"
             }
           }
         ],
@@ -53,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -84,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -115,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Keep ssh-agent running in servers"
             }
           },
           {
@@ -127,7 +141,9 @@
                 "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Keep ssh-agent running in servers"
             }
           },
           {
@@ -138,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,7 +166,9 @@
               "type": "outline",
               "state": {
                 "file": "03 Zettelkasten/Keep ssh-agent running in servers.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Keep ssh-agent running in servers"
             }
           },
           {
@@ -160,7 +180,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -179,12 +201,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "4dc70a11b0177070",
