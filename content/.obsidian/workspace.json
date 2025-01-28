@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726446012-PDWC.md",
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726446012-PDWC"
+              "title": "Keep ssh-agent running in servers"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Diaries/1725984944-GEIH.md",
-                "mode": "preview",
+                "file": "02 Misc/1726314147-FOBK.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1725984944-GEIH"
+              "title": "1726314147-FOBK"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Diaries/1725984944-GEIH.md",
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1725984944-GEIH"
+              "title": "Backlinks for Keep ssh-agent running in servers"
             }
           },
           {
@@ -138,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Diaries/1725984944-GEIH.md",
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1725984944-GEIH"
+              "title": "Outgoing links from Keep ssh-agent running in servers"
             }
           },
           {
@@ -165,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Diaries/1725984944-GEIH.md"
+                "file": "03 Zettelkasten/Keep ssh-agent running in servers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1725984944-GEIH"
+              "title": "Outline of Keep ssh-agent running in servers"
             }
           },
           {
@@ -209,10 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4dc70a11b0177070",
+  "active": "aaea9972cf9a3fb7",
   "lastOpenFiles": [
-    "03 Zettelkasten/Keep ssh-agent running in servers.md",
     "03 Zettelkasten/1726446012-PDWC.md",
+    "02 Misc/1726314147-FOBK.md",
+    "01 Diaries/1725984944-GEIH.md",
+    "03 Zettelkasten/Keep ssh-agent running in servers.md",
     "02 Misc/My rust tools and crates.md",
     "03 Zettelkasten/1726532024-WDZM.md",
     "03 Zettelkasten/1726446424-ENBU.md",
@@ -221,7 +222,6 @@
     "03 Zettelkasten/1726018385-BLNT.md",
     "04 Personal/Main Kanban.md",
     "See if it's worth it to have the authentication for the API provided by `Auth0` or  `Supabase`.md",
-    "02 Misc/1726314147-FOBK.md",
     "https/tempo.formkit.com 1.md",
     "https/tempo.formkit.com.md",
     "https",
@@ -237,7 +237,6 @@
     "lazy",
     "01 Diaries/1726012381-OPLP.md",
     "01 Diaries/Expose wsl to the network.md",
-    "01 Diaries/1725984944-GEIH.md",
     "404 Archive/Using Cygwin for your Windows Development Environment.md",
     "01 Diaries/Using Cygwin for your Windows Development Environment.md",
     "02 Misc/Great WebUI's for Inspiration.md",
