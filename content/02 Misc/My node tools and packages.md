@@ -1,13 +1,12 @@
 ---
 id: My node tools and packages
-aliases: 
+aliases: []
 tags:
   - node
   - tools
   - programming
-title: My Node Tools and packages
 ---
-# `= this.file.frontmatter.title`
+
 ## Tools
 
 - [alias-hq](https://www.npmjs.com/package/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases.

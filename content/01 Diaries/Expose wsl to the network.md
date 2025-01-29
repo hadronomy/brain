@@ -9,7 +9,6 @@ tags:
   - docs
 title: Expose wsl to the network
 ---
-# `= this.file.frontmatter.title`
 
 <!--toc:start-->
 

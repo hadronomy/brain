@@ -1,13 +1,11 @@
 ---
 id: My rust tools and crates
-aliases: 
+aliases: []
 tags:
   - rust
   - tools
   - programming
-title: My rust tools and crates
 ---
-# `= this.file.frontmatter.title`
 
 ## Cargo Plugins `cargo-whatever`
 

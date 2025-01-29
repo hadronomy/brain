@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Zettelkasten/1726445784-WLSF.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1726445784-WLSF"
+              "title": "Expose wsl to the network"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Zettelkasten/1726445784-WLSF.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1726445784-WLSF"
+              "title": "Backlinks for Expose wsl to the network"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Zettelkasten/1726445784-WLSF.md",
+                "file": "01 Diaries/Expose wsl to the network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1726445784-WLSF"
+              "title": "Outgoing links from Expose wsl to the network"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Zettelkasten/1726445784-WLSF.md"
+                "file": "01 Diaries/Expose wsl to the network.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1726445784-WLSF"
+              "title": "Outline of Expose wsl to the network"
             }
           },
           {
@@ -196,6 +196,20 @@
   },
   "active": "28b1379b7b4ae2f6",
   "lastOpenFiles": [
+    "01 Diaries/1725984944-GEIH.md",
+    "01 Diaries/1726012381-OPLP.md",
+    "01 Diaries/1731970480-MDBC.md",
+    "01 Diaries/Expose wsl to the network.md",
+    "02 Misc/1726314147-FOBK.md",
+    "02 Misc/1726531648-VYLU.md",
+    "02 Misc/1726531671-RZKP.md",
+    "02 Misc/Great WebUI's for Inspiration.md",
+    "02 Misc/My node tools and packages.md",
+    "02 Misc/My rust tools and crates.md",
+    "03 Zettelkasten/1726446424-ENBU.md",
+    "03 Zettelkasten/1726532024-WDZM.md",
+    "03 Zettelkasten/1726446012-PDWC.md",
+    "03 Zettelkasten/1726445784-WLSF.md",
     "03 Zettelkasten/1726253164-APQB.md",
     "03 Zettelkasten/1726250893-CMKY.md",
     "03 Zettelkasten/1726250641-KMUS.md",
@@ -208,20 +222,6 @@
     "06 Obsidian/Notetaking in Obsidian.md",
     "06 Obsidian/Backup Obsidian Using Git.md",
     "04 Personal/Main Kanban.md",
-    "03 Zettelkasten/Singletons in C++.md",
-    "03 Zettelkasten/Templates in C++.md",
-    "03 Zettelkasten/Keep ssh-agent running in servers.md",
-    "03 Zettelkasten/Rust Macros.md",
-    "03 Zettelkasten/Rust workspaces.md",
-    "03 Zettelkasten/1726532024-WDZM.md",
-    "03 Zettelkasten/1726446424-ENBU.md",
-    "03 Zettelkasten/1726446012-PDWC.md",
-    "03 Zettelkasten/1726445784-WLSF.md",
-    "02 Misc/My rust tools and crates.md",
-    "02 Misc/My node tools and packages.md",
-    "02 Misc/Great WebUI's for Inspiration.md",
-    "02 Misc/1726531671-RZKP.md",
-    "02 Misc/1726531648-VYLU.md",
     "https",
     "09 Files/images/tempo.pngZone.Identifier",
     "09 Files/images/tempo.png",

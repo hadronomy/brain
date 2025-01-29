@@ -1,13 +1,11 @@
 ---
 id: Great WebUI's for Inspiration
-aliases: 
+aliases: []
 tags:
   - web
   - inspiration
   - programming
-title: Great WebUI's for Inspiration
 ---
-# `= this.file.frontmatter.title`
 
 ## List
 
