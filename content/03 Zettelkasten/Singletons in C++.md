@@ -1,11 +1,13 @@
 ---
 id: Singletons in C++
-aliases: []
+aliases: 
 tags:
   - programming
   - cpp
   - design-pattern
+title: Singletons in C++
 ---
+# `= this.file.frontmatter.title`
 
 ## Example
 
