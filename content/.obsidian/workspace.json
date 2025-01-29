@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
-                "mode": "preview",
+                "file": "02 Misc/1726314147-FOBK.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expose wsl to the network"
+              "title": "1726314147-FOBK"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
+                "file": "02 Misc/1726314147-FOBK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Expose wsl to the network"
+              "title": "Backlinks for 1726314147-FOBK"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md",
+                "file": "02 Misc/1726314147-FOBK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Expose wsl to the network"
+              "title": "Outgoing links from 1726314147-FOBK"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Diaries/Expose wsl to the network.md"
+                "file": "02 Misc/1726314147-FOBK.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Expose wsl to the network"
+              "title": "Outline of 1726314147-FOBK"
             }
           },
           {
@@ -196,11 +196,11 @@
   },
   "active": "28b1379b7b4ae2f6",
   "lastOpenFiles": [
-    "01 Diaries/1731970480-MDBC.md",
-    "01 Diaries/1726012381-OPLP.md",
     "01 Diaries/1725984944-GEIH.md",
-    "02 Misc/1726314147-FOBK.md",
+    "01 Diaries/1726012381-OPLP.md",
+    "01 Diaries/1731970480-MDBC.md",
     "01 Diaries/Expose wsl to the network.md",
+    "02 Misc/1726314147-FOBK.md",
     "03 Zettelkasten/Keep ssh-agent running in servers.md",
     "03 Zettelkasten/1726446012-PDWC.md",
     "02 Misc/My rust tools and crates.md",
